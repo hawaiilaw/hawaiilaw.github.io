@@ -1218,7 +1218,7 @@ body {
 #content-area {
   flex: 1;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   overflow: hidden;
 }
 
@@ -1256,6 +1256,78 @@ body {
   height: 3px;
   background: var(--accent);
   margin-bottom: 16px;
+}
+
+/* highlight panel -- right-side resizable panel */
+.highlight-panel {
+  position: relative;
+  width: 280px;
+  min-width: 180px;
+  max-width: 520px;
+  flex-shrink: 0;
+  background: #f9fafc;
+  border-left: 1px solid var(--sidebar-border);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  transition: width 0.0s;
+}
+
+.highlight-panel:not(.open) {
+  width: 28px;
+  min-width: 28px;
+}
+
+.highlight-panel:not(.open) .highlight-panel-inner {
+  display: none;
+}
+
+.highlight-panel-tab {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  transform: rotate(180deg);
+  cursor: pointer;
+  background: var(--accent);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 12px 7px;
+  user-select: none;
+  flex-shrink: 0;
+  align-self: flex-start;
+  border-radius: 0 0 4px 4px;
+}
+
+.highlight-panel-tab:hover {
+  background: var(--accent-dark);
+}
+
+.highlight-panel.open .highlight-panel-tab {
+  align-self: stretch;
+  border-radius: 0;
+  writing-mode: horizontal-tb;
+  transform: none;
+  text-align: center;
+  padding: 7px 10px;
+  font-size: 12px;
+}
+
+/* drag handle on left edge of panel */
+.highlight-panel-resize {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  width: 8px;
+  height: 100%;
+  cursor: col-resize;
+  z-index: 10;
+  background: transparent;
+}
+
+.highlight-panel-resize:hover {
+  background: rgba(26,111,196,0.15);
 }
 
 /* highlight panel inner wrapper */
@@ -1436,40 +1508,41 @@ body {
 </div>
 
 <div id="content-area">
-  <div class="highlight-panel open" id="highlight-panel">
-<div class="highlight-panel-tab" onclick="
-    var p = document.getElementById('highlight-panel');
-    p.classList.toggle('open');
-  ">Highlight</div>
-<div class="highlight-panel-inner">
-<div class="highlight-panel-title-row">
-<h3>Text Highlighting</h3>
-<label class="hl-toggle-label" title="Enable/disable all highlights">
-<input checked="" id="hl-toggle" onchange="toggleHighlightVisibility(this.checked)" type="checkbox"/>
-        On
-      </label>
-</div>
-<div class="current-highlight">
-<label>Active Highlights</label>
-<div id="current-highlighted-text">
-<ul id="highlight-list"></ul>
-</div>
-</div>
-<form class="full" onsubmit="return false;">
-<label for="texthighlight">Text to Highlight</label>
-<input id="texthighlight" onkeydown="if(event.key==='Enter'){applyHighlightAndAdvance();}" type="text"/>
-<label for="highlightcolor">Color</label>
-<div class="clr-field" style="color: #ffff00;">
-<button aria-labelledby="highlightcolor" type="button"></button>
-<input data-coloris="" id="highlightcolor" type="text" value="#ffff00"/>
-</div>
-<button class="apply-highlight-btn" onclick="applyHighlightAndAdvance()" type="button">Apply Highlighting</button>
-</form>
-</div>
-</div>
   <div id="main">
     <div id="main-inner">
       <div id="empty-msg">Check sections on the left to load them.</div>
+    </div>
+  </div>
+  <div class="highlight-panel open" id="highlight-panel">
+    <div class="highlight-panel-resize" id="highlight-panel-resize"></div>
+    <div class="highlight-panel-tab" onclick="
+      var p = document.getElementById('highlight-panel');
+      p.classList.toggle('open');
+    ">Highlight</div>
+    <div class="highlight-panel-inner">
+      <div class="highlight-panel-title-row">
+        <h3>Text Highlighting</h3>
+        <label class="hl-toggle-label" title="Enable/disable all highlights">
+          <input checked="" id="hl-toggle" onchange="toggleHighlightVisibility(this.checked)" type="checkbox"/>
+          On
+        </label>
+      </div>
+      <div class="current-highlight">
+        <label>Active Highlights</label>
+        <div id="current-highlighted-text">
+          <ul id="highlight-list"></ul>
+        </div>
+      </div>
+      <form class="full" onsubmit="return false;">
+        <label for="texthighlight">Text to Highlight</label>
+        <input id="texthighlight" onkeydown="if(event.key==='Enter'){applyHighlightAndAdvance();}" type="text"/>
+        <label for="highlightcolor">Color</label>
+        <div class="clr-field" style="color: #ffff00;">
+          <button aria-labelledby="highlightcolor" type="button"></button>
+          <input data-coloris="" id="highlightcolor" type="text" value="#ffff00"/>
+        </div>
+        <button class="apply-highlight-btn" onclick="applyHighlightAndAdvance()" type="button">Apply Highlighting</button>
+      </form>
     </div>
   </div>
 </div>
@@ -3224,6 +3297,50 @@ function initLazyImages(root) {
   try {
     var saved = localStorage.getItem('ord-sidebar-width');
     if (saved) { sidebar.style.width = parseInt(saved) + 'px'; }
+  } catch(e) {}
+})();
+</script>
+
+<script>
+(function() {
+  var panel    = document.getElementById('highlight-panel');
+  var handle   = document.getElementById('highlight-panel-resize');
+  var dragging = false;
+  var startX   = 0;
+  var startW   = 0;
+
+  handle.addEventListener('mousedown', function(e) {
+    if (!panel.classList.contains('open')) { return; }
+    dragging = true;
+    startX   = e.clientX;
+    startW   = panel.offsetWidth;
+    document.body.style.cursor     = 'col-resize';
+    document.body.style.userSelect = 'none';
+    e.preventDefault();
+  });
+
+  document.addEventListener('mousemove', function(e) {
+    if (!dragging) { return; }
+    // panel is on the right -- drag left = wider
+    var delta = startX - e.clientX;
+    var newW  = Math.max(180, Math.min(520, startW + delta));
+    panel.style.width = newW + 'px';
+  });
+
+  document.addEventListener('mouseup', function() {
+    if (!dragging) { return; }
+    dragging = false;
+    document.body.style.cursor     = '';
+    document.body.style.userSelect = '';
+    try { localStorage.setItem('ord-highlight-panel-width', panel.offsetWidth); } catch(e) {}
+  });
+
+  // restore saved width
+  try {
+    var saved = localStorage.getItem('ord-highlight-panel-width');
+    if (saved && panel.classList.contains('open')) {
+      panel.style.width = parseInt(saved) + 'px';
+    }
   } catch(e) {}
 })();
 </script>
