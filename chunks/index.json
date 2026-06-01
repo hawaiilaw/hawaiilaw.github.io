@@ -1,0 +1,4268 @@
+{
+  "supplement": "10, 12-2025, through Ordinance No. 25-56",
+  "titles": [
+    {
+      "titleLabel": "Revised Ordinances of Honolulu",
+      "chapters": [
+        {
+          "chapterLabel": "Preface",
+          "articles": [
+            {
+              "id": "ch-001",
+              "filename": "ch-001-preface-int-preface-introduction.html",
+              "shortLabel": "PREFACE: Int",
+              "title": "Preface: Introduction",
+              "rawTitle": "PREFACE: Introduction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleLabel": "TITLE I: ADMINISTRATION",
+      "chapters": [
+        {
+          "chapterLabel": "CHAPTER 1: GENERAL PROVISIONS",
+          "articles": [
+            {
+              "id": "ch-002",
+              "filename": "ch-002-1-1-title-of-volume.html",
+              "shortLabel": "1-1",
+              "title": "Title of Volume",
+              "rawTitle": "ARTICLE 1: TITLE OF VOLUME"
+            },
+            {
+              "id": "ch-003",
+              "filename": "ch-003-1-2-construction-of-ordinances.html",
+              "shortLabel": "1-2",
+              "title": "Construction of Ordinances",
+              "rawTitle": "ARTICLE 2: CONSTRUCTION OF ORDINANCES"
+            },
+            {
+              "id": "ch-004",
+              "filename": "ch-004-1-3-penalties-and-interest.html",
+              "shortLabel": "1-3",
+              "title": "Penalties and Interest",
+              "rawTitle": "ARTICLE 3: PENALTIES AND INTEREST"
+            },
+            {
+              "id": "ch-005",
+              "filename": "ch-005-1-4-definitions.html",
+              "shortLabel": "1-4",
+              "title": "Definitions",
+              "rawTitle": "ARTICLE 4: DEFINITIONS"
+            },
+            {
+              "id": "ch-006",
+              "filename": "ch-006-1-5-repeal-of-resolutions-or-ordinances.html",
+              "shortLabel": "1-5",
+              "title": "Repeal of Resolutions or Ordinances",
+              "rawTitle": "ARTICLE 5: REPEAL OF RESOLUTIONS OR ORDINANCES"
+            },
+            {
+              "id": "ch-007",
+              "filename": "ch-007-1-6-severability.html",
+              "shortLabel": "1-6",
+              "title": "Severability",
+              "rawTitle": "ARTICLE 6: SEVERABILITY"
+            },
+            {
+              "id": "ch-008",
+              "filename": "ch-008-1-7-continuity-in-government.html",
+              "shortLabel": "1-7",
+              "title": "Continuity in Government",
+              "rawTitle": "ARTICLE 7: CONTINUITY IN GOVERNMENT"
+            },
+            {
+              "id": "ch-009",
+              "filename": "ch-009-1-8-intergovernmental-agreements-and-private-grant-agreement.html",
+              "shortLabel": "1-8",
+              "title": "Intergovernmental Agreements and Private Grant Agreements",
+              "rawTitle": "ARTICLE 8: INTERGOVERNMENTAL AGREEMENTS AND PRIVATE GRANT AGREEMENTS"
+            },
+            {
+              "id": "ch-010",
+              "filename": "ch-010-1-9-authority-of-executive-agency-to-adopt-rules.html",
+              "shortLabel": "1-9",
+              "title": "Authority of Executive Agency to Adopt Rules",
+              "rawTitle": "ARTICLE 9: AUTHORITY OF EXECUTIVE AGENCY TO ADOPT RULES"
+            },
+            {
+              "id": "ch-011",
+              "filename": "ch-011-1-10-limitation-of-service-on-county-boards-and-commissions.html",
+              "shortLabel": "1-10",
+              "title": "Limitation of Service on County Boards and Commissions",
+              "rawTitle": "ARTICLE 10: LIMITATION OF SERVICE ON COUNTY BOARDS AND COMMISSIONS"
+            },
+            {
+              "id": "ch-012",
+              "filename": "ch-012-1-11-nondiscrimination-policy.html",
+              "shortLabel": "1-11",
+              "title": "Nondiscrimination Policy",
+              "rawTitle": "ARTICLE 11: NONDISCRIMINATION POLICY"
+            },
+            {
+              "id": "ch-013",
+              "filename": "ch-013-1-12-purchase-of-recycled-paper-products.html",
+              "shortLabel": "1-12",
+              "title": "Purchase of Recycled Paper Products",
+              "rawTitle": "ARTICLE 12: PURCHASE OF RECYCLED PAPER PRODUCTS"
+            },
+            {
+              "id": "ch-014",
+              "filename": "ch-014-1-13-seal-and-motto-of-the-department-of-the-prosecuting-att.html",
+              "shortLabel": "1-13",
+              "title": "Seal and Motto of the Department of the Prosecuting Attorney",
+              "rawTitle": "ARTICLE 13: SEAL AND MOTTO OF THE DEPARTMENT OF THE PROSECUTING ATTORNEY"
+            },
+            {
+              "id": "ch-015",
+              "filename": "ch-015-1-14-personal-names-on-signs-relating-to-public-projects-and.html",
+              "shortLabel": "1-14",
+              "title": "Personal Names on Signs Relating to Public Projects and Governmental Activities",
+              "rawTitle": "ARTICLE 14: PERSONAL NAMES ON SIGNS RELATING TO PUBLIC PROJECTS AND GOVERNMENTAL ACTIVITIES"
+            },
+            {
+              "id": "ch-016",
+              "filename": "ch-016-1-15-online-access-to-city-forms.html",
+              "shortLabel": "1-15",
+              "title": "Online Access to City Forms",
+              "rawTitle": "ARTICLE 15: ONLINE ACCESS TO CITY FORMS"
+            },
+            {
+              "id": "ch-017",
+              "filename": "ch-017-1-16-codification-of-ordinances.html",
+              "shortLabel": "1-16",
+              "title": "Codification of Ordinances",
+              "rawTitle": "ARTICLE 16: CODIFICATION OF ORDINANCES"
+            },
+            {
+              "id": "ch-018",
+              "filename": "ch-018-1-17-sexual-harassment-policy-for-city-officer-or-employee.html",
+              "shortLabel": "1-17",
+              "title": "Sexual Harassment Policy for City Officer or Employee",
+              "rawTitle": "ARTICLE 17: SEXUAL HARASSMENT POLICY FOR CITY OFFICER OR EMPLOYEE"
+            },
+            {
+              "id": "ch-019",
+              "filename": "ch-019-1-18-sexual-harassment-policy-for-employer-having-a-contract.html",
+              "shortLabel": "1-18",
+              "title": "Sexual Harassment Policy for Employer Having a Contract With the City",
+              "rawTitle": "ARTICLE 18: SEXUAL HARASSMENT POLICY FOR EMPLOYER HAVING A CONTRACT WITH THE CITY"
+            },
+            {
+              "id": "ch-020",
+              "filename": "ch-020-1-19-additional-standards-of-conduct.html",
+              "shortLabel": "1-19",
+              "title": "Additional Standards of Conduct",
+              "rawTitle": "ARTICLE 19: ADDITIONAL STANDARDS OF CONDUCT"
+            },
+            {
+              "id": "ch-021",
+              "filename": "ch-021-1-20-drug-and-alcohol-abuse-training-program.html",
+              "shortLabel": "1-20",
+              "title": "Drug and Alcohol Abuse Training Program",
+              "rawTitle": "ARTICLE 20: DRUG AND ALCOHOL ABUSE TRAINING PROGRAM"
+            },
+            {
+              "id": "ch-022",
+              "filename": "ch-022-1-21-city-advertisements.html",
+              "shortLabel": "1-21",
+              "title": "City Advertisements",
+              "rawTitle": "ARTICLE 21: CITY ADVERTISEMENTS"
+            },
+            {
+              "id": "ch-023",
+              "filename": "ch-023-1-22-hawaiian-language-signs-of-the-city-and-county-of-honol.html",
+              "shortLabel": "1-22",
+              "title": "Hawaiian Language Signs of the City and County of Honolulu",
+              "rawTitle": "ARTICLE 22: HAWAIIAN LANGUAGE SIGNS OF THE CITY AND COUNTY OF HONOLULU"
+            },
+            {
+              "id": "ch-024",
+              "filename": "ch-024-1-23-city-seal.html",
+              "shortLabel": "1-23",
+              "title": "City Seal",
+              "rawTitle": "ARTICLE 23: CITY SEAL"
+            },
+            {
+              "id": "ch-025",
+              "filename": "ch-025-1-24-public-records.html",
+              "shortLabel": "1-24",
+              "title": "Public Records",
+              "rawTitle": "ARTICLE 24: PUBLIC RECORDS"
+            },
+            {
+              "id": "ch-026",
+              "filename": "ch-026-1-25-commemorations-and-celebrations.html",
+              "shortLabel": "1-25",
+              "title": "Commemorations and Celebrations",
+              "rawTitle": "ARTICLE 25: COMMEMORATIONS AND CELEBRATIONS"
+            },
+            {
+              "id": "ch-027",
+              "filename": "ch-027-1-26-anti-bias-and-inclusion-policy.html",
+              "shortLabel": "1-26",
+              "title": "Anti-bias and Inclusion Policy",
+              "rawTitle": "ARTICLE 26: ANTI-BIAS AND INCLUSION POLICY"
+            },
+            {
+              "id": "ch-028",
+              "filename": "ch-028-1-27-purple-heart-city.html",
+              "shortLabel": "1-27",
+              "title": "Purple Heart City",
+              "rawTitle": "ARTICLE 27: PURPLE HEART CITY"
+            },
+            {
+              "id": "ch-029",
+              "filename": "ch-029-1-28-resident-preference-in-city-housing-programs.html",
+              "shortLabel": "1-28",
+              "title": "Resident Preference in City Housing Programs",
+              "rawTitle": "ARTICLE 28: RESIDENT PREFERENCE IN CITY HOUSING PROGRAMS"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 2: THE MAYOR AND EXECUTIVE AGENCIES - ADDITIONAL POWERS, DUTIES, AND FUNCTIONS",
+          "articles": [
+            {
+              "id": "ch-030",
+              "filename": "ch-030-2-1-mayor.html",
+              "shortLabel": "2-1",
+              "title": "Mayor*",
+              "rawTitle": "ARTICLE 1: MAYOR*"
+            },
+            {
+              "id": "ch-031",
+              "filename": "ch-031-2-2-officers.html",
+              "shortLabel": "2-2",
+              "title": "Officers*",
+              "rawTitle": "ARTICLE 2: OFFICERS*"
+            },
+            {
+              "id": "ch-032",
+              "filename": "ch-032-2-3-corporation-counsel.html",
+              "shortLabel": "2-3",
+              "title": "Corporation Counsel*",
+              "rawTitle": "ARTICLE 3: CORPORATION COUNSEL*"
+            },
+            {
+              "id": "ch-033",
+              "filename": "ch-033-2-4-department-of-budget-and-fiscal-services.html",
+              "shortLabel": "2-4",
+              "title": "Department of Budget and Fiscal Services*",
+              "rawTitle": "ARTICLE 4: DEPARTMENT OF BUDGET AND FISCAL SERVICES*"
+            },
+            {
+              "id": "ch-034",
+              "filename": "ch-034-2-5-risk-management.html",
+              "shortLabel": "2-5",
+              "title": "Risk Management",
+              "rawTitle": "ARTICLE 5: RISK MANAGEMENT"
+            },
+            {
+              "id": "ch-035",
+              "filename": "ch-035-2-6-department-of-human-resources.html",
+              "shortLabel": "2-6",
+              "title": "Department of Human Resources*",
+              "rawTitle": "ARTICLE 6: DEPARTMENT OF HUMAN RESOURCES*"
+            },
+            {
+              "id": "ch-036",
+              "filename": "ch-036-2-7-department-of-information-technology.html",
+              "shortLabel": "2-7",
+              "title": "Department of Information Technology*",
+              "rawTitle": "ARTICLE 7: DEPARTMENT OF INFORMATION TECHNOLOGY*"
+            },
+            {
+              "id": "ch-037",
+              "filename": "ch-037-2-8-department-of-facility-maintenance.html",
+              "shortLabel": "2-8",
+              "title": "Department of Facility Maintenance*",
+              "rawTitle": "ARTICLE 8: DEPARTMENT OF FACILITY MAINTENANCE*"
+            },
+            {
+              "id": "ch-038",
+              "filename": "ch-038-2-9-department-of-ocean-safety.html",
+              "shortLabel": "2-9",
+              "title": "Department of Ocean Safety",
+              "rawTitle": "ARTICLE 9: DEPARTMENT OF OCEAN SAFETY"
+            },
+            {
+              "id": "ch-039",
+              "filename": "ch-039-2-10-office-of-climate-change-sustainability-and-resiliency.html",
+              "shortLabel": "2-10",
+              "title": "Office of Climate Change, Sustainability and Resiliency",
+              "rawTitle": "ARTICLE 10: OFFICE OF CLIMATE CHANGE, SUSTAINABILITY AND RESILIENCY"
+            },
+            {
+              "id": "ch-040",
+              "filename": "ch-040-2-11-fire-department.html",
+              "shortLabel": "2-11",
+              "title": "Fire Department*",
+              "rawTitle": "ARTICLE 11: FIRE DEPARTMENT*"
+            },
+            {
+              "id": "ch-041",
+              "filename": "ch-041-2-12-department-of-transportation-services.html",
+              "shortLabel": "2-12",
+              "title": "Department of Transportation Services*",
+              "rawTitle": "ARTICLE 12: DEPARTMENT OF TRANSPORTATION SERVICES*"
+            },
+            {
+              "id": "ch-042",
+              "filename": "ch-042-2-13-department-of-enterprise-services.html",
+              "shortLabel": "2-13",
+              "title": "Department of Enterprise Services*",
+              "rawTitle": "ARTICLE 13: DEPARTMENT OF ENTERPRISE SERVICES*"
+            },
+            {
+              "id": "ch-043",
+              "filename": "ch-043-2-14-reserved.html",
+              "shortLabel": "2-14",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 14: RESERVED"
+            },
+            {
+              "id": "ch-044",
+              "filename": "ch-044-2-15-royal-hawaiian-band.html",
+              "shortLabel": "2-15",
+              "title": "Royal Hawaiian Band*",
+              "rawTitle": "ARTICLE 15: ROYAL HAWAIIAN BAND*"
+            },
+            {
+              "id": "ch-045",
+              "filename": "ch-045-2-16-department-of-parks-and-recreation.html",
+              "shortLabel": "2-16",
+              "title": "Department of Parks and Recreation",
+              "rawTitle": "ARTICLE 16: DEPARTMENT OF PARKS AND RECREATION"
+            },
+            {
+              "id": "ch-046",
+              "filename": "ch-046-2-17-execution-of-executive-operating-budget-and-executive-c.html",
+              "shortLabel": "2-17",
+              "title": "Execution of Executive Operating Budget and Executive Capital Budget Ordinances",
+              "rawTitle": "ARTICLE 17: EXECUTION OF EXECUTIVE OPERATING BUDGET AND EXECUTIVE CAPITAL BUDGET ORDINANCES"
+            },
+            {
+              "id": "ch-047",
+              "filename": "ch-047-2-18-form-of-executive-operating-budget-and-executive-capita.html",
+              "shortLabel": "2-18",
+              "title": "Form of Executive Operating Budget and Executive Capital Budget Bills",
+              "rawTitle": "ARTICLE 18: FORM OF EXECUTIVE OPERATING BUDGET AND EXECUTIVE CAPITAL BUDGET BILLS"
+            },
+            {
+              "id": "ch-048",
+              "filename": "ch-048-2-19-executive-branch-open-data-strategic-data-usage-and-rep.html",
+              "shortLabel": "2-19",
+              "title": "Executive Branch Open Data, Strategic Data Usage, and Reporting Requirements",
+              "rawTitle": "ARTICLE 19: EXECUTIVE BRANCH OPEN DATA, STRATEGIC DATA USAGE, AND REPORTING REQUIREMENTS"
+            },
+            {
+              "id": "ch-049",
+              "filename": "ch-049-2-20-reserved.html",
+              "shortLabel": "2-20",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 20: RESERVED"
+            },
+            {
+              "id": "ch-050",
+              "filename": "ch-050-2-21-department-of-customer-services.html",
+              "shortLabel": "2-21",
+              "title": "Department of Customer Services",
+              "rawTitle": "ARTICLE 21: DEPARTMENT OF CUSTOMER SERVICES"
+            },
+            {
+              "id": "ch-051",
+              "filename": "ch-051-2-22-age-friendly-city-program.html",
+              "shortLabel": "2-22",
+              "title": "Age-friendly City Program",
+              "rawTitle": "ARTICLE 22: AGE-FRIENDLY CITY PROGRAM"
+            },
+            {
+              "id": "ch-052",
+              "filename": "ch-052-2-23-department-of-environmental-services.html",
+              "shortLabel": "2-23",
+              "title": "Department of Environmental Services",
+              "rawTitle": "ARTICLE 23: DEPARTMENT OF ENVIRONMENTAL SERVICES"
+            },
+            {
+              "id": "ch-053",
+              "filename": "ch-053-2-24-department-of-planning-and-permitting.html",
+              "shortLabel": "2-24",
+              "title": "Department of Planning and Permitting",
+              "rawTitle": "ARTICLE 24: DEPARTMENT OF PLANNING AND PERMITTING"
+            },
+            {
+              "id": "ch-054",
+              "filename": "ch-054-2-25-department-of-emergency-management.html",
+              "shortLabel": "2-25",
+              "title": "Department of Emergency Management*",
+              "rawTitle": "ARTICLE 25: DEPARTMENT OF EMERGENCY MANAGEMENT*"
+            },
+            {
+              "id": "ch-055",
+              "filename": "ch-055-2-25a-control-of-and-evacuation-from-disaster-areas-during-p.html",
+              "shortLabel": "2-25A",
+              "title": "Control of and Evacuation From Disaster Areas During Potential Disasters",
+              "rawTitle": "ARTICLE 25A: CONTROL OF AND EVACUATION FROM DISASTER AREAS DURING POTENTIAL DISASTERS"
+            },
+            {
+              "id": "ch-056",
+              "filename": "ch-056-2-26-employment-of-private-attorneys-as-special-counsel-to-r.html",
+              "shortLabel": "2-26",
+              "title": "Employment of Private Attorneys as Special Counsel to Represent the City, Its Agencies, Officers, and Employees",
+              "rawTitle": "ARTICLE 26: EMPLOYMENT OF PRIVATE ATTORNEYS AS SPECIAL COUNSEL TO REPRESENT THE CITY, ITS AGENCIES, OFFICERS, AND EMPLOYEES"
+            },
+            {
+              "id": "ch-057",
+              "filename": "ch-057-2-27-volunteer-services-program.html",
+              "shortLabel": "2-27",
+              "title": "Volunteer Services Program",
+              "rawTitle": "ARTICLE 27: VOLUNTEER SERVICES PROGRAM"
+            },
+            {
+              "id": "ch-058",
+              "filename": "ch-058-2-28-prohibition-on-take-home-use-of-city-motor-vehicle-by-e.html",
+              "shortLabel": "2-28",
+              "title": "Prohibition on Take-home Use of City Motor Vehicle by Executive Agency Head or Deputy Head",
+              "rawTitle": "ARTICLE 28: PROHIBITION ON TAKE-HOME USE OF CITY MOTOR VEHICLE BY EXECUTIVE AGENCY HEAD OR DEPUTY HEAD"
+            },
+            {
+              "id": "ch-059",
+              "filename": "ch-059-2-29-department-of-community-services.html",
+              "shortLabel": "2-29",
+              "title": "Department of Community Services",
+              "rawTitle": "ARTICLE 29: DEPARTMENT OF COMMUNITY SERVICES"
+            },
+            {
+              "id": "ch-060",
+              "filename": "ch-060-2-30-personal-services-contracts.html",
+              "shortLabel": "2-30",
+              "title": "Personal Services Contracts",
+              "rawTitle": "ARTICLE 30: PERSONAL SERVICES CONTRACTS"
+            },
+            {
+              "id": "ch-061",
+              "filename": "ch-061-2-31-seals-and-logotypes-of-executive-agencies.html",
+              "shortLabel": "2-31",
+              "title": "Seals and Logotypes of Executive Agencies",
+              "rawTitle": "ARTICLE 31: SEALS AND LOGOTYPES OF EXECUTIVE AGENCIES"
+            },
+            {
+              "id": "ch-062",
+              "filename": "ch-062-2-32-city-video-monitoring-of-public-activity.html",
+              "shortLabel": "2-32",
+              "title": "City Video Monitoring of Public Activity",
+              "rawTitle": "ARTICLE 32: CITY VIDEO MONITORING OF PUBLIC ACTIVITY"
+            },
+            {
+              "id": "ch-063",
+              "filename": "ch-063-2-33-reserved.html",
+              "shortLabel": "2-33",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 33: RESERVED"
+            },
+            {
+              "id": "ch-064",
+              "filename": "ch-064-2-34-biodiesel-or-renewable-fuel-converted-from-commercial-f.html",
+              "shortLabel": "2-34",
+              "title": "Biodiesel or Renewable Fuel Converted From Commercial Fog Waste or Commercial Cooking Oil Waste",
+              "rawTitle": "ARTICLE 34: BIODIESEL OR RENEWABLE FUEL CONVERTED FROM COMMERCIAL FOG WASTE OR COMMERCIAL COOKING OIL WASTE"
+            },
+            {
+              "id": "ch-065",
+              "filename": "ch-065-2-35-energy-star-products.html",
+              "shortLabel": "2-35",
+              "title": "Energy Star Products",
+              "rawTitle": "ARTICLE 35: ENERGY STAR PRODUCTS"
+            },
+            {
+              "id": "ch-066",
+              "filename": "ch-066-2-36-light-pollution.html",
+              "shortLabel": "2-36",
+              "title": "Light Pollution",
+              "rawTitle": "ARTICLE 36: LIGHT POLLUTION"
+            },
+            {
+              "id": "ch-067",
+              "filename": "ch-067-2-37-zoo-sponsorship-program.html",
+              "shortLabel": "2-37",
+              "title": "Zoo Sponsorship Program",
+              "rawTitle": "ARTICLE 37: ZOO SPONSORSHIP PROGRAM"
+            },
+            {
+              "id": "ch-068",
+              "filename": "ch-068-2-38-solar-photovoltaic-systems.html",
+              "shortLabel": "2-38",
+              "title": "Solar Photovoltaic Systems",
+              "rawTitle": "ARTICLE 38: SOLAR PHOTOVOLTAIC SYSTEMS"
+            },
+            {
+              "id": "ch-069",
+              "filename": "ch-069-2-39-department-of-design-and-construction.html",
+              "shortLabel": "2-39",
+              "title": "Department of Design and Construction",
+              "rawTitle": "ARTICLE 39: DEPARTMENT OF DESIGN AND CONSTRUCTION"
+            },
+            {
+              "id": "ch-070",
+              "filename": "ch-070-2-40-reserved.html",
+              "shortLabel": "2-40",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 40: RESERVED"
+            },
+            {
+              "id": "ch-071",
+              "filename": "ch-071-2-41-enforcement-of-water-safety-rules-by-lifeguards.html",
+              "shortLabel": "2-41",
+              "title": "Enforcement of Water Safety Rules by Lifeguards",
+              "rawTitle": "ARTICLE 41: ENFORCEMENT OF WATER SAFETY RULES BY LIFEGUARDS"
+            },
+            {
+              "id": "ch-072",
+              "filename": "ch-072-2-42-community-workforce-agreements.html",
+              "shortLabel": "2-42",
+              "title": "Community Workforce Agreements",
+              "rawTitle": "ARTICLE 42: COMMUNITY WORKFORCE AGREEMENTS"
+            },
+            {
+              "id": "ch-073",
+              "filename": "ch-073-2-43-keep-hawaii-hawaii-promise-to-our-keiki-pledge.html",
+              "shortLabel": "2-43",
+              "title": "“keep Hawaii Hawaii - Promise to Our Keiki Pledge”",
+              "rawTitle": "ARTICLE 43: “KEEP HAWAII HAWAII - PROMISE TO OUR KEIKI PLEDGE”"
+            },
+            {
+              "id": "ch-074",
+              "filename": "ch-074-2-44-bullying-of-youth-prohibited.html",
+              "shortLabel": "2-44",
+              "title": "Bullying of Youth Prohibited",
+              "rawTitle": "ARTICLE 44: BULLYING OF YOUTH PROHIBITED"
+            },
+            {
+              "id": "ch-075",
+              "filename": "ch-075-2-45-reporting-requirements.html",
+              "shortLabel": "2-45",
+              "title": "Reporting Requirements",
+              "rawTitle": "ARTICLE 45: REPORTING REQUIREMENTS"
+            },
+            {
+              "id": "ch-076",
+              "filename": "ch-076-2-46-commercial-property-assessed-financing-program.html",
+              "shortLabel": "2-46",
+              "title": "Commercial Property Assessed Financing Program",
+              "rawTitle": "ARTICLE 46: COMMERCIAL PROPERTY ASSESSED FINANCING PROGRAM"
+            },
+            {
+              "id": "ch-077",
+              "filename": "ch-077-2-47-sponsorship-of-city-assets.html",
+              "shortLabel": "2-47",
+              "title": "Sponsorship of City Assets",
+              "rawTitle": "ARTICLE 47: SPONSORSHIP OF CITY ASSETS"
+            },
+            {
+              "id": "ch-078",
+              "filename": "ch-078-2-48-access-to-certain-honolulu-police-department-informatio.html",
+              "shortLabel": "2-48",
+              "title": "Access to Certain Honolulu Police Department Information",
+              "rawTitle": "ARTICLE 48: ACCESS TO CERTAIN HONOLULU POLICE DEPARTMENT INFORMATION"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 3: ADDITIONAL BOARDS, COMMISSIONS, AND COMMITTEES",
+          "articles": [
+            {
+              "id": "ch-079",
+              "filename": "ch-079-3-1-temporary-vacancies-on-boards-commissions-and-committees.html",
+              "shortLabel": "3-1",
+              "title": "Temporary Vacancies on Boards, Commissions, and Committees",
+              "rawTitle": "ARTICLE 1: TEMPORARY VACANCIES ON BOARDS, COMMISSIONS, AND COMMITTEES"
+            },
+            {
+              "id": "ch-080",
+              "filename": "ch-080-3-2-commission-on-culture-and-the-arts.html",
+              "shortLabel": "3-2",
+              "title": "Commission on Culture and the Arts",
+              "rawTitle": "ARTICLE 2: COMMISSION ON CULTURE AND THE ARTS"
+            },
+            {
+              "id": "ch-081",
+              "filename": "ch-081-3-3-reserved.html",
+              "shortLabel": "3-3",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 3: RESERVED"
+            },
+            {
+              "id": "ch-082",
+              "filename": "ch-082-3-4-reserved.html",
+              "shortLabel": "3-4",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 4: RESERVED"
+            },
+            {
+              "id": "ch-083",
+              "filename": "ch-083-3-5-animal-control.html",
+              "shortLabel": "3-5",
+              "title": "Animal Control",
+              "rawTitle": "ARTICLE 5: ANIMAL CONTROL"
+            },
+            {
+              "id": "ch-084",
+              "filename": "ch-084-3-6-ethics-commission.html",
+              "shortLabel": "3-6",
+              "title": "Ethics Commission*",
+              "rawTitle": "ARTICLE 6: ETHICS COMMISSION*"
+            },
+            {
+              "id": "ch-085",
+              "filename": "ch-085-3-7-salary-commission.html",
+              "shortLabel": "3-7",
+              "title": "Salary Commission",
+              "rawTitle": "ARTICLE 7: SALARY COMMISSION"
+            },
+            {
+              "id": "ch-086",
+              "filename": "ch-086-3-8-reserved.html",
+              "shortLabel": "3-8",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 8: RESERVED"
+            },
+            {
+              "id": "ch-087",
+              "filename": "ch-087-3-9-appointment-on-boards-commissions-and-committees.html",
+              "shortLabel": "3-9",
+              "title": "Appointment on Boards, Commissions, and Committees",
+              "rawTitle": "ARTICLE 9: APPOINTMENT ON BOARDS, COMMISSIONS, AND COMMITTEES"
+            },
+            {
+              "id": "ch-088",
+              "filename": "ch-088-3-10-oahu-historic-preservation-commission.html",
+              "shortLabel": "3-10",
+              "title": "Oahu Historic Preservation Commission",
+              "rawTitle": "ARTICLE 10: OAHU HISTORIC PRESERVATION COMMISSION"
+            },
+            {
+              "id": "ch-089",
+              "filename": "ch-089-3-11-rate-commission.html",
+              "shortLabel": "3-11",
+              "title": "Rate Commission",
+              "rawTitle": "ARTICLE 11: RATE COMMISSION"
+            },
+            {
+              "id": "ch-090",
+              "filename": "ch-090-3-12-sunshine-law-training.html",
+              "shortLabel": "3-12",
+              "title": "Sunshine Law Training",
+              "rawTitle": "ARTICLE 12: SUNSHINE LAW TRAINING"
+            },
+            {
+              "id": "ch-091",
+              "filename": "ch-091-3-13-registration-of-lobbyists.html",
+              "shortLabel": "3-13",
+              "title": "Registration of Lobbyists",
+              "rawTitle": "ARTICLE 13: REGISTRATION OF LOBBYISTS"
+            },
+            {
+              "id": "ch-092",
+              "filename": "ch-092-3-14-ethics-board-of-appeals.html",
+              "shortLabel": "3-14",
+              "title": "Ethics Board of Appeals",
+              "rawTitle": "ARTICLE 14: ETHICS BOARD OF APPEALS"
+            },
+            {
+              "id": "ch-093",
+              "filename": "ch-093-3-15-periodic-review-of-boards-and-commissions.html",
+              "shortLabel": "3-15",
+              "title": "Periodic Review of Boards and Commissions",
+              "rawTitle": "ARTICLE 15: PERIODIC REVIEW OF BOARDS AND COMMISSIONS"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 4: ADDITIONAL POWERS AND DUTIES OF COUNCIL AND LEGISLATIVE AGENCIES",
+          "articles": [
+            {
+              "id": "ch-094",
+              "filename": "ch-094-4-1-reserved.html",
+              "shortLabel": "4-1",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 1: RESERVED"
+            },
+            {
+              "id": "ch-095",
+              "filename": "ch-095-4-2-oahu-metropolitan-planning-organization.html",
+              "shortLabel": "4-2",
+              "title": "Oahu Metropolitan Planning Organization",
+              "rawTitle": "ARTICLE 2: OAHU METROPOLITAN PLANNING ORGANIZATION"
+            },
+            {
+              "id": "ch-096",
+              "filename": "ch-096-4-3-office-of-council-services.html",
+              "shortLabel": "4-3",
+              "title": "Office of Council Services",
+              "rawTitle": "ARTICLE 3: OFFICE OF COUNCIL SERVICES"
+            },
+            {
+              "id": "ch-097",
+              "filename": "ch-097-4-4-legislative-hearings-and-procedures.html",
+              "shortLabel": "4-4",
+              "title": "Legislative Hearings and Procedures",
+              "rawTitle": "ARTICLE 4: LEGISLATIVE HEARINGS AND PROCEDURES"
+            },
+            {
+              "id": "ch-098",
+              "filename": "ch-098-4-5-registration-of-voters-at-drivers-licensing-sites.html",
+              "shortLabel": "4-5",
+              "title": "Registration of Voters at Driver’s Licensing Sites",
+              "rawTitle": "ARTICLE 5: REGISTRATION OF VOTERS AT DRIVER’S LICENSING SITES"
+            },
+            {
+              "id": "ch-099",
+              "filename": "ch-099-4-6-services-for-deaf-and-hard-of-hearing-persons-regarding-.html",
+              "shortLabel": "4-6",
+              "title": "Services for Deaf and Hard-of-hearing Persons Regarding Council and Committee Meetings",
+              "rawTitle": "ARTICLE 6: SERVICES FOR DEAF AND HARD-OF-HEARING PERSONS REGARDING COUNCIL AND COMMITTEE MEETINGS"
+            },
+            {
+              "id": "ch-100",
+              "filename": "ch-100-4-7-report-on-status-of-anticipated-or-ongoing-collective-ba.html",
+              "shortLabel": "4-7",
+              "title": "Report on Status of Anticipated or Ongoing Collective Bargaining",
+              "rawTitle": "ARTICLE 7: REPORT ON STATUS OF ANTICIPATED OR ONGOING COLLECTIVE BARGAINING"
+            },
+            {
+              "id": "ch-101",
+              "filename": "ch-101-4-8-public-infrastructure-maps.html",
+              "shortLabel": "4-8",
+              "title": "Public Infrastructure Maps",
+              "rawTitle": "ARTICLE 8: PUBLIC INFRASTRUCTURE MAPS"
+            },
+            {
+              "id": "ch-102",
+              "filename": "ch-102-4-9-office-of-the-city-clerk.html",
+              "shortLabel": "4-9",
+              "title": "Office of the City Clerk",
+              "rawTitle": "ARTICLE 9: OFFICE OF THE CITY CLERK"
+            },
+            {
+              "id": "ch-103",
+              "filename": "ch-103-4-10-office-of-the-city-auditor.html",
+              "shortLabel": "4-10",
+              "title": "Office of the City Auditor",
+              "rawTitle": "ARTICLE 10: OFFICE OF THE CITY AUDITOR"
+            },
+            {
+              "id": "ch-104",
+              "filename": "ch-104-4-11-council-committees.html",
+              "shortLabel": "4-11",
+              "title": "Council Committees",
+              "rawTitle": "ARTICLE 11: COUNCIL COMMITTEES"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 5: SALARIES, EMPLOYMENT, AND BONDING REQUIREMENTS OF ELECTED OFFICIALS AND NON-CIVIL-SERVICE OFFICERS",
+          "articles": [
+            {
+              "id": "ch-105",
+              "filename": "ch-105-5-1-bonds-of-elected-officials-officers-and-employees.html",
+              "shortLabel": "5-1",
+              "title": "Bonds of Elected Officials, Officers, and Employees",
+              "rawTitle": "ARTICLE 1: BONDS OF ELECTED OFFICIALS, OFFICERS, AND EMPLOYEES"
+            },
+            {
+              "id": "ch-106",
+              "filename": "ch-106-5-2-pay-plan-in-the-offices-of-the-corporation-counsel-and-t.html",
+              "shortLabel": "5-2",
+              "title": "Pay Plan in the Offices of the Corporation Counsel and the Prosecuting Attorney",
+              "rawTitle": "ARTICLE 2: PAY PLAN IN THE OFFICES OF THE CORPORATION COUNSEL AND THE PROSECUTING ATTORNEY"
+            },
+            {
+              "id": "ch-107",
+              "filename": "ch-107-5-3-salaries-of-various-city-officers.html",
+              "shortLabel": "5-3",
+              "title": "Salaries of Various City Officers",
+              "rawTitle": "ARTICLE 3: SALARIES OF VARIOUS CITY OFFICERS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleLabel": "TITLE II: TAXATION AND FINANCES",
+      "chapters": [
+        {
+          "chapterLabel": "CHAPTER 6: FUNDS, FEES, AND LOAN PROGRAMS",
+          "articles": [
+            {
+              "id": "ch-108",
+              "filename": "ch-108-6-1-addition-of-unpaid-civil-fines-to-taxes-fees-or-charges-.html",
+              "shortLabel": "6-1",
+              "title": "Addition of Unpaid Civil Fines to Taxes, Fees, or Charges Collected by the City*",
+              "rawTitle": "ARTICLE 1: ADDITION OF UNPAID CIVIL FINES TO TAXES, FEES, OR CHARGES COLLECTED BY THE CITY*"
+            },
+            {
+              "id": "ch-109",
+              "filename": "ch-109-6-2-payrolls-clearance-fund.html",
+              "shortLabel": "6-2",
+              "title": "Payrolls Clearance Fund",
+              "rawTitle": "ARTICLE 2: PAYROLLS CLEARANCE FUND"
+            },
+            {
+              "id": "ch-110",
+              "filename": "ch-110-6-3-highway-fund.html",
+              "shortLabel": "6-3",
+              "title": "Highway Fund*",
+              "rawTitle": "ARTICLE 3: HIGHWAY FUND*"
+            },
+            {
+              "id": "ch-111",
+              "filename": "ch-111-6-4-treasury-trust-fund.html",
+              "shortLabel": "6-4",
+              "title": "Treasury Trust Fund",
+              "rawTitle": "ARTICLE 4: TREASURY TRUST FUND"
+            },
+            {
+              "id": "ch-112",
+              "filename": "ch-112-6-5-general-trust-fund.html",
+              "shortLabel": "6-5",
+              "title": "General Trust Fund",
+              "rawTitle": "ARTICLE 5: GENERAL TRUST FUND"
+            },
+            {
+              "id": "ch-113",
+              "filename": "ch-113-6-6-improvement-district-bond-and-interest-redemption-fund.html",
+              "shortLabel": "6-6",
+              "title": "Improvement District Bond and Interest Redemption Fund",
+              "rawTitle": "ARTICLE 6: IMPROVEMENT DISTRICT BOND AND INTEREST REDEMPTION FUND"
+            },
+            {
+              "id": "ch-114",
+              "filename": "ch-114-6-7-housing-and-community-development-revolving-fund.html",
+              "shortLabel": "6-7",
+              "title": "Housing and Community Development Revolving Fund",
+              "rawTitle": "ARTICLE 7: HOUSING AND COMMUNITY DEVELOPMENT REVOLVING FUND"
+            },
+            {
+              "id": "ch-115",
+              "filename": "ch-115-6-8-general-obligation-bond-and-interest-redemption-fund.html",
+              "shortLabel": "6-8",
+              "title": "General Obligation Bond and Interest Redemption Fund",
+              "rawTitle": "ARTICLE 8: GENERAL OBLIGATION BOND AND INTEREST REDEMPTION FUND"
+            },
+            {
+              "id": "ch-116",
+              "filename": "ch-116-6-9-reserved.html",
+              "shortLabel": "6-9",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 9: RESERVED"
+            },
+            {
+              "id": "ch-117",
+              "filename": "ch-117-6-10-service-fees-for-disposition-of-real-property.html",
+              "shortLabel": "6-10",
+              "title": "Service Fees for Disposition of Real Property",
+              "rawTitle": "ARTICLE 10: SERVICE FEES FOR DISPOSITION OF REAL PROPERTY"
+            },
+            {
+              "id": "ch-118",
+              "filename": "ch-118-6-11-fee-schedule-for-public-records.html",
+              "shortLabel": "6-11",
+              "title": "Fee Schedule for Public Records",
+              "rawTitle": "ARTICLE 11: FEE SCHEDULE FOR PUBLIC RECORDS"
+            },
+            {
+              "id": "ch-119",
+              "filename": "ch-119-6-12-overtime-inspection-fees.html",
+              "shortLabel": "6-12",
+              "title": "Overtime Inspection Fees",
+              "rawTitle": "ARTICLE 12: OVERTIME INSPECTION FEES"
+            },
+            {
+              "id": "ch-120",
+              "filename": "ch-120-6-13-federal-grants-fund.html",
+              "shortLabel": "6-13",
+              "title": "Federal Grants Fund",
+              "rawTitle": "ARTICLE 13: FEDERAL GRANTS FUND"
+            },
+            {
+              "id": "ch-121",
+              "filename": "ch-121-6-14-special-projects-fund.html",
+              "shortLabel": "6-14",
+              "title": "Special Projects Fund",
+              "rawTitle": "ARTICLE 14: SPECIAL PROJECTS FUND"
+            },
+            {
+              "id": "ch-122",
+              "filename": "ch-122-6-15-furnishing-of-electronic-data-processing-services.html",
+              "shortLabel": "6-15",
+              "title": "Furnishing of Electronic Data Processing Services",
+              "rawTitle": "ARTICLE 15: FURNISHING OF ELECTRONIC DATA PROCESSING SERVICES"
+            },
+            {
+              "id": "ch-123",
+              "filename": "ch-123-6-16-general-improvement-bond-fund.html",
+              "shortLabel": "6-16",
+              "title": "General Improvement Bond Fund",
+              "rawTitle": "ARTICLE 16: GENERAL IMPROVEMENT BOND FUND"
+            },
+            {
+              "id": "ch-124",
+              "filename": "ch-124-6-17-highway-improvement-bond-fund.html",
+              "shortLabel": "6-17",
+              "title": "Highway Improvement Bond Fund",
+              "rawTitle": "ARTICLE 17: HIGHWAY IMPROVEMENT BOND FUND"
+            },
+            {
+              "id": "ch-125",
+              "filename": "ch-125-6-18-transportation-fund.html",
+              "shortLabel": "6-18",
+              "title": "Transportation Fund",
+              "rawTitle": "ARTICLE 18: TRANSPORTATION FUND"
+            },
+            {
+              "id": "ch-126",
+              "filename": "ch-126-6-19-federal-revenue-sharing-fund.html",
+              "shortLabel": "6-19",
+              "title": "Federal Revenue Sharing Fund",
+              "rawTitle": "ARTICLE 19: FEDERAL REVENUE SHARING FUND"
+            },
+            {
+              "id": "ch-127",
+              "filename": "ch-127-6-20-the-highway-beautification-abandoned-vehicle-and-touris.html",
+              "shortLabel": "6-20",
+              "title": "The Highway Beautification, Abandoned Vehicle, and Tourism-related Traffic Congestion Revolving Fund",
+              "rawTitle": "ARTICLE 20: THE HIGHWAY BEAUTIFICATION, ABANDONED VEHICLE, AND TOURISM-RELATED TRAFFIC CONGESTION REVOLVING FUND"
+            },
+            {
+              "id": "ch-128",
+              "filename": "ch-128-6-21-bikeway-fund.html",
+              "shortLabel": "6-21",
+              "title": "Bikeway Fund",
+              "rawTitle": "ARTICLE 21: BIKEWAY FUND"
+            },
+            {
+              "id": "ch-129",
+              "filename": "ch-129-6-22-community-development-fund.html",
+              "shortLabel": "6-22",
+              "title": "Community Development Fund",
+              "rawTitle": "ARTICLE 22: COMMUNITY DEVELOPMENT FUND"
+            },
+            {
+              "id": "ch-130",
+              "filename": "ch-130-6-23-housing-and-community-development-section-8-contract-fu.html",
+              "shortLabel": "6-23",
+              "title": "Housing and Community Development Section 8 Contract Fund",
+              "rawTitle": "ARTICLE 23: HOUSING AND COMMUNITY DEVELOPMENT SECTION 8 CONTRACT FUND"
+            },
+            {
+              "id": "ch-131",
+              "filename": "ch-131-6-24-honolulu-zoo-fund.html",
+              "shortLabel": "6-24",
+              "title": "Honolulu Zoo Fund",
+              "rawTitle": "ARTICLE 24: HONOLULU ZOO FUND"
+            },
+            {
+              "id": "ch-132",
+              "filename": "ch-132-6-25-parks-and-playgrounds-fund.html",
+              "shortLabel": "6-25",
+              "title": "Parks and Playgrounds Fund",
+              "rawTitle": "ARTICLE 25: PARKS AND PLAYGROUNDS FUND"
+            },
+            {
+              "id": "ch-133",
+              "filename": "ch-133-6-26-housing-and-community-development-rehabilitation-loan-f.html",
+              "shortLabel": "6-26",
+              "title": "Housing and Community Development Rehabilitation Loan Fund",
+              "rawTitle": "ARTICLE 26: HOUSING AND COMMUNITY DEVELOPMENT REHABILITATION LOAN FUND"
+            },
+            {
+              "id": "ch-134",
+              "filename": "ch-134-6-27-state-special-use-permit.html",
+              "shortLabel": "6-27",
+              "title": "State Special Use Permit",
+              "rawTitle": "ARTICLE 27: STATE SPECIAL USE PERMIT"
+            },
+            {
+              "id": "ch-135",
+              "filename": "ch-135-6-28-the-waipio-peninsula-soccer-park-fund.html",
+              "shortLabel": "6-28",
+              "title": "The Waipio Peninsula Soccer Park Fund",
+              "rawTitle": "ARTICLE 28: THE WAIPIO PENINSULA SOCCER PARK FUND"
+            },
+            {
+              "id": "ch-136",
+              "filename": "ch-136-6-29-standards-for-the-appropriation-of-funds-to-private-org.html",
+              "shortLabel": "6-29",
+              "title": "Standards for the Appropriation of Funds to Private Organizations",
+              "rawTitle": "ARTICLE 29: STANDARDS FOR THE APPROPRIATION OF FUNDS TO PRIVATE ORGANIZATIONS"
+            },
+            {
+              "id": "ch-137",
+              "filename": "ch-137-6-30-liquor-commission-fund.html",
+              "shortLabel": "6-30",
+              "title": "Liquor Commission Fund",
+              "rawTitle": "ARTICLE 30: LIQUOR COMMISSION FUND"
+            },
+            {
+              "id": "ch-138",
+              "filename": "ch-138-6-31-the-patsy-t-mink-central-oahu-regional-park-fund.html",
+              "shortLabel": "6-31",
+              "title": "The Patsy T. Mink Central Oahu Regional Park Fund",
+              "rawTitle": "ARTICLE 31: THE PATSY T. MINK CENTRAL OAHU REGIONAL PARK FUND"
+            },
+            {
+              "id": "ch-139",
+              "filename": "ch-139-6-32-establishing-maximum-interest-rate-for-urban-renewal-pr.html",
+              "shortLabel": "6-32",
+              "title": "Establishing Maximum Interest Rate for Urban Renewal Project Notes",
+              "rawTitle": "ARTICLE 32: ESTABLISHING MAXIMUM INTEREST RATE FOR URBAN RENEWAL PROJECT NOTES"
+            },
+            {
+              "id": "ch-140",
+              "filename": "ch-140-6-33-establishing-maximum-interest-for-general-obligation-bo.html",
+              "shortLabel": "6-33",
+              "title": "Establishing Maximum Interest for General Obligation Bonds",
+              "rawTitle": "ARTICLE 33: ESTABLISHING MAXIMUM INTEREST FOR GENERAL OBLIGATION BONDS"
+            },
+            {
+              "id": "ch-141",
+              "filename": "ch-141-6-34-housing-loan-and-mortgage-programs.html",
+              "shortLabel": "6-34",
+              "title": "Housing Loan and Mortgage Programs",
+              "rawTitle": "ARTICLE 34: HOUSING LOAN AND MORTGAGE PROGRAMS"
+            },
+            {
+              "id": "ch-142",
+              "filename": "ch-142-6-35-reserved.html",
+              "shortLabel": "6-35",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 35: RESERVED"
+            },
+            {
+              "id": "ch-143",
+              "filename": "ch-143-6-36-capital-projects-fund.html",
+              "shortLabel": "6-36",
+              "title": "Capital Projects Fund",
+              "rawTitle": "ARTICLE 36: CAPITAL PROJECTS FUND"
+            },
+            {
+              "id": "ch-144",
+              "filename": "ch-144-6-37-federal-grants-capital-projects-fund.html",
+              "shortLabel": "6-37",
+              "title": "Federal Grants Capital Projects Fund",
+              "rawTitle": "ARTICLE 37: FEDERAL GRANTS CAPITAL PROJECTS FUND"
+            },
+            {
+              "id": "ch-145",
+              "filename": "ch-145-6-38-reserved.html",
+              "shortLabel": "6-38",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 38: RESERVED"
+            },
+            {
+              "id": "ch-146",
+              "filename": "ch-146-6-39-landscaping-and-beautification.html",
+              "shortLabel": "6-39",
+              "title": "Landscaping and Beautification",
+              "rawTitle": "ARTICLE 39: LANDSCAPING AND BEAUTIFICATION"
+            },
+            {
+              "id": "ch-147",
+              "filename": "ch-147-6-40-application-fees-for-general-plan-and-development-plan-.html",
+              "shortLabel": "6-40",
+              "title": "Application Fees for General Plan and Development Plan Amendments",
+              "rawTitle": "ARTICLE 40: APPLICATION FEES FOR GENERAL PLAN AND DEVELOPMENT PLAN AMENDMENTS"
+            },
+            {
+              "id": "ch-148",
+              "filename": "ch-148-6-41-fee-schedule-for-land-use-ordinance-applications.html",
+              "shortLabel": "6-41",
+              "title": "Fee Schedule for Land Use Ordinance* - Applications",
+              "rawTitle": "ARTICLE 41: FEE SCHEDULE FOR LAND USE ORDINANCE* - APPLICATIONS"
+            },
+            {
+              "id": "ch-149",
+              "filename": "ch-149-6-42-deferred-compensation-fund.html",
+              "shortLabel": "6-42",
+              "title": "Deferred Compensation Fund",
+              "rawTitle": "ARTICLE 42: DEFERRED COMPENSATION FUND"
+            },
+            {
+              "id": "ch-150",
+              "filename": "ch-150-6-43-charges-by-municipal-reference-and-records-center-for-c.html",
+              "shortLabel": "6-43",
+              "title": "Charges by Municipal Reference and Records Center for Computer Online Service",
+              "rawTitle": "ARTICLE 43: CHARGES BY MUNICIPAL REFERENCE AND RECORDS CENTER FOR COMPUTER ONLINE SERVICE"
+            },
+            {
+              "id": "ch-151",
+              "filename": "ch-151-6-44-fees-and-charges-for-services-of-the-honolulu-police-de.html",
+              "shortLabel": "6-44",
+              "title": "Fees and Charges for Services of the Honolulu Police Department",
+              "rawTitle": "ARTICLE 44: FEES AND CHARGES FOR SERVICES OF THE HONOLULU POLICE DEPARTMENT"
+            },
+            {
+              "id": "ch-152",
+              "filename": "ch-152-6-45-rental-assistance-fund.html",
+              "shortLabel": "6-45",
+              "title": "Rental Assistance Fund",
+              "rawTitle": "ARTICLE 45: RENTAL ASSISTANCE FUND"
+            },
+            {
+              "id": "ch-153",
+              "filename": "ch-153-6-46-housing-development-special-fund.html",
+              "shortLabel": "6-46",
+              "title": "Housing Development Special Fund",
+              "rawTitle": "ARTICLE 46: HOUSING DEVELOPMENT SPECIAL FUND"
+            },
+            {
+              "id": "ch-154",
+              "filename": "ch-154-6-47-wastewater-system-facility-charge.html",
+              "shortLabel": "6-47",
+              "title": "Wastewater System Facility Charge",
+              "rawTitle": "ARTICLE 47: WASTEWATER SYSTEM FACILITY CHARGE"
+            },
+            {
+              "id": "ch-155",
+              "filename": "ch-155-6-48-solid-waste-improvement-bond-fund.html",
+              "shortLabel": "6-48",
+              "title": "Solid Waste Improvement Bond Fund",
+              "rawTitle": "ARTICLE 48: SOLID WASTE IMPROVEMENT BOND FUND"
+            },
+            {
+              "id": "ch-156",
+              "filename": "ch-156-6-49-solid-waste-special-fund.html",
+              "shortLabel": "6-49",
+              "title": "Solid Waste Special Fund",
+              "rawTitle": "ARTICLE 49: SOLID WASTE SPECIAL FUND"
+            },
+            {
+              "id": "ch-157",
+              "filename": "ch-157-6-50-reserved.html",
+              "shortLabel": "6-50",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 50: RESERVED"
+            },
+            {
+              "id": "ch-158",
+              "filename": "ch-158-6-51-hanauma-bay-nature-preserve-fund.html",
+              "shortLabel": "6-51",
+              "title": "Hanauma Bay Nature Preserve Fund",
+              "rawTitle": "ARTICLE 51: HANAUMA BAY NATURE PRESERVE FUND"
+            },
+            {
+              "id": "ch-159",
+              "filename": "ch-159-6-52-grants-in-aid-fund.html",
+              "shortLabel": "6-52",
+              "title": "Grants in Aid Fund",
+              "rawTitle": "ARTICLE 52: GRANTS IN AID FUND"
+            },
+            {
+              "id": "ch-160",
+              "filename": "ch-160-6-53-special-events-fund.html",
+              "shortLabel": "6-53",
+              "title": "Special Events Fund",
+              "rawTitle": "ARTICLE 53: SPECIAL EVENTS FUND"
+            },
+            {
+              "id": "ch-161",
+              "filename": "ch-161-6-54-sewer-revenue-bond-improvement-fund.html",
+              "shortLabel": "6-54",
+              "title": "Sewer Revenue Bond Improvement Fund",
+              "rawTitle": "ARTICLE 54: SEWER REVENUE BOND IMPROVEMENT FUND"
+            },
+            {
+              "id": "ch-162",
+              "filename": "ch-162-6-55-transit-construction-mitigation-fund.html",
+              "shortLabel": "6-55",
+              "title": "Transit Construction Mitigation Fund",
+              "rawTitle": "ARTICLE 55: TRANSIT CONSTRUCTION MITIGATION FUND"
+            },
+            {
+              "id": "ch-163",
+              "filename": "ch-163-6-56-reserve-for-fiscal-stability-fund.html",
+              "shortLabel": "6-56",
+              "title": "Reserve for Fiscal Stability Fund",
+              "rawTitle": "ARTICLE 56: RESERVE FOR FISCAL STABILITY FUND"
+            },
+            {
+              "id": "ch-164",
+              "filename": "ch-164-6-57-golf-fund.html",
+              "shortLabel": "6-57",
+              "title": "Golf Fund",
+              "rawTitle": "ARTICLE 57: GOLF FUND"
+            },
+            {
+              "id": "ch-165",
+              "filename": "ch-165-6-58-contributions-to-the-county.html",
+              "shortLabel": "6-58",
+              "title": "Contributions to the County",
+              "rawTitle": "ARTICLE 58: CONTRIBUTIONS TO THE COUNTY"
+            },
+            {
+              "id": "ch-166",
+              "filename": "ch-166-6-59-land-conservation-fund.html",
+              "shortLabel": "6-59",
+              "title": "Land Conservation Fund",
+              "rawTitle": "ARTICLE 59: LAND CONSERVATION FUND"
+            },
+            {
+              "id": "ch-167",
+              "filename": "ch-167-6-60-transportation-surcharge-use-of-funds.html",
+              "shortLabel": "6-60",
+              "title": "Transportation Surcharge - Use of Funds*",
+              "rawTitle": "ARTICLE 60: TRANSPORTATION SURCHARGE - USE OF FUNDS*"
+            },
+            {
+              "id": "ch-168",
+              "filename": "ch-168-6-61-transit-fund.html",
+              "shortLabel": "6-61",
+              "title": "Transit Fund",
+              "rawTitle": "ARTICLE 61: TRANSIT FUND"
+            },
+            {
+              "id": "ch-169",
+              "filename": "ch-169-6-62-clean-water-and-natural-lands-fund.html",
+              "shortLabel": "6-62",
+              "title": "Clean Water and Natural Lands Fund",
+              "rawTitle": "ARTICLE 62: CLEAN WATER AND NATURAL LANDS FUND"
+            },
+            {
+              "id": "ch-170",
+              "filename": "ch-170-6-63-affordable-housing-fund.html",
+              "shortLabel": "6-63",
+              "title": "Affordable Housing Fund",
+              "rawTitle": "ARTICLE 63: AFFORDABLE HOUSING FUND"
+            },
+            {
+              "id": "ch-171",
+              "filename": "ch-171-6-64-reserved.html",
+              "shortLabel": "6-64",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 64: RESERVED"
+            },
+            {
+              "id": "ch-172",
+              "filename": "ch-172-6-65-transit-improvement-bond-fund.html",
+              "shortLabel": "6-65",
+              "title": "Transit Improvement Bond Fund",
+              "rawTitle": "ARTICLE 65: TRANSIT IMPROVEMENT BOND FUND"
+            },
+            {
+              "id": "ch-173",
+              "filename": "ch-173-6-66-waiver-of-certain-city-fees-for-centenarian-residents.html",
+              "shortLabel": "6-66",
+              "title": "Waiver of Certain City Fees for Centenarian Residents",
+              "rawTitle": "ARTICLE 66: WAIVER OF CERTAIN CITY FEES FOR CENTENARIAN RESIDENTS"
+            },
+            {
+              "id": "ch-174",
+              "filename": "ch-174-6-67-taxable-general-improvement-bond-fund.html",
+              "shortLabel": "6-67",
+              "title": "Taxable General Improvement Bond Fund",
+              "rawTitle": "ARTICLE 67: TAXABLE GENERAL IMPROVEMENT BOND FUND"
+            },
+            {
+              "id": "ch-175",
+              "filename": "ch-175-6-68-climate-resiliency-fund.html",
+              "shortLabel": "6-68",
+              "title": "Climate Resiliency Fund",
+              "rawTitle": "ARTICLE 68: CLIMATE RESILIENCY FUND"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 7: RESERVED",
+          "articles": [
+            {
+              "id": "ch-176",
+              "filename": "ch-176-chapter-7-r-chapter-7-reserved.html",
+              "shortLabel": "CHAPTER 7: R",
+              "title": "Chapter 7: Reserved",
+              "rawTitle": "CHAPTER 7: RESERVED"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 8: REAL PROPERTY TAX",
+          "articles": [
+            {
+              "id": "ch-177",
+              "filename": "ch-177-8-1-administration.html",
+              "shortLabel": "8-1",
+              "title": "Administration",
+              "rawTitle": "ARTICLE 1: ADMINISTRATION"
+            },
+            {
+              "id": "ch-178",
+              "filename": "ch-178-8-2-notice-of-assessments-assessment-lists.html",
+              "shortLabel": "8-2",
+              "title": "Notice of Assessments - Assessment Lists",
+              "rawTitle": "ARTICLE 2: NOTICE OF ASSESSMENTS - ASSESSMENT LISTS"
+            },
+            {
+              "id": "ch-179",
+              "filename": "ch-179-8-3-tax-bills-payments-and-penalties.html",
+              "shortLabel": "8-3",
+              "title": "Tax Bills, Payments, and Penalties",
+              "rawTitle": "ARTICLE 3: TAX BILLS, PAYMENTS, AND PENALTIES"
+            },
+            {
+              "id": "ch-180",
+              "filename": "ch-180-8-4-remissions.html",
+              "shortLabel": "8-4",
+              "title": "Remissions",
+              "rawTitle": "ARTICLE 4: REMISSIONS"
+            },
+            {
+              "id": "ch-181",
+              "filename": "ch-181-8-5-liens-foreclosures.html",
+              "shortLabel": "8-5",
+              "title": "Liens - Foreclosures",
+              "rawTitle": "ARTICLE 5: LIENS - FORECLOSURES"
+            },
+            {
+              "id": "ch-182",
+              "filename": "ch-182-8-6-rate-levy.html",
+              "shortLabel": "8-6",
+              "title": "Rate - Levy",
+              "rawTitle": "ARTICLE 6: RATE - LEVY"
+            },
+            {
+              "id": "ch-183",
+              "filename": "ch-183-8-7-valuations.html",
+              "shortLabel": "8-7",
+              "title": "Valuations",
+              "rawTitle": "ARTICLE 7: VALUATIONS"
+            },
+            {
+              "id": "ch-184",
+              "filename": "ch-184-8-8-wasteland-development.html",
+              "shortLabel": "8-8",
+              "title": "Wasteland Development",
+              "rawTitle": "ARTICLE 8: WASTELAND DEVELOPMENT"
+            },
+            {
+              "id": "ch-185",
+              "filename": "ch-185-8-9-nontaxable-property-assessment.html",
+              "shortLabel": "8-9",
+              "title": "Nontaxable Property - Assessment",
+              "rawTitle": "ARTICLE 9: NONTAXABLE PROPERTY - ASSESSMENT"
+            },
+            {
+              "id": "ch-186",
+              "filename": "ch-186-8-10-exemptions.html",
+              "shortLabel": "8-10",
+              "title": "Exemptions",
+              "rawTitle": "ARTICLE 10: EXEMPTIONS"
+            },
+            {
+              "id": "ch-187",
+              "filename": "ch-187-8-11-determination-of-rates.html",
+              "shortLabel": "8-11",
+              "title": "Determination of Rates",
+              "rawTitle": "ARTICLE 11: DETERMINATION OF RATES"
+            },
+            {
+              "id": "ch-188",
+              "filename": "ch-188-8-12-appeals.html",
+              "shortLabel": "8-12",
+              "title": "Appeals",
+              "rawTitle": "ARTICLE 12: APPEALS"
+            },
+            {
+              "id": "ch-189",
+              "filename": "ch-189-8-13-county-tax-credit.html",
+              "shortLabel": "8-13",
+              "title": "County Tax Credit*",
+              "rawTitle": "ARTICLE 13: COUNTY TAX CREDIT*"
+            },
+            {
+              "id": "ch-190",
+              "filename": "ch-190-8-14-tax-credit-for-the-installation-of-an-automatic-sprinkl.html",
+              "shortLabel": "8-14",
+              "title": "Tax Credit for the Installation of an Automatic Sprinkler System",
+              "rawTitle": "ARTICLE 14: TAX CREDIT FOR THE INSTALLATION OF AN AUTOMATIC SPRINKLER SYSTEM"
+            },
+            {
+              "id": "ch-191",
+              "filename": "ch-191-8-15-severability.html",
+              "shortLabel": "8-15",
+              "title": "Severability",
+              "rawTitle": "ARTICLE 15: SEVERABILITY"
+            },
+            {
+              "id": "ch-192",
+              "filename": "ch-192-8-16-tax-credit-for-septic-tank-to-replace-household-cesspoo.html",
+              "shortLabel": "8-16",
+              "title": "Tax Credit for Septic Tank to Replace Household Cesspool",
+              "rawTitle": "ARTICLE 16: TAX CREDIT FOR SEPTIC TANK TO REPLACE HOUSEHOLD CESSPOOL"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 8A: TAXATION OF TRANSIENT ACCOMMODATIONS",
+          "articles": [
+            {
+              "id": "ch-193",
+              "filename": "ch-193-8a-1-transient-accommodations-tax.html",
+              "shortLabel": "8A-1",
+              "title": "Transient Accommodations Tax",
+              "rawTitle": "ARTICLE 1: TRANSIENT ACCOMMODATIONS TAX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleLabel": "TITLE III: MISCELLANEOUS REGULATIONS",
+      "chapters": [
+        {
+          "chapterLabel": "CHAPTER 9: BOTANICAL GARDENS",
+          "articles": [
+            {
+              "id": "ch-194",
+              "filename": "ch-194-9-1-general-provisions.html",
+              "shortLabel": "9-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            },
+            {
+              "id": "ch-195",
+              "filename": "ch-195-9-2-use-of-botanical-gardens.html",
+              "shortLabel": "9-2",
+              "title": "Use of Botanical Gardens",
+              "rawTitle": "ARTICLE 2: USE OF BOTANICAL GARDENS"
+            },
+            {
+              "id": "ch-196",
+              "filename": "ch-196-9-3-fees-and-charges.html",
+              "shortLabel": "9-3",
+              "title": "Fees and Charges",
+              "rawTitle": "ARTICLE 3: FEES AND CHARGES"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 10: PUBLIC PARKS AND RECREATION FACILITIES",
+          "articles": [
+            {
+              "id": "ch-197",
+              "filename": "ch-197-10-1-use-of-public-parks-playgrounds-beaches-and-other-publi.html",
+              "shortLabel": "10-1",
+              "title": "Use of Public Parks, Playgrounds, Beaches, and Other Public Areas",
+              "rawTitle": "ARTICLE 1: USE OF PUBLIC PARKS, PLAYGROUNDS, BEACHES, AND OTHER PUBLIC AREAS"
+            },
+            {
+              "id": "ch-198",
+              "filename": "ch-198-10-2-fees-and-charges-for-use-of-parks-and-recreational-faci.html",
+              "shortLabel": "10-2",
+              "title": "Fees and Charges for Use of Parks and Recreational Facilities",
+              "rawTitle": "ARTICLE 2: FEES AND CHARGES FOR USE OF PARKS AND RECREATIONAL FACILITIES"
+            },
+            {
+              "id": "ch-199",
+              "filename": "ch-199-10-3-fees-for-use-of-parks-and-recreational-facilities-for-c.html",
+              "shortLabel": "10-3",
+              "title": "Fees for Use of Parks and Recreational Facilities for Commercial Activities",
+              "rawTitle": "ARTICLE 3: FEES FOR USE OF PARKS AND RECREATIONAL FACILITIES FOR COMMERCIAL ACTIVITIES"
+            },
+            {
+              "id": "ch-200",
+              "filename": "ch-200-10-4-fees-for-use-of-municipal-golf-courses.html",
+              "shortLabel": "10-4",
+              "title": "Fees for Use of Municipal Golf Courses",
+              "rawTitle": "ARTICLE 4: FEES FOR USE OF MUNICIPAL GOLF COURSES"
+            },
+            {
+              "id": "ch-201",
+              "filename": "ch-201-10-5-commercial-windsurfing.html",
+              "shortLabel": "10-5",
+              "title": "Commercial Windsurfing",
+              "rawTitle": "ARTICLE 5: COMMERCIAL WINDSURFING"
+            },
+            {
+              "id": "ch-202",
+              "filename": "ch-202-10-6-cultural-sites-in-public-parks.html",
+              "shortLabel": "10-6",
+              "title": "Cultural Sites in Public Parks",
+              "rawTitle": "ARTICLE 6: CULTURAL SITES IN PUBLIC PARKS"
+            },
+            {
+              "id": "ch-203",
+              "filename": "ch-203-10-7-policy-on-fees-for-organized-recreational-programs.html",
+              "shortLabel": "10-7",
+              "title": "Policy on Fees for Organized Recreational Programs",
+              "rawTitle": "ARTICLE 7: POLICY ON FEES FOR ORGANIZED RECREATIONAL PROGRAMS"
+            },
+            {
+              "id": "ch-204",
+              "filename": "ch-204-10-8-summer-fun-activities.html",
+              "shortLabel": "10-8",
+              "title": "Summer Fun Activities",
+              "rawTitle": "ARTICLE 8: SUMMER FUN ACTIVITIES"
+            },
+            {
+              "id": "ch-205",
+              "filename": "ch-205-10-9-professional-sports-activity-at-hans-lorange-baseball-f.html",
+              "shortLabel": "10-9",
+              "title": "Professional Sports Activity at Hans L’orange Baseball Facility",
+              "rawTitle": "ARTICLE 9: PROFESSIONAL SPORTS ACTIVITY AT HANS L’ORANGE BASEBALL FACILITY"
+            },
+            {
+              "id": "ch-206",
+              "filename": "ch-206-10-10-rental-of-surfboard-lockers-on-kuhio-beach.html",
+              "shortLabel": "10-10",
+              "title": "Rental of Surfboard Lockers on Kuhio Beach",
+              "rawTitle": "ARTICLE 10: RENTAL OF SURFBOARD LOCKERS ON KUHIO BEACH"
+            },
+            {
+              "id": "ch-207",
+              "filename": "ch-207-10-11-reserved.html",
+              "shortLabel": "10-11",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 11: RESERVED"
+            },
+            {
+              "id": "ch-208",
+              "filename": "ch-208-10-12-after-school-programs.html",
+              "shortLabel": "10-12",
+              "title": "After-school Programs",
+              "rawTitle": "ARTICLE 12: AFTER-SCHOOL PROGRAMS"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 11: CHILD CARE",
+          "articles": [
+            {
+              "id": "ch-209",
+              "filename": "ch-209-11-1-child-care.html",
+              "shortLabel": "11-1",
+              "title": "Child Care",
+              "rawTitle": "ARTICLE 1: CHILD CARE"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 12: ANIMALS AND FOWLS",
+          "articles": [
+            {
+              "id": "ch-210",
+              "filename": "ch-210-12-1-cockfighting-and-related-equipment.html",
+              "shortLabel": "12-1",
+              "title": "Cockfighting and Related Equipment",
+              "rawTitle": "ARTICLE 1: COCKFIGHTING AND RELATED EQUIPMENT"
+            },
+            {
+              "id": "ch-211",
+              "filename": "ch-211-12-2-animal-nuisances.html",
+              "shortLabel": "12-2",
+              "title": "Animal Nuisances",
+              "rawTitle": "ARTICLE 2: ANIMAL NUISANCES"
+            },
+            {
+              "id": "ch-212",
+              "filename": "ch-212-12-3-reserved.html",
+              "shortLabel": "12-3",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 3: RESERVED"
+            },
+            {
+              "id": "ch-213",
+              "filename": "ch-213-12-4-regulation-of-dogs.html",
+              "shortLabel": "12-4",
+              "title": "Regulation of Dogs",
+              "rawTitle": "ARTICLE 4: REGULATION OF DOGS"
+            },
+            {
+              "id": "ch-214",
+              "filename": "ch-214-12-5-public-spay-and-neuter-clinic-for-dogs-and-cats.html",
+              "shortLabel": "12-5",
+              "title": "Public Spay and Neuter Clinic for Dogs and Cats",
+              "rawTitle": "ARTICLE 5: PUBLIC SPAY AND NEUTER CLINIC FOR DOGS AND CATS"
+            },
+            {
+              "id": "ch-215",
+              "filename": "ch-215-12-6-cat-microchip-and-identification-program.html",
+              "shortLabel": "12-6",
+              "title": "Cat Microchip and Identification Program",
+              "rawTitle": "ARTICLE 6: CAT MICROCHIP AND IDENTIFICATION PROGRAM"
+            },
+            {
+              "id": "ch-216",
+              "filename": "ch-216-12-7-regulation-of-dangerous-dogs.html",
+              "shortLabel": "12-7",
+              "title": "Regulation of Dangerous Dogs",
+              "rawTitle": "ARTICLE 7: REGULATION OF DANGEROUS DOGS"
+            },
+            {
+              "id": "ch-217",
+              "filename": "ch-217-12-8-dog-microchip-license-and-identification-program.html",
+              "shortLabel": "12-8",
+              "title": "Dog Microchip License and Identification Program",
+              "rawTitle": "ARTICLE 8: DOG MICROCHIP LICENSE AND IDENTIFICATION PROGRAM"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 13: STREETS, SIDEWALKS, MALLS, AND OTHER PUBLIC PLACES",
+          "articles": [
+            {
+              "id": "ch-218",
+              "filename": "ch-218-13-1-general-provisions.html",
+              "shortLabel": "13-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            },
+            {
+              "id": "ch-219",
+              "filename": "ch-219-13-2-lei-selling.html",
+              "shortLabel": "13-2",
+              "title": "Lei Selling",
+              "rawTitle": "ARTICLE 2: LEI SELLING"
+            },
+            {
+              "id": "ch-220",
+              "filename": "ch-220-13-3-reserved.html",
+              "shortLabel": "13-3",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 3: RESERVED"
+            },
+            {
+              "id": "ch-221",
+              "filename": "ch-221-13-4-litter-control.html",
+              "shortLabel": "13-4",
+              "title": "Litter Control",
+              "rawTitle": "ARTICLE 4: LITTER CONTROL"
+            },
+            {
+              "id": "ch-222",
+              "filename": "ch-222-13-5-use-of-streets-and-sidewalks-by-solicitors-and-canvasse.html",
+              "shortLabel": "13-5",
+              "title": "Use of Streets and Sidewalks by Solicitors and Canvassers",
+              "rawTitle": "ARTICLE 5: USE OF STREETS AND SIDEWALKS BY SOLICITORS AND CANVASSERS"
+            },
+            {
+              "id": "ch-223",
+              "filename": "ch-223-13-6-peddlers-license.html",
+              "shortLabel": "13-6",
+              "title": "Peddler’s License",
+              "rawTitle": "ARTICLE 6: PEDDLER’S LICENSE"
+            },
+            {
+              "id": "ch-224",
+              "filename": "ch-224-13-6a-peddling-by-merchant-of-a-store-on-a-chinatown-sidewal.html",
+              "shortLabel": "13-6A",
+              "title": "Peddling by Merchant of a Store on a Chinatown Sidewalk or Mall, College Walk Mall, Sun Yat Sen Mall, and Historic Moiliili Sidewalk",
+              "rawTitle": "ARTICLE 6A: PEDDLING BY MERCHANT OF A STORE ON A CHINATOWN SIDEWALK OR MALL, COLLEGE WALK MALL, SUN YAT SEN MALL, AND HISTORIC MOILIILI SIDEWALK"
+            },
+            {
+              "id": "ch-225",
+              "filename": "ch-225-13-7-handbilling-in-the-waikiki-special-design-district.html",
+              "shortLabel": "13-7",
+              "title": "Handbilling in the Waikiki Special Design District",
+              "rawTitle": "ARTICLE 7: HANDBILLING IN THE WAIKIKI SPECIAL DESIGN DISTRICT"
+            },
+            {
+              "id": "ch-226",
+              "filename": "ch-226-13-8-structures-on-above-or-below-a-public-sidewalk.html",
+              "shortLabel": "13-8",
+              "title": "Structures On, Above, or Below a Public Sidewalk",
+              "rawTitle": "ARTICLE 8: STRUCTURES ON, ABOVE, OR BELOW A PUBLIC SIDEWALK"
+            },
+            {
+              "id": "ch-227",
+              "filename": "ch-227-13-9-procedure-on-arrest.html",
+              "shortLabel": "13-9",
+              "title": "Procedure on Arrest",
+              "rawTitle": "ARTICLE 9: PROCEDURE ON ARREST"
+            },
+            {
+              "id": "ch-228",
+              "filename": "ch-228-13-10-use-of-malls.html",
+              "shortLabel": "13-10",
+              "title": "Use of Malls",
+              "rawTitle": "ARTICLE 10: USE OF MALLS"
+            },
+            {
+              "id": "ch-229",
+              "filename": "ch-229-13-11-publication-dispensing-racks-in-waikiki.html",
+              "shortLabel": "13-11",
+              "title": "Publication Dispensing Racks in Waikiki",
+              "rawTitle": "ARTICLE 11: PUBLICATION DISPENSING RACKS IN WAIKIKI"
+            },
+            {
+              "id": "ch-230",
+              "filename": "ch-230-13-12-reserved.html",
+              "shortLabel": "13-12",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 12: RESERVED"
+            },
+            {
+              "id": "ch-231",
+              "filename": "ch-231-13-13-use-of-animals-in-solicitations-in-the-waikiki-special.html",
+              "shortLabel": "13-13",
+              "title": "Use of Animals in Solicitations in the Waikiki Special District",
+              "rawTitle": "ARTICLE 13: USE OF ANIMALS IN SOLICITATIONS IN THE WAIKIKI SPECIAL DISTRICT"
+            },
+            {
+              "id": "ch-232",
+              "filename": "ch-232-13-14-unlawful-signs-within-street-rights-of-way-and-public-.html",
+              "shortLabel": "13-14",
+              "title": "Unlawful Signs Within Street Rights-of-way and Public Malls",
+              "rawTitle": "ARTICLE 14: UNLAWFUL SIGNS WITHIN STREET RIGHTS-OF-WAY AND PUBLIC MALLS"
+            },
+            {
+              "id": "ch-233",
+              "filename": "ch-233-13-15-sitting-or-lying-on-public-sidewalks-in-the-waikiki-sp.html",
+              "shortLabel": "13-15",
+              "title": "Sitting or Lying on Public Sidewalks in the Waikiki Special District",
+              "rawTitle": "ARTICLE 15: SITTING OR LYING ON PUBLIC SIDEWALKS IN THE WAIKIKI SPECIAL DISTRICT"
+            },
+            {
+              "id": "ch-234",
+              "filename": "ch-234-13-15a-sitting-or-lying-on-public-sidewalks-outside-of-the-w.html",
+              "shortLabel": "13-15A",
+              "title": "Sitting or Lying on Public Sidewalks Outside of the Waikiki Special District",
+              "rawTitle": "ARTICLE 15A: SITTING OR LYING ON PUBLIC SIDEWALKS OUTSIDE OF THE WAIKIKI SPECIAL DISTRICT"
+            },
+            {
+              "id": "ch-235",
+              "filename": "ch-235-13-15b-sitting-or-lying-on-public-malls-in-the-downtown-and-.html",
+              "shortLabel": "13-15B",
+              "title": "Sitting or Lying on Public Malls in the Downtown and Chinatown Areas",
+              "rawTitle": "ARTICLE 15B: SITTING OR LYING ON PUBLIC MALLS IN THE DOWNTOWN AND CHINATOWN AREAS"
+            },
+            {
+              "id": "ch-236",
+              "filename": "ch-236-13-16-nuisances-on-public-sidewalks.html",
+              "shortLabel": "13-16",
+              "title": "Nuisances on Public Sidewalks",
+              "rawTitle": "ARTICLE 16: NUISANCES ON PUBLIC SIDEWALKS"
+            },
+            {
+              "id": "ch-237",
+              "filename": "ch-237-13-17-aggressive-panhandling.html",
+              "shortLabel": "13-17",
+              "title": "Aggressive Panhandling",
+              "rawTitle": "ARTICLE 17: AGGRESSIVE PANHANDLING"
+            },
+            {
+              "id": "ch-238",
+              "filename": "ch-238-13-18-use-of-sidewalk-for-pedestrian-use.html",
+              "shortLabel": "13-18",
+              "title": "Use of Sidewalk for Pedestrian Use",
+              "rawTitle": "ARTICLE 18: USE OF SIDEWALK FOR PEDESTRIAN USE"
+            },
+            {
+              "id": "ch-239",
+              "filename": "ch-239-13-19-stored-property.html",
+              "shortLabel": "13-19",
+              "title": "Stored Property",
+              "rawTitle": "ARTICLE 19: STORED PROPERTY"
+            },
+            {
+              "id": "ch-240",
+              "filename": "ch-240-13-20-creating-causing-or-maintaining-obstructions-on-public.html",
+              "shortLabel": "13-20",
+              "title": "Creating, Causing, or Maintaining Obstructions on Public Sidewalks Prohibited",
+              "rawTitle": "ARTICLE 20: CREATING, CAUSING, OR MAINTAINING OBSTRUCTIONS ON PUBLIC SIDEWALKS PROHIBITED"
+            },
+            {
+              "id": "ch-241",
+              "filename": "ch-241-13-21-illegal-lodging-on-a-public-sidewalk-or-other-public-p.html",
+              "shortLabel": "13-21",
+              "title": "Illegal Lodging on a Public Sidewalk or Other Public Place",
+              "rawTitle": "ARTICLE 21: ILLEGAL LODGING ON A PUBLIC SIDEWALK OR OTHER PUBLIC PLACE"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 14: PUBLIC WORKS INFRASTRUCTURE",
+          "articles": [
+            {
+              "id": "ch-242",
+              "filename": "ch-242-14-1-use-of-indigenous-and-polynesian-introduced-plants-in-p.html",
+              "shortLabel": "14-1",
+              "title": "Use of Indigenous and Polynesian Introduced Plants in Public Landscaping",
+              "rawTitle": "ARTICLE 1: USE OF INDIGENOUS AND POLYNESIAN INTRODUCED PLANTS IN PUBLIC LANDSCAPING"
+            },
+            {
+              "id": "ch-243",
+              "filename": "ch-243-14-2-excavation-and-repairs-of-streets-and-sidewalks.html",
+              "shortLabel": "14-2",
+              "title": "Excavation and Repairs of Streets and Sidewalks",
+              "rawTitle": "ARTICLE 2: EXCAVATION AND REPAIRS OF STREETS AND SIDEWALKS"
+            },
+            {
+              "id": "ch-244",
+              "filename": "ch-244-14-3-regulations-governing-the-construction-of-sidewalks-cur.html",
+              "shortLabel": "14-3",
+              "title": "Regulations Governing the Construction of Sidewalks, Curbs, or Driveways Within the Right-of-way of Public Streets",
+              "rawTitle": "ARTICLE 3: REGULATIONS GOVERNING THE CONSTRUCTION OF SIDEWALKS, CURBS, OR DRIVEWAYS WITHIN THE RIGHT-OF-WAY OF PUBLIC STREETS"
+            },
+            {
+              "id": "ch-245",
+              "filename": "ch-245-14-4-public-utility-reserved-areas.html",
+              "shortLabel": "14-4",
+              "title": "Public Utility Reserved Areas",
+              "rawTitle": "ARTICLE 4: PUBLIC UTILITY RESERVED AREAS"
+            },
+            {
+              "id": "ch-246",
+              "filename": "ch-246-14-5-cleaning-and-maintaining-sidewalks.html",
+              "shortLabel": "14-5",
+              "title": "Cleaning and Maintaining Sidewalks",
+              "rawTitle": "ARTICLE 5: CLEANING AND MAINTAINING SIDEWALKS"
+            },
+            {
+              "id": "ch-247",
+              "filename": "ch-247-14-6-construction-of-improvements-by-certain-property-owners.html",
+              "shortLabel": "14-6",
+              "title": "Construction of Improvements by Certain Property Owners",
+              "rawTitle": "ARTICLE 6: CONSTRUCTION OF IMPROVEMENTS BY CERTAIN PROPERTY OWNERS"
+            },
+            {
+              "id": "ch-248",
+              "filename": "ch-248-14-7-public-utility-facilities.html",
+              "shortLabel": "14-7",
+              "title": "Public Utility Facilities",
+              "rawTitle": "ARTICLE 7: PUBLIC UTILITY FACILITIES"
+            },
+            {
+              "id": "ch-249",
+              "filename": "ch-249-14-8-general-provisions-for-assessments.html",
+              "shortLabel": "14-8",
+              "title": "General Provisions for Assessments",
+              "rawTitle": "ARTICLE 8: GENERAL PROVISIONS FOR ASSESSMENTS"
+            },
+            {
+              "id": "ch-250",
+              "filename": "ch-250-14-9-costs-for-assessments.html",
+              "shortLabel": "14-9",
+              "title": "Costs for Assessments",
+              "rawTitle": "ARTICLE 9: COSTS FOR ASSESSMENTS"
+            },
+            {
+              "id": "ch-251",
+              "filename": "ch-251-14-10-procedure-for-assessments.html",
+              "shortLabel": "14-10",
+              "title": "Procedure for Assessments",
+              "rawTitle": "ARTICLE 10: PROCEDURE FOR ASSESSMENTS"
+            },
+            {
+              "id": "ch-252",
+              "filename": "ch-252-14-11-assessments.html",
+              "shortLabel": "14-11",
+              "title": "Assessments",
+              "rawTitle": "ARTICLE 11: ASSESSMENTS"
+            },
+            {
+              "id": "ch-253",
+              "filename": "ch-253-14-12-financing-for-assessments.html",
+              "shortLabel": "14-12",
+              "title": "Financing for Assessments",
+              "rawTitle": "ARTICLE 12: FINANCING FOR ASSESSMENTS"
+            },
+            {
+              "id": "ch-254",
+              "filename": "ch-254-14-13-refunding.html",
+              "shortLabel": "14-13",
+              "title": "Refunding",
+              "rawTitle": "ARTICLE 13: REFUNDING"
+            },
+            {
+              "id": "ch-255",
+              "filename": "ch-255-14-14-limitation-on-time-to-sue.html",
+              "shortLabel": "14-14",
+              "title": "Limitation on Time to Sue",
+              "rawTitle": "ARTICLE 14: LIMITATION ON TIME TO SUE"
+            },
+            {
+              "id": "ch-256",
+              "filename": "ch-256-14-15-severability.html",
+              "shortLabel": "14-15",
+              "title": "Severability",
+              "rawTitle": "ARTICLE 15: SEVERABILITY"
+            },
+            {
+              "id": "ch-257",
+              "filename": "ch-257-14-16-general-provisions-for-maintenance-by-assessments.html",
+              "shortLabel": "14-16",
+              "title": "General Provisions for Maintenance by Assessments",
+              "rawTitle": "ARTICLE 16: GENERAL PROVISIONS FOR MAINTENANCE BY ASSESSMENTS"
+            },
+            {
+              "id": "ch-258",
+              "filename": "ch-258-14-17-maintenance-of-private-streets-and-roads.html",
+              "shortLabel": "14-17",
+              "title": "Maintenance of Private Streets and Roads",
+              "rawTitle": "ARTICLE 17: MAINTENANCE OF PRIVATE STREETS AND ROADS"
+            },
+            {
+              "id": "ch-259",
+              "filename": "ch-259-14-18-complete-streets.html",
+              "shortLabel": "14-18",
+              "title": "Complete Streets",
+              "rawTitle": "ARTICLE 18: COMPLETE STREETS"
+            },
+            {
+              "id": "ch-260",
+              "filename": "ch-260-14-19-glasphalt-paving.html",
+              "shortLabel": "14-19",
+              "title": "Glasphalt Paving",
+              "rawTitle": "ARTICLE 19: GLASPHALT PAVING"
+            },
+            {
+              "id": "ch-261",
+              "filename": "ch-261-14-20-banners-displayed-from-lampposts.html",
+              "shortLabel": "14-20",
+              "title": "Banners Displayed From Lampposts",
+              "rawTitle": "ARTICLE 20: BANNERS DISPLAYED FROM LAMPPOSTS"
+            },
+            {
+              "id": "ch-262",
+              "filename": "ch-262-14-21-neighborhood-watch-signs.html",
+              "shortLabel": "14-21",
+              "title": "Neighborhood Watch Signs",
+              "rawTitle": "ARTICLE 21: NEIGHBORHOOD WATCH SIGNS"
+            },
+            {
+              "id": "ch-263",
+              "filename": "ch-263-14-app14-a-improvement-district-ordinances.html",
+              "shortLabel": "14-App.14-A",
+              "title": "Improvement District Ordinances",
+              "rawTitle": "APPENDIX 14-A: IMPROVEMENT DISTRICT ORDINANCES"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleLabel": "TITLE IV: TRAFFIC AND VEHICLES",
+      "chapters": [
+        {
+          "chapterLabel": "CHAPTER 15: TRAFFIC AND VEHICLES",
+          "articles": [
+            {
+              "id": "ch-264",
+              "filename": "ch-264-15-1-traffic-regulation.html",
+              "shortLabel": "15-1",
+              "title": "Traffic Regulation",
+              "rawTitle": "ARTICLE 1: TRAFFIC REGULATION"
+            },
+            {
+              "id": "ch-265",
+              "filename": "ch-265-15-2-definitions.html",
+              "shortLabel": "15-2",
+              "title": "Definitions",
+              "rawTitle": "ARTICLE 2: DEFINITIONS"
+            },
+            {
+              "id": "ch-266",
+              "filename": "ch-266-15-3-traffic-administration.html",
+              "shortLabel": "15-3",
+              "title": "Traffic Administration",
+              "rawTitle": "ARTICLE 3: TRAFFIC ADMINISTRATION"
+            },
+            {
+              "id": "ch-267",
+              "filename": "ch-267-15-4-enforcement-and-obedience-to-traffic-regulations.html",
+              "shortLabel": "15-4",
+              "title": "Enforcement and Obedience to Traffic Regulations",
+              "rawTitle": "ARTICLE 4: ENFORCEMENT AND OBEDIENCE TO TRAFFIC REGULATIONS"
+            },
+            {
+              "id": "ch-268",
+              "filename": "ch-268-15-5-accident-reports.html",
+              "shortLabel": "15-5",
+              "title": "Accident Reports",
+              "rawTitle": "ARTICLE 5: ACCIDENT REPORTS"
+            },
+            {
+              "id": "ch-269",
+              "filename": "ch-269-15-6-traffic-control-devices.html",
+              "shortLabel": "15-6",
+              "title": "Traffic Control Devices",
+              "rawTitle": "ARTICLE 6: TRAFFIC CONTROL DEVICES"
+            },
+            {
+              "id": "ch-270",
+              "filename": "ch-270-15-7-speed-restrictions.html",
+              "shortLabel": "15-7",
+              "title": "Speed Restrictions",
+              "rawTitle": "ARTICLE 7: SPEED RESTRICTIONS"
+            },
+            {
+              "id": "ch-271",
+              "filename": "ch-271-15-8-starting-stopping-and-turning-signals.html",
+              "shortLabel": "15-8",
+              "title": "Starting, Stopping, and Turning - Signals",
+              "rawTitle": "ARTICLE 8: STARTING, STOPPING, AND TURNING - SIGNALS"
+            },
+            {
+              "id": "ch-272",
+              "filename": "ch-272-15-9-driving-in-no-passing-zones-and-divided-highways.html",
+              "shortLabel": "15-9",
+              "title": "Driving in No-passing Zones and Divided Highways",
+              "rawTitle": "ARTICLE 9: DRIVING IN NO-PASSING ZONES AND DIVIDED HIGHWAYS"
+            },
+            {
+              "id": "ch-273",
+              "filename": "ch-273-15-10-one-way-streets.html",
+              "shortLabel": "15-10",
+              "title": "One-way Streets",
+              "rawTitle": "ARTICLE 10: ONE-WAY STREETS"
+            },
+            {
+              "id": "ch-274",
+              "filename": "ch-274-15-11-right-of-way.html",
+              "shortLabel": "15-11",
+              "title": "Right-of-way",
+              "rawTitle": "ARTICLE 11: RIGHT-OF-WAY"
+            },
+            {
+              "id": "ch-275",
+              "filename": "ch-275-15-12-special-stops.html",
+              "shortLabel": "15-12",
+              "title": "Special Stops",
+              "rawTitle": "ARTICLE 12: SPECIAL STOPS"
+            },
+            {
+              "id": "ch-276",
+              "filename": "ch-276-15-13-stopping-standing-and-parking.html",
+              "shortLabel": "15-13",
+              "title": "Stopping, Standing, and Parking",
+              "rawTitle": "ARTICLE 13: STOPPING, STANDING, AND PARKING"
+            },
+            {
+              "id": "ch-277",
+              "filename": "ch-277-15-14-stopping-standing-or-parking-prohibited-in-specific-pl.html",
+              "shortLabel": "15-14",
+              "title": "Stopping, Standing, or Parking Prohibited in Specific Places",
+              "rawTitle": "ARTICLE 14: STOPPING, STANDING, OR PARKING PROHIBITED IN SPECIFIC PLACES"
+            },
+            {
+              "id": "ch-278",
+              "filename": "ch-278-15-15-stopping-for-loading-or-unloading-only.html",
+              "shortLabel": "15-15",
+              "title": "Stopping for Loading or Unloading Only",
+              "rawTitle": "ARTICLE 15: STOPPING FOR LOADING OR UNLOADING ONLY"
+            },
+            {
+              "id": "ch-279",
+              "filename": "ch-279-15-16-stopping-standing-or-parking-restricted-or-prohibited-.html",
+              "shortLabel": "15-16",
+              "title": "Stopping, Standing, or Parking Restricted or Prohibited on Certain Streets",
+              "rawTitle": "ARTICLE 16: STOPPING, STANDING, OR PARKING RESTRICTED OR PROHIBITED ON CERTAIN STREETS"
+            },
+            {
+              "id": "ch-280",
+              "filename": "ch-280-15-17-pedestrians-rights-and-duties.html",
+              "shortLabel": "15-17",
+              "title": "Pedestrians’ Rights and Duties",
+              "rawTitle": "ARTICLE 17: PEDESTRIANS’ RIGHTS AND DUTIES"
+            },
+            {
+              "id": "ch-281",
+              "filename": "ch-281-15-18-operation-of-bicycles-and-play-vehicles.html",
+              "shortLabel": "15-18",
+              "title": "Operation of Bicycles and Play Vehicles",
+              "rawTitle": "ARTICLE 18: OPERATION OF BICYCLES AND PLAY VEHICLES"
+            },
+            {
+              "id": "ch-282",
+              "filename": "ch-282-15-19-equipment.html",
+              "shortLabel": "15-19",
+              "title": "Equipment",
+              "rawTitle": "ARTICLE 19: EQUIPMENT"
+            },
+            {
+              "id": "ch-283",
+              "filename": "ch-283-15-20-inspection-of-motor-vehicles.html",
+              "shortLabel": "15-20",
+              "title": "Inspection of Motor Vehicles*",
+              "rawTitle": "ARTICLE 20: INSPECTION OF MOTOR VEHICLES*"
+            },
+            {
+              "id": "ch-284",
+              "filename": "ch-284-15-21-weight-size-and-load.html",
+              "shortLabel": "15-21",
+              "title": "Weight, Size, and Load",
+              "rawTitle": "ARTICLE 21: WEIGHT, SIZE, AND LOAD"
+            },
+            {
+              "id": "ch-285",
+              "filename": "ch-285-15-22-parking-meter-zones.html",
+              "shortLabel": "15-22",
+              "title": "Parking Meter Zones",
+              "rawTitle": "ARTICLE 22: PARKING METER ZONES"
+            },
+            {
+              "id": "ch-286",
+              "filename": "ch-286-15-23-off-street-parking.html",
+              "shortLabel": "15-23",
+              "title": "Off-street Parking",
+              "rawTitle": "ARTICLE 23: OFF-STREET PARKING"
+            },
+            {
+              "id": "ch-287",
+              "filename": "ch-287-15-24-miscellaneous-provisions.html",
+              "shortLabel": "15-24",
+              "title": "Miscellaneous Provisions",
+              "rawTitle": "ARTICLE 24: MISCELLANEOUS PROVISIONS"
+            },
+            {
+              "id": "ch-288",
+              "filename": "ch-288-15-25-pedestrian-malls.html",
+              "shortLabel": "15-25",
+              "title": "Pedestrian Malls",
+              "rawTitle": "ARTICLE 25: PEDESTRIAN MALLS"
+            },
+            {
+              "id": "ch-289",
+              "filename": "ch-289-15-26-penalties-and-procedure-on-arrest.html",
+              "shortLabel": "15-26",
+              "title": "Penalties and Procedure on Arrest",
+              "rawTitle": "ARTICLE 26: PENALTIES AND PROCEDURE ON ARREST"
+            },
+            {
+              "id": "ch-290",
+              "filename": "ch-290-15-27-designation-of-certain-county-highways-as-closed-to-la.html",
+              "shortLabel": "15-27",
+              "title": "Designation of Certain County Highways as Closed to Large Passenger Carrier Vehicles",
+              "rawTitle": "ARTICLE 27: DESIGNATION OF CERTAIN COUNTY HIGHWAYS AS CLOSED TO LARGE PASSENGER CARRIER VEHICLES"
+            },
+            {
+              "id": "ch-291",
+              "filename": "ch-291-15-28-public-transit-supportive-services.html",
+              "shortLabel": "15-28",
+              "title": "Public Transit Supportive Services",
+              "rawTitle": "ARTICLE 28: PUBLIC TRANSIT SUPPORTIVE SERVICES"
+            },
+            {
+              "id": "ch-292",
+              "filename": "ch-292-15-29-parking-space-reserved-for-persons-with-disabilities.html",
+              "shortLabel": "15-29",
+              "title": "Parking Space Reserved for Persons With Disabilities*",
+              "rawTitle": "ARTICLE 29: PARKING SPACE RESERVED FOR PERSONS WITH DISABILITIES*"
+            },
+            {
+              "id": "ch-293",
+              "filename": "ch-293-15-30-restricted-parking-zones-program.html",
+              "shortLabel": "15-30",
+              "title": "Restricted Parking Zones Program",
+              "rawTitle": "ARTICLE 30: RESTRICTED PARKING ZONES PROGRAM"
+            },
+            {
+              "id": "ch-294",
+              "filename": "ch-294-15-31-shared-mobility-micromobility-vehicle-parking.html",
+              "shortLabel": "15-31",
+              "title": "Shared Mobility - Micromobility Vehicle Parking",
+              "rawTitle": "ARTICLE 31: SHARED MOBILITY - MICROMOBILITY VEHICLE PARKING"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 15A: REGULATIONS OF VEHICLES",
+          "articles": [
+            {
+              "id": "ch-295",
+              "filename": "ch-295-15a-1-bicycles.html",
+              "shortLabel": "15A-1",
+              "title": "Bicycles",
+              "rawTitle": "ARTICLE 1: BICYCLES"
+            },
+            {
+              "id": "ch-296",
+              "filename": "ch-296-15a-2-permits-and-license-fees-for-driving-motor-vehicles.html",
+              "shortLabel": "15A-2",
+              "title": "Permits and License Fees for Driving Motor Vehicles",
+              "rawTitle": "ARTICLE 2: PERMITS AND LICENSE FEES FOR DRIVING MOTOR VEHICLES"
+            },
+            {
+              "id": "ch-297",
+              "filename": "ch-297-15a-3-motor-vehicle-weight-tax.html",
+              "shortLabel": "15A-3",
+              "title": "Motor Vehicle Weight Tax",
+              "rawTitle": "ARTICLE 3: MOTOR VEHICLE WEIGHT TAX"
+            },
+            {
+              "id": "ch-298",
+              "filename": "ch-298-15a-4-motor-vehicle-registration.html",
+              "shortLabel": "15A-4",
+              "title": "Motor Vehicle Registration",
+              "rawTitle": "ARTICLE 4: MOTOR VEHICLE REGISTRATION"
+            },
+            {
+              "id": "ch-299",
+              "filename": "ch-299-15a-5-motor-vehicle-alarms.html",
+              "shortLabel": "15A-5",
+              "title": "Motor Vehicle Alarms",
+              "rawTitle": "ARTICLE 5: MOTOR VEHICLE ALARMS"
+            },
+            {
+              "id": "ch-300",
+              "filename": "ch-300-15a-6-inspection-fees-for-reconstructed-vehicles.html",
+              "shortLabel": "15A-6",
+              "title": "Inspection Fees for Reconstructed Vehicles",
+              "rawTitle": "ARTICLE 6: INSPECTION FEES FOR RECONSTRUCTED VEHICLES"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 15B: PUBLIC TRANSIT",
+          "articles": [
+            {
+              "id": "ch-301",
+              "filename": "ch-301-15b-1-definitions.html",
+              "shortLabel": "15B-1",
+              "title": "Definitions",
+              "rawTitle": "ARTICLE 1: DEFINITIONS"
+            },
+            {
+              "id": "ch-302",
+              "filename": "ch-302-15b-2-islandwide-fare-structure.html",
+              "shortLabel": "15B-2",
+              "title": "Islandwide Fare Structure",
+              "rawTitle": "ARTICLE 2: ISLANDWIDE FARE STRUCTURE"
+            },
+            {
+              "id": "ch-303",
+              "filename": "ch-303-15b-3-activities-prohibited-on-the-multimodal-municipal-tran.html",
+              "shortLabel": "15B-3",
+              "title": "Activities Prohibited on the Multimodal Municipal Transportation System",
+              "rawTitle": "ARTICLE 3: ACTIVITIES PROHIBITED ON THE MULTIMODAL MUNICIPAL TRANSPORTATION SYSTEM"
+            },
+            {
+              "id": "ch-304",
+              "filename": "ch-304-15b-4-special-transit-service.html",
+              "shortLabel": "15B-4",
+              "title": "Special Transit Service",
+              "rawTitle": "ARTICLE 4: SPECIAL TRANSIT SERVICE"
+            },
+            {
+              "id": "ch-305",
+              "filename": "ch-305-15b-5-taxicab-subsidies.html",
+              "shortLabel": "15B-5",
+              "title": "Taxicab Subsidies",
+              "rawTitle": "ARTICLE 5: TAXICAB SUBSIDIES"
+            },
+            {
+              "id": "ch-306",
+              "filename": "ch-306-15b-6-city-bus-system.html",
+              "shortLabel": "15B-6",
+              "title": "City Bus System",
+              "rawTitle": "ARTICLE 6: CITY BUS SYSTEM"
+            },
+            {
+              "id": "ch-307",
+              "filename": "ch-307-15b-7-reserved.html",
+              "shortLabel": "15B-7",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 7: RESERVED"
+            },
+            {
+              "id": "ch-308",
+              "filename": "ch-308-15b-8-transit-management-services-contractor.html",
+              "shortLabel": "15B-8",
+              "title": "Transit Management Services Contractor",
+              "rawTitle": "ARTICLE 8: TRANSIT MANAGEMENT SERVICES CONTRACTOR"
+            },
+            {
+              "id": "ch-309",
+              "filename": "ch-309-15b-9-reserved.html",
+              "shortLabel": "15B-9",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 9: RESERVED"
+            },
+            {
+              "id": "ch-310",
+              "filename": "ch-310-15b-10-reserved.html",
+              "shortLabel": "15B-10",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 10: RESERVED"
+            },
+            {
+              "id": "ch-311",
+              "filename": "ch-311-15b-11-reserved.html",
+              "shortLabel": "15B-11",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 11: RESERVED"
+            },
+            {
+              "id": "ch-312",
+              "filename": "ch-312-15b-12-lying-down-at-bus-stops.html",
+              "shortLabel": "15B-12",
+              "title": "Lying Down at Bus Stops",
+              "rawTitle": "ARTICLE 12: LYING DOWN AT BUS STOPS"
+            },
+            {
+              "id": "ch-313",
+              "filename": "ch-313-15b-13-automated-external-defibrillators.html",
+              "shortLabel": "15B-13",
+              "title": "Automated External Defibrillators",
+              "rawTitle": "ARTICLE 13: AUTOMATED EXTERNAL DEFIBRILLATORS"
+            },
+            {
+              "id": "ch-314",
+              "filename": "ch-314-15b-14-city-transit-system.html",
+              "shortLabel": "15B-14",
+              "title": "City Transit System",
+              "rawTitle": "ARTICLE 14: CITY TRANSIT SYSTEM"
+            },
+            {
+              "id": "ch-315",
+              "filename": "ch-315-15b-15-advertising-on-the-municipal-multimodal-transportatio.html",
+              "shortLabel": "15B-15",
+              "title": "Advertising on the Municipal Multimodal Transportation System",
+              "rawTitle": "ARTICLE 15: ADVERTISING ON THE MUNICIPAL MULTIMODAL TRANSPORTATION SYSTEM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleLabel": "TITLE V: BUILDING AND CONSTRUCTION CODES",
+      "chapters": [
+        {
+          "chapterLabel": "CHAPTER 16: BUILDING CODE",
+          "articles": [
+            {
+              "id": "ch-316",
+              "filename": "ch-316-16-1-adoption-of-the-hawaii-state-building-code-and-hawaii-s.html",
+              "shortLabel": "16-1",
+              "title": "Adoption of the Hawaii State Building Code and Hawaii State Residential Code",
+              "rawTitle": "ARTICLE 1: ADOPTION OF THE HAWAII STATE BUILDING CODE AND HAWAII STATE RESIDENTIAL CODE"
+            },
+            {
+              "id": "ch-317",
+              "filename": "ch-317-16-2-relocation-of-buildings.html",
+              "shortLabel": "16-2",
+              "title": "Relocation of Buildings",
+              "rawTitle": "ARTICLE 2: RELOCATION OF BUILDINGS"
+            },
+            {
+              "id": "ch-318",
+              "filename": "ch-318-16-3-factory-built-buildings.html",
+              "shortLabel": "16-3",
+              "title": "Factory-built Buildings",
+              "rawTitle": "ARTICLE 3: FACTORY-BUILT BUILDINGS"
+            },
+            {
+              "id": "ch-319",
+              "filename": "ch-319-16-4-thatched-material-on-exterior-of-building-protection-ag.html",
+              "shortLabel": "16-4",
+              "title": "Thatched Material on Exterior of Building - Protection Against Exposure Fires",
+              "rawTitle": "ARTICLE 4: THATCHED MATERIAL ON EXTERIOR OF BUILDING - PROTECTION AGAINST EXPOSURE FIRES"
+            },
+            {
+              "id": "ch-320",
+              "filename": "ch-320-16-5-energy-conservation.html",
+              "shortLabel": "16-5",
+              "title": "Energy Conservation",
+              "rawTitle": "ARTICLE 5: ENERGY CONSERVATION"
+            },
+            {
+              "id": "ch-321",
+              "filename": "ch-321-16-6-residential-swimming-pools.html",
+              "shortLabel": "16-6",
+              "title": "Residential Swimming Pools",
+              "rawTitle": "ARTICLE 6: RESIDENTIAL SWIMMING POOLS"
+            },
+            {
+              "id": "ch-322",
+              "filename": "ch-322-16-7-public-swimming-pools.html",
+              "shortLabel": "16-7",
+              "title": "Public Swimming Pools",
+              "rawTitle": "ARTICLE 7: PUBLIC SWIMMING POOLS"
+            },
+            {
+              "id": "ch-323",
+              "filename": "ch-323-16-8-termite-infested-lumber.html",
+              "shortLabel": "16-8",
+              "title": "Termite-infested Lumber",
+              "rawTitle": "ARTICLE 8: TERMITE-INFESTED LUMBER"
+            },
+            {
+              "id": "ch-324",
+              "filename": "ch-324-16-9-adoption-of-the-hawaii-state-existing-building-code.html",
+              "shortLabel": "16-9",
+              "title": "Adoption of the Hawaii State Existing Building Code",
+              "rawTitle": "ARTICLE 9: ADOPTION OF THE HAWAII STATE EXISTING BUILDING CODE"
+            },
+            {
+              "id": "ch-325",
+              "filename": "ch-325-16-10-violations-and-penalties.html",
+              "shortLabel": "16-10",
+              "title": "Violations and Penalties",
+              "rawTitle": "ARTICLE 10: VIOLATIONS AND PENALTIES"
+            },
+            {
+              "id": "ch-326",
+              "filename": "ch-326-16-11-regulations-within-flood-hazard-districts-and-developm.html",
+              "shortLabel": "16-11",
+              "title": "Regulations Within Flood Hazard Districts and Development Adjacent to Drainage Facilities",
+              "rawTitle": "ARTICLE 11: REGULATIONS WITHIN FLOOD HAZARD DISTRICTS AND DEVELOPMENT ADJACENT TO DRAINAGE FACILITIES"
+            },
+            {
+              "id": "ch-327",
+              "filename": "ch-327-16-12-indigenous-hawaiian-architecture.html",
+              "shortLabel": "16-12",
+              "title": "Indigenous Hawaiian Architecture",
+              "rawTitle": "ARTICLE 12: INDIGENOUS HAWAIIAN ARCHITECTURE"
+            },
+            {
+              "id": "ch-328",
+              "filename": "ch-328-16-13-hawaii-residential-safe-room.html",
+              "shortLabel": "16-13",
+              "title": "Hawaii Residential Safe Room",
+              "rawTitle": "ARTICLE 13: HAWAII RESIDENTIAL SAFE ROOM"
+            },
+            {
+              "id": "ch-329",
+              "filename": "ch-329-16-14-adoption-of-the-state-and-city-owned-high-occupancy-bu.html",
+              "shortLabel": "16-14",
+              "title": "Adoption of the State- and City-owned High Occupancy Buildings - Design Criteria for Enhanced Hurricane Protection Areas",
+              "rawTitle": "ARTICLE 14: ADOPTION OF THE STATE- AND CITY-OWNED HIGH OCCUPANCY BUILDINGS - DESIGN CRITERIA FOR ENHANCED HURRICANE PROTECTION AREAS"
+            },
+            {
+              "id": "ch-330",
+              "filename": "ch-330-16-15-baby-diaper-changing-accommodations.html",
+              "shortLabel": "16-15",
+              "title": "Baby Diaper-changing Accommodations",
+              "rawTitle": "ARTICLE 15: BABY DIAPER-CHANGING ACCOMMODATIONS"
+            },
+            {
+              "id": "ch-331",
+              "filename": "ch-331-16-16-automated-external-defibrillators.html",
+              "shortLabel": "16-16",
+              "title": "Automated External Defibrillators*",
+              "rawTitle": "ARTICLE 16: AUTOMATED EXTERNAL DEFIBRILLATORS*"
+            },
+            {
+              "id": "ch-332",
+              "filename": "ch-332-16-17-shower-facilities.html",
+              "shortLabel": "16-17",
+              "title": "Shower Facilities",
+              "rawTitle": "ARTICLE 17: SHOWER FACILITIES"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 16A: HOUSING CODE",
+          "articles": [
+            {
+              "id": "ch-333",
+              "filename": "ch-333-16a-1-general-provisions.html",
+              "shortLabel": "16A-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            },
+            {
+              "id": "ch-334",
+              "filename": "ch-334-16a-2-definitions.html",
+              "shortLabel": "16A-2",
+              "title": "Definitions",
+              "rawTitle": "ARTICLE 2: DEFINITIONS"
+            },
+            {
+              "id": "ch-335",
+              "filename": "ch-335-16a-3-inspections.html",
+              "shortLabel": "16A-3",
+              "title": "Inspections",
+              "rawTitle": "ARTICLE 3: INSPECTIONS"
+            },
+            {
+              "id": "ch-336",
+              "filename": "ch-336-16a-4-space-and-occupancy-standards.html",
+              "shortLabel": "16A-4",
+              "title": "Space and Occupancy Standards",
+              "rawTitle": "ARTICLE 4: SPACE AND OCCUPANCY STANDARDS"
+            },
+            {
+              "id": "ch-337",
+              "filename": "ch-337-16a-5-structural-requirements.html",
+              "shortLabel": "16A-5",
+              "title": "Structural Requirements",
+              "rawTitle": "ARTICLE 5: STRUCTURAL REQUIREMENTS"
+            },
+            {
+              "id": "ch-338",
+              "filename": "ch-338-16a-6-mechanical-requirements.html",
+              "shortLabel": "16A-6",
+              "title": "Mechanical Requirements",
+              "rawTitle": "ARTICLE 6: MECHANICAL REQUIREMENTS"
+            },
+            {
+              "id": "ch-339",
+              "filename": "ch-339-16a-7-exits.html",
+              "shortLabel": "16A-7",
+              "title": "Exits",
+              "rawTitle": "ARTICLE 7: EXITS"
+            },
+            {
+              "id": "ch-340",
+              "filename": "ch-340-16a-8-fire-protection.html",
+              "shortLabel": "16A-8",
+              "title": "Fire Protection",
+              "rawTitle": "ARTICLE 8: FIRE PROTECTION"
+            },
+            {
+              "id": "ch-341",
+              "filename": "ch-341-16a-9-violations.html",
+              "shortLabel": "16A-9",
+              "title": "Violations",
+              "rawTitle": "ARTICLE 9: VIOLATIONS"
+            },
+            {
+              "id": "ch-342",
+              "filename": "ch-342-16a-10-enforcement.html",
+              "shortLabel": "16A-10",
+              "title": "Enforcement",
+              "rawTitle": "ARTICLE 10: ENFORCEMENT"
+            },
+            {
+              "id": "ch-343",
+              "filename": "ch-343-16a-11-severability.html",
+              "shortLabel": "16A-11",
+              "title": "Severability",
+              "rawTitle": "ARTICLE 11: SEVERABILITY"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 16B: BUILDING ENERGY CONSERVATION CODE",
+          "articles": [
+            {
+              "id": "ch-344",
+              "filename": "ch-344-16b-1-building-energy-conservation-code.html",
+              "shortLabel": "16B-1",
+              "title": "Building Energy Conservation Code",
+              "rawTitle": "ARTICLE 1: BUILDING ENERGY CONSERVATION CODE"
+            },
+            {
+              "id": "ch-345",
+              "filename": "ch-345-16b-appcb-voluntary-stretch-code-commercial.html",
+              "shortLabel": "16B-App.CB",
+              "title": "Voluntary Stretch Code - Commercial",
+              "rawTitle": "APPENDIX CB VOLUNTARY STRETCH CODE - COMMERCIAL"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 16C: BUILDING MANAGEMENT",
+          "articles": [
+            {
+              "id": "ch-346",
+              "filename": "ch-346-16c-1-better-buildings-benchmarking-program.html",
+              "shortLabel": "16C-1",
+              "title": "Better Buildings Benchmarking Program",
+              "rawTitle": "ARTICLE 1: BETTER BUILDINGS BENCHMARKING PROGRAM"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 17: ELECTRICAL CODE",
+          "articles": [
+            {
+              "id": "ch-347",
+              "filename": "ch-347-17-1-electrical-code.html",
+              "shortLabel": "17-1",
+              "title": "Electrical Code",
+              "rawTitle": "ARTICLE 1: ELECTRICAL CODE"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 18: FEES AND PERMITS FOR BUILDING, ELECTRICAL, PLUMBING, AND SIDEWALK CODES",
+          "articles": [
+            {
+              "id": "ch-348",
+              "filename": "ch-348-18-1-purpose.html",
+              "shortLabel": "18-1",
+              "title": "Purpose",
+              "rawTitle": "ARTICLE 1: PURPOSE"
+            },
+            {
+              "id": "ch-349",
+              "filename": "ch-349-18-2-general-provisions.html",
+              "shortLabel": "18-2",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 2: GENERAL PROVISIONS"
+            },
+            {
+              "id": "ch-350",
+              "filename": "ch-350-18-3-permits.html",
+              "shortLabel": "18-3",
+              "title": "Permits",
+              "rawTitle": "ARTICLE 3: PERMITS"
+            },
+            {
+              "id": "ch-351",
+              "filename": "ch-351-18-4-permit-application.html",
+              "shortLabel": "18-4",
+              "title": "Permit Application",
+              "rawTitle": "ARTICLE 4: PERMIT APPLICATION"
+            },
+            {
+              "id": "ch-352",
+              "filename": "ch-352-18-5-permit-issuance.html",
+              "shortLabel": "18-5",
+              "title": "Permit Issuance",
+              "rawTitle": "ARTICLE 5: PERMIT ISSUANCE"
+            },
+            {
+              "id": "ch-353",
+              "filename": "ch-353-18-6-fees.html",
+              "shortLabel": "18-6",
+              "title": "Fees",
+              "rawTitle": "ARTICLE 6: FEES"
+            },
+            {
+              "id": "ch-354",
+              "filename": "ch-354-18-7-violation-and-penalty.html",
+              "shortLabel": "18-7",
+              "title": "Violation and Penalty",
+              "rawTitle": "ARTICLE 7: VIOLATION AND PENALTY"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 18A: GRADING, SOIL EROSION, AND SEDIMENT CONTROL",
+          "articles": [
+            {
+              "id": "ch-355",
+              "filename": "ch-355-18a-1-general-provisions-for-grading-soil-erosion-and-sedime.html",
+              "shortLabel": "18A-1",
+              "title": "General Provisions for Grading, Soil Erosion, and Sediment Control",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS FOR GRADING, SOIL EROSION, AND SEDIMENT CONTROL"
+            },
+            {
+              "id": "ch-356",
+              "filename": "ch-356-18a-2-permits-bonds-and-inspection-for-grading-soil-erosion-.html",
+              "shortLabel": "18A-2",
+              "title": "Permits, Bonds, and Inspection for Grading, Soil Erosion, and Sediment Control",
+              "rawTitle": "ARTICLE 2: PERMITS, BONDS, AND INSPECTION FOR GRADING, SOIL EROSION, AND SEDIMENT CONTROL"
+            },
+            {
+              "id": "ch-357",
+              "filename": "ch-357-18a-3-grading-grubbing-and-stockpiling.html",
+              "shortLabel": "18A-3",
+              "title": "Grading, Grubbing, and Stockpiling",
+              "rawTitle": "ARTICLE 3: GRADING, GRUBBING, AND STOCKPILING"
+            },
+            {
+              "id": "ch-358",
+              "filename": "ch-358-18a-4-violations-penalties-and-liabilities-for-grading-grubb.html",
+              "shortLabel": "18A-4",
+              "title": "Violations, Penalties, and Liabilities for Grading, Grubbing, and Stockpiling",
+              "rawTitle": "ARTICLE 4: VIOLATIONS, PENALTIES, AND LIABILITIES FOR GRADING, GRUBBING, AND STOCKPILING"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 19: PLUMBING CODE",
+          "articles": [
+            {
+              "id": "ch-359",
+              "filename": "ch-359-19-1-general-provisions.html",
+              "shortLabel": "19-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 20: FIRE CODE OF THE CITY AND COUNTY OF HONOLULU",
+          "articles": [
+            {
+              "id": "ch-360",
+              "filename": "ch-360-20-1-adoption-of-the-state-fire-code.html",
+              "shortLabel": "20-1",
+              "title": "Adoption of the State Fire Code",
+              "rawTitle": "ARTICLE 1: ADOPTION OF THE STATE FIRE CODE"
+            },
+            {
+              "id": "ch-361",
+              "filename": "ch-361-20-2-life-safety-requirements-for-existing-hotel-buildings-a.html",
+              "shortLabel": "20-2",
+              "title": "Life Safety Requirements for Existing Hotel Buildings and Existing Business Buildings",
+              "rawTitle": "ARTICLE 2: LIFE SAFETY REQUIREMENTS FOR EXISTING HOTEL BUILDINGS AND EXISTING BUSINESS BUILDINGS"
+            },
+            {
+              "id": "ch-362",
+              "filename": "ch-362-20-3-examination-and-approval-of-plans-by-fire-chief.html",
+              "shortLabel": "20-3",
+              "title": "Examination and Approval of Plans by Fire Chief",
+              "rawTitle": "ARTICLE 3: EXAMINATION AND APPROVAL OF PLANS BY FIRE CHIEF"
+            },
+            {
+              "id": "ch-363",
+              "filename": "ch-363-20-4-fire-and-life-safety-evaluation-of-existing-highrise-re.html",
+              "shortLabel": "20-4",
+              "title": "Fire and Life Safety Evaluation of Existing Highrise Residential Buildings",
+              "rawTitle": "ARTICLE 4: FIRE AND LIFE SAFETY EVALUATION OF EXISTING HIGHRISE RESIDENTIAL BUILDINGS"
+            },
+            {
+              "id": "ch-364",
+              "filename": "ch-364-20-5-requirements-for-smoke-detectors-in-existing-highrise-r.html",
+              "shortLabel": "20-5",
+              "title": "Requirements for Smoke Detectors in Existing Highrise Residential Buildings",
+              "rawTitle": "ARTICLE 5: REQUIREMENTS FOR SMOKE DETECTORS IN EXISTING HIGHRISE RESIDENTIAL BUILDINGS"
+            },
+            {
+              "id": "ch-365",
+              "filename": "ch-365-20-6-regulation-of-fireworks.html",
+              "shortLabel": "20-6",
+              "title": "Regulation of Fireworks",
+              "rawTitle": "ARTICLE 6: REGULATION OF FIREWORKS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleLabel": "TITLE VI: LAND USE",
+      "chapters": [
+        {
+          "chapterLabel": "CHAPTER 21: LAND USE ORDINANCE",
+          "articles": [
+            {
+              "id": "ch-366",
+              "filename": "ch-366-21-1-general-provisions.html",
+              "shortLabel": "21-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            },
+            {
+              "id": "ch-367",
+              "filename": "ch-367-21-2-administration-and-enforcement.html",
+              "shortLabel": "21-2",
+              "title": "Administration and Enforcement",
+              "rawTitle": "ARTICLE 2: ADMINISTRATION AND ENFORCEMENT"
+            },
+            {
+              "id": "ch-368",
+              "filename": "ch-368-21-2a-hosting-platforms.html",
+              "shortLabel": "21-2A",
+              "title": "Hosting Platforms",
+              "rawTitle": "ARTICLE 2A: HOSTING PLATFORMS"
+            },
+            {
+              "id": "ch-369",
+              "filename": "ch-369-21-3-establishment-of-zoning-districts-and-zoning-district-r.html",
+              "shortLabel": "21-3",
+              "title": "Establishment of Zoning Districts and Zoning District Regulations",
+              "rawTitle": "ARTICLE 3: ESTABLISHMENT OF ZONING DISTRICTS AND ZONING DISTRICT REGULATIONS"
+            },
+            {
+              "id": "ch-370",
+              "filename": "ch-370-21-4-general-development-standards.html",
+              "shortLabel": "21-4",
+              "title": "General Development Standards",
+              "rawTitle": "ARTICLE 4: GENERAL DEVELOPMENT STANDARDS"
+            },
+            {
+              "id": "ch-371",
+              "filename": "ch-371-21-5-use-regulations.html",
+              "shortLabel": "21-5",
+              "title": "Use Regulations",
+              "rawTitle": "ARTICLE 5: USE REGULATIONS"
+            },
+            {
+              "id": "ch-372",
+              "filename": "ch-372-21-6-off-street-parking-and-loading.html",
+              "shortLabel": "21-6",
+              "title": "Off-street Parking and Loading",
+              "rawTitle": "ARTICLE 6: OFF-STREET PARKING AND LOADING"
+            },
+            {
+              "id": "ch-373",
+              "filename": "ch-373-21-7-sign-regulations.html",
+              "shortLabel": "21-7",
+              "title": "Sign Regulations",
+              "rawTitle": "ARTICLE 7: SIGN REGULATIONS"
+            },
+            {
+              "id": "ch-374",
+              "filename": "ch-374-21-8-optional-development-regulations.html",
+              "shortLabel": "21-8",
+              "title": "Optional Development Regulations",
+              "rawTitle": "ARTICLE 8: OPTIONAL DEVELOPMENT REGULATIONS"
+            },
+            {
+              "id": "ch-375",
+              "filename": "ch-375-21-9-special-district-regulations.html",
+              "shortLabel": "21-9",
+              "title": "Special District Regulations",
+              "rawTitle": "ARTICLE 9: SPECIAL DISTRICT REGULATIONS"
+            },
+            {
+              "id": "ch-376",
+              "filename": "ch-376-21-10-definitions.html",
+              "shortLabel": "21-10",
+              "title": "Definitions",
+              "rawTitle": "ARTICLE 10: DEFINITIONS"
+            },
+            {
+              "id": "ch-377",
+              "filename": "ch-377-21-app21-a-key-to-department-abbreviations-used-in-chapter-2.html",
+              "shortLabel": "21-App.21-A",
+              "title": "Key to Department Abbreviations Used in Chapter 21 Appendices",
+              "rawTitle": "APPENDIX 21-A: KEY TO DEPARTMENT ABBREVIATIONS USED IN CHAPTER 21 APPENDICES"
+            },
+            {
+              "id": "ch-378",
+              "filename": "ch-378-21-app21-b-zoning-ordinances.html",
+              "shortLabel": "21-App.21-B",
+              "title": "Zoning Ordinances",
+              "rawTitle": "APPENDIX 21-B: ZONING ORDINANCES"
+            },
+            {
+              "id": "ch-379",
+              "filename": "ch-379-21-app21-c-zoning-maps.html",
+              "shortLabel": "21-App.21-C",
+              "title": "Zoning Maps",
+              "rawTitle": "APPENDIX 21-C: ZONING MAPS"
+            },
+            {
+              "id": "ch-380",
+              "filename": "ch-380-21-app21-d-resolutions-plan-review-use-approvals.html",
+              "shortLabel": "21-App.21-D",
+              "title": "Resolutions - Plan Review Use Approvals",
+              "rawTitle": "APPENDIX 21-D: RESOLUTIONS - PLAN REVIEW USE APPROVALS"
+            },
+            {
+              "id": "ch-381",
+              "filename": "ch-381-21-app21-e-interim-control-ordinances.html",
+              "shortLabel": "21-App.21-E",
+              "title": "Interim Control Ordinances",
+              "rawTitle": "APPENDIX 21-E: INTERIM CONTROL ORDINANCES"
+            },
+            {
+              "id": "ch-382",
+              "filename": "ch-382-21-app21-f-kakaako-special-design-district-ksdd.html",
+              "shortLabel": "21-App.21-F",
+              "title": "Kakaako Special Design District (ksdd)",
+              "rawTitle": "APPENDIX 21-F: KAKAAKO SPECIAL DESIGN DISTRICT (KSDD)"
+            },
+            {
+              "id": "ch-383",
+              "filename": "ch-383-21-app21-g-list-of-figures.html",
+              "shortLabel": "21-App.21-G",
+              "title": "List of Figures",
+              "rawTitle": "APPENDIX 21-G: LIST OF FIGURES"
+            },
+            {
+              "id": "ch-384",
+              "filename": "ch-384-21-app21-h-amendments-to-planned-development-conditional-use.html",
+              "shortLabel": "21-App.21-H",
+              "title": "Amendments to Planned Development, Conditional Use Permit, and Cluster Ordinances; and Resolutions Approving Planned Development-apartment, Planned Development-resort, Interim Planned Development-transit, and Planned Development-transit Projects",
+              "rawTitle": "APPENDIX 21-H: AMENDMENTS TO PLANNED DEVELOPMENT, CONDITIONAL USE PERMIT, AND CLUSTER ORDINANCES; AND RESOLUTIONS APPROVING PLANNED DEVELOPMENT-APARTMENT, PLANNED DEVELOPMENT-RESORT, INTERIM PLANNED DEVELOPMENT-TRANSIT, AND PLANNED DEVELOPMENT-TRANSIT PROJECTS"
+            },
+            {
+              "id": "ch-385",
+              "filename": "ch-385-21-app21-i-transit-oriented-development-plan-resolutions.html",
+              "shortLabel": "21-App.21-I",
+              "title": "Transit-oriented Development Plan Resolutions",
+              "rawTitle": "APPENDIX 21-I: TRANSIT-ORIENTED DEVELOPMENT PLAN RESOLUTIONS"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 21A: FLOOD HAZARD AREAS",
+          "articles": [
+            {
+              "id": "ch-386",
+              "filename": "ch-386-21a-1-general-provisions.html",
+              "shortLabel": "21A-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 22: SUBDIVISION OF LAND",
+          "articles": [
+            {
+              "id": "ch-387",
+              "filename": "ch-387-22-1-filing-fees.html",
+              "shortLabel": "22-1",
+              "title": "Filing Fees",
+              "rawTitle": "ARTICLE 1: FILING FEES"
+            },
+            {
+              "id": "ch-388",
+              "filename": "ch-388-22-2-street-lights.html",
+              "shortLabel": "22-2",
+              "title": "Street Lights",
+              "rawTitle": "ARTICLE 2: STREET LIGHTS"
+            },
+            {
+              "id": "ch-389",
+              "filename": "ch-389-22-3-subdivision-and-consolidation-of-land.html",
+              "shortLabel": "22-3",
+              "title": "Subdivision and Consolidation of Land",
+              "rawTitle": "ARTICLE 3: SUBDIVISION AND CONSOLIDATION OF LAND"
+            },
+            {
+              "id": "ch-390",
+              "filename": "ch-390-22-4-sidewalks-and-curbs-in-residential-subdivisions.html",
+              "shortLabel": "22-4",
+              "title": "Sidewalks and Curbs in Residential Subdivisions",
+              "rawTitle": "ARTICLE 4: SIDEWALKS AND CURBS IN RESIDENTIAL SUBDIVISIONS"
+            },
+            {
+              "id": "ch-391",
+              "filename": "ch-391-22-5-utility-lines.html",
+              "shortLabel": "22-5",
+              "title": "Utility Lines",
+              "rawTitle": "ARTICLE 5: UTILITY LINES"
+            },
+            {
+              "id": "ch-392",
+              "filename": "ch-392-22-6-public-access-to-shoreline-and-mountain-areas.html",
+              "shortLabel": "22-6",
+              "title": "Public Access to Shoreline and Mountain Areas",
+              "rawTitle": "ARTICLE 6: PUBLIC ACCESS TO SHORELINE AND MOUNTAIN AREAS"
+            },
+            {
+              "id": "ch-393",
+              "filename": "ch-393-22-7-parks-and-playgrounds.html",
+              "shortLabel": "22-7",
+              "title": "Parks and Playgrounds",
+              "rawTitle": "ARTICLE 7: PARKS AND PLAYGROUNDS"
+            },
+            {
+              "id": "ch-394",
+              "filename": "ch-394-22-8-street-names.html",
+              "shortLabel": "22-8",
+              "title": "Street Names",
+              "rawTitle": "ARTICLE 8: STREET NAMES"
+            },
+            {
+              "id": "ch-395",
+              "filename": "ch-395-22-9-memorials-and-names-for-city-parks-sites-and-facilities.html",
+              "shortLabel": "22-9",
+              "title": "Memorials and Names for City Parks, Sites, and Facilities",
+              "rawTitle": "ARTICLE 9: MEMORIALS AND NAMES FOR CITY PARKS, SITES, AND FACILITIES"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 23: STATE LAND USE CLASSIFICATION",
+          "articles": [
+            {
+              "id": "ch-396",
+              "filename": "ch-396-23-1-boundary-adjustments-between-agricultural-and-urban-dis.html",
+              "shortLabel": "23-1",
+              "title": "Boundary Adjustments Between Agricultural and Urban Districts",
+              "rawTitle": "ARTICLE 1: BOUNDARY ADJUSTMENTS BETWEEN AGRICULTURAL AND URBAN DISTRICTS"
+            },
+            {
+              "id": "ch-397",
+              "filename": "ch-397-23-app23-a-state-land-use-district-boundary-amendments.html",
+              "shortLabel": "23-App.23-A",
+              "title": "State Land Use District Boundary Amendments",
+              "rawTitle": "APPENDIX 23-A: STATE LAND USE DISTRICT BOUNDARY AMENDMENTS"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 24: DEVELOPMENT PLANS",
+          "articles": [
+            {
+              "id": "ch-398",
+              "filename": "ch-398-24-1-development-plan-common-provisions.html",
+              "shortLabel": "24-1",
+              "title": "Development Plan Common Provisions *",
+              "rawTitle": "ARTICLE 1: DEVELOPMENT PLAN COMMON PROVISIONS *"
+            },
+            {
+              "id": "ch-399",
+              "filename": "ch-399-24-2-primary-urban-center.html",
+              "shortLabel": "24-2",
+              "title": "Primary Urban Center",
+              "rawTitle": "ARTICLE 2: PRIMARY URBAN CENTER"
+            },
+            {
+              "id": "ch-400",
+              "filename": "ch-400-24-3-ewa.html",
+              "shortLabel": "24-3",
+              "title": "Ewa",
+              "rawTitle": "ARTICLE 3: EWA"
+            },
+            {
+              "id": "ch-401",
+              "filename": "ch-401-24-4-east-honolulu.html",
+              "shortLabel": "24-4",
+              "title": "East Honolulu",
+              "rawTitle": "ARTICLE 4: EAST HONOLULU"
+            },
+            {
+              "id": "ch-402",
+              "filename": "ch-402-24-5-central-oahu.html",
+              "shortLabel": "24-5",
+              "title": "Central Oahu*",
+              "rawTitle": "ARTICLE 5: CENTRAL OAHU*"
+            },
+            {
+              "id": "ch-403",
+              "filename": "ch-403-24-6-koolau-poko.html",
+              "shortLabel": "24-6",
+              "title": "Koolau Poko",
+              "rawTitle": "ARTICLE 6: KOOLAU POKO"
+            },
+            {
+              "id": "ch-404",
+              "filename": "ch-404-24-7-koolau-loa.html",
+              "shortLabel": "24-7",
+              "title": "Koolau Loa",
+              "rawTitle": "ARTICLE 7: KOOLAU LOA"
+            },
+            {
+              "id": "ch-405",
+              "filename": "ch-405-24-8-north-shore.html",
+              "shortLabel": "24-8",
+              "title": "North Shore",
+              "rawTitle": "ARTICLE 8: NORTH SHORE"
+            },
+            {
+              "id": "ch-406",
+              "filename": "ch-406-24-9-waianae.html",
+              "shortLabel": "24-9",
+              "title": "Waianae",
+              "rawTitle": "ARTICLE 9: WAIANAE"
+            },
+            {
+              "id": "ch-407",
+              "filename": "ch-407-24-10-northwestern-hawaiian-islands.html",
+              "shortLabel": "24-10",
+              "title": "Northwestern Hawaiian Islands",
+              "rawTitle": "ARTICLE 10: NORTHWESTERN HAWAIIAN ISLANDS"
+            },
+            {
+              "id": "ch-408",
+              "filename": "ch-408-24-app24-10-appendix-24-10.html",
+              "shortLabel": "24-App.24-10",
+              "title": "Appendix 24-10",
+              "rawTitle": "APPENDIX 24-10"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 25: SPECIAL MANAGEMENT AREAS",
+          "articles": [
+            {
+              "id": "ch-409",
+              "filename": "ch-409-25-1-general-provisions.html",
+              "shortLabel": "25-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            },
+            {
+              "id": "ch-410",
+              "filename": "ch-410-25-2-special-management-area.html",
+              "shortLabel": "25-2",
+              "title": "Special Management Area",
+              "rawTitle": "ARTICLE 2: SPECIAL MANAGEMENT AREA"
+            },
+            {
+              "id": "ch-411",
+              "filename": "ch-411-25-3-objectives-policies-and-guidelines.html",
+              "shortLabel": "25-3",
+              "title": "Objectives, Policies, and Guidelines",
+              "rawTitle": "ARTICLE 3: OBJECTIVES, POLICIES, AND GUIDELINES"
+            },
+            {
+              "id": "ch-412",
+              "filename": "ch-412-25-4-permit-review-guidelines.html",
+              "shortLabel": "25-4",
+              "title": "Permit Review Guidelines",
+              "rawTitle": "ARTICLE 4: PERMIT REVIEW GUIDELINES"
+            },
+            {
+              "id": "ch-413",
+              "filename": "ch-413-25-5-permit-processing-procedures.html",
+              "shortLabel": "25-5",
+              "title": "Permit Processing Procedures",
+              "rawTitle": "ARTICLE 5: PERMIT PROCESSING PROCEDURES"
+            },
+            {
+              "id": "ch-414",
+              "filename": "ch-414-25-6-required-conditions.html",
+              "shortLabel": "25-6",
+              "title": "Required Conditions",
+              "rawTitle": "ARTICLE 6: REQUIRED CONDITIONS"
+            },
+            {
+              "id": "ch-415",
+              "filename": "ch-415-25-7-exemptions.html",
+              "shortLabel": "25-7",
+              "title": "Exemptions",
+              "rawTitle": "ARTICLE 7: EXEMPTIONS"
+            },
+            {
+              "id": "ch-416",
+              "filename": "ch-416-25-8-penalties.html",
+              "shortLabel": "25-8",
+              "title": "Penalties",
+              "rawTitle": "ARTICLE 8: PENALTIES"
+            },
+            {
+              "id": "ch-417",
+              "filename": "ch-417-25-9-enforcement.html",
+              "shortLabel": "25-9",
+              "title": "Enforcement",
+              "rawTitle": "ARTICLE 9: ENFORCEMENT"
+            },
+            {
+              "id": "ch-418",
+              "filename": "ch-418-25-10-appeals.html",
+              "shortLabel": "25-10",
+              "title": "Appeals",
+              "rawTitle": "ARTICLE 10: APPEALS"
+            },
+            {
+              "id": "ch-419",
+              "filename": "ch-419-25-11-rules.html",
+              "shortLabel": "25-11",
+              "title": "Rules",
+              "rawTitle": "ARTICLE 11: RULES"
+            },
+            {
+              "id": "ch-420",
+              "filename": "ch-420-25-app25-1-special-management-area-use-permit-and-shoreline-.html",
+              "shortLabel": "25-App.25-1",
+              "title": "Special Management Area Use Permit and Shoreline Variance Resolutions",
+              "rawTitle": "APPENDIX 25-1: SPECIAL MANAGEMENT AREA USE PERMIT AND SHORELINE VARIANCE RESOLUTIONS"
+            },
+            {
+              "id": "ch-421",
+              "filename": "ch-421-25-app25-2-special-management-area-maps.html",
+              "shortLabel": "25-App.25-2",
+              "title": "Special Management Area Maps*",
+              "rawTitle": "APPENDIX 25-2: SPECIAL MANAGEMENT AREA MAPS*"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 26: SHORELINE SETBACKS",
+          "articles": [
+            {
+              "id": "ch-422",
+              "filename": "ch-422-26-1-shoreline-setbacks.html",
+              "shortLabel": "26-1",
+              "title": "Shoreline Setbacks",
+              "rawTitle": "ARTICLE 1: SHORELINE SETBACKS"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 27: COMMUNITY FACILITIES DISTRICTS",
+          "articles": [
+            {
+              "id": "ch-423",
+              "filename": "ch-423-27-1-general-provisions.html",
+              "shortLabel": "27-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            },
+            {
+              "id": "ch-424",
+              "filename": "ch-424-27-2-proceedings.html",
+              "shortLabel": "27-2",
+              "title": "Proceedings",
+              "rawTitle": "ARTICLE 2: PROCEEDINGS"
+            },
+            {
+              "id": "ch-425",
+              "filename": "ch-425-27-3-special-tax.html",
+              "shortLabel": "27-3",
+              "title": "Special Tax",
+              "rawTitle": "ARTICLE 3: SPECIAL TAX"
+            },
+            {
+              "id": "ch-426",
+              "filename": "ch-426-27-4-changes-in-term-of-district-authorized-special-improvem.html",
+              "shortLabel": "27-4",
+              "title": "Changes in Term of District, Authorized Special Improvement, and Special Tax",
+              "rawTitle": "ARTICLE 4: CHANGES IN TERM OF DISTRICT, AUTHORIZED SPECIAL IMPROVEMENT, AND SPECIAL TAX"
+            },
+            {
+              "id": "ch-427",
+              "filename": "ch-427-27-5-early-termination-of-district.html",
+              "shortLabel": "27-5",
+              "title": "Early Termination of District",
+              "rawTitle": "ARTICLE 5: EARLY TERMINATION OF DISTRICT"
+            },
+            {
+              "id": "ch-428",
+              "filename": "ch-428-27-6-annexation-of-territory.html",
+              "shortLabel": "27-6",
+              "title": "Annexation of Territory",
+              "rawTitle": "ARTICLE 6: ANNEXATION OF TERRITORY"
+            },
+            {
+              "id": "ch-429",
+              "filename": "ch-429-27-7-bonds.html",
+              "shortLabel": "27-7",
+              "title": "Bonds",
+              "rawTitle": "ARTICLE 7: BONDS"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 28: SPECIAL IMPROVEMENT DISTRICTS",
+          "articles": [
+            {
+              "id": "ch-430",
+              "filename": "ch-430-28-1-general-provisions.html",
+              "shortLabel": "28-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            },
+            {
+              "id": "ch-431",
+              "filename": "ch-431-28-2-proceedings.html",
+              "shortLabel": "28-2",
+              "title": "Proceedings",
+              "rawTitle": "ARTICLE 2: PROCEEDINGS"
+            },
+            {
+              "id": "ch-432",
+              "filename": "ch-432-28-3-special-assessment.html",
+              "shortLabel": "28-3",
+              "title": "Special Assessment",
+              "rawTitle": "ARTICLE 3: SPECIAL ASSESSMENT"
+            },
+            {
+              "id": "ch-433",
+              "filename": "ch-433-28-4-changes-in-authorized-supplemental-services-improvement.html",
+              "shortLabel": "28-4",
+              "title": "Changes in Authorized Supplemental Services, Improvements, and Special Assessment",
+              "rawTitle": "ARTICLE 4: CHANGES IN AUTHORIZED SUPPLEMENTAL SERVICES, IMPROVEMENTS, AND SPECIAL ASSESSMENT"
+            },
+            {
+              "id": "ch-434",
+              "filename": "ch-434-28-5-annexation-of-territory.html",
+              "shortLabel": "28-5",
+              "title": "Annexation of Territory",
+              "rawTitle": "ARTICLE 5: ANNEXATION OF TERRITORY"
+            },
+            {
+              "id": "ch-435",
+              "filename": "ch-435-28-6-termination-of-district.html",
+              "shortLabel": "28-6",
+              "title": "Termination of District",
+              "rawTitle": "ARTICLE 6: TERMINATION OF DISTRICT"
+            },
+            {
+              "id": "ch-436",
+              "filename": "ch-436-28-7-bonds.html",
+              "shortLabel": "28-7",
+              "title": "Bonds",
+              "rawTitle": "ARTICLE 7: BONDS"
+            },
+            {
+              "id": "ch-437",
+              "filename": "ch-437-28-app28-a-specific-special-improvement-district-ordinances.html",
+              "shortLabel": "28-App.28-A",
+              "title": "Specific Special Improvement District Ordinances",
+              "rawTitle": "APPENDIX 28-A: SPECIFIC SPECIAL IMPROVEMENT DISTRICT ORDINANCES"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 29: AFFORDABLE HOUSING REQUIREMENTS",
+          "articles": [
+            {
+              "id": "ch-438",
+              "filename": "ch-438-29-1-general-affordable-housing-requirements.html",
+              "shortLabel": "29-1",
+              "title": "General Affordable Housing Requirements",
+              "rawTitle": "ARTICLE 1: GENERAL AFFORDABLE HOUSING REQUIREMENTS"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 30: WATER MANAGEMENT",
+          "articles": [
+            {
+              "id": "ch-439",
+              "filename": "ch-439-30-1-general-provisions.html",
+              "shortLabel": "30-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            },
+            {
+              "id": "ch-440",
+              "filename": "ch-440-30-2-oahu-water-management-policies-and-strategies.html",
+              "shortLabel": "30-2",
+              "title": "Oahu Water Management Policies and Strategies",
+              "rawTitle": "ARTICLE 2: OAHU WATER MANAGEMENT POLICIES AND STRATEGIES"
+            },
+            {
+              "id": "ch-441",
+              "filename": "ch-441-30-2a-waianae-watershed-management-plan.html",
+              "shortLabel": "30-2A",
+              "title": "Waianae Watershed Management Plan",
+              "rawTitle": "ARTICLE 2A: WAIANAE WATERSHED MANAGEMENT PLAN"
+            },
+            {
+              "id": "ch-442",
+              "filename": "ch-442-30-2b-koolau-loa-watershed-management-plan.html",
+              "shortLabel": "30-2B",
+              "title": "Koolau Loa Watershed Management Plan",
+              "rawTitle": "ARTICLE 2B: KOOLAU LOA WATERSHED MANAGEMENT PLAN"
+            },
+            {
+              "id": "ch-443",
+              "filename": "ch-443-30-2c-koolau-poko-watershed-management-plan.html",
+              "shortLabel": "30-2C",
+              "title": "Koolau Poko Watershed Management Plan",
+              "rawTitle": "ARTICLE 2C: KOOLAU POKO WATERSHED MANAGEMENT PLAN"
+            },
+            {
+              "id": "ch-444",
+              "filename": "ch-444-30-2d-north-shore-watershed-management-plan.html",
+              "shortLabel": "30-2D",
+              "title": "North Shore Watershed Management Plan",
+              "rawTitle": "ARTICLE 2D: NORTH SHORE WATERSHED MANAGEMENT PLAN"
+            },
+            {
+              "id": "ch-445",
+              "filename": "ch-445-30-2e-east-honolulu-watershed-management-plan.html",
+              "shortLabel": "30-2E",
+              "title": "East Honolulu Watershed Management Plan",
+              "rawTitle": "ARTICLE 2E: EAST HONOLULU WATERSHED MANAGEMENT PLAN"
+            },
+            {
+              "id": "ch-446",
+              "filename": "ch-446-30-3-severability.html",
+              "shortLabel": "30-3",
+              "title": "Severability",
+              "rawTitle": "ARTICLE 3: SEVERABILITY"
+            },
+            {
+              "id": "ch-447",
+              "filename": "ch-447-30-4-water-conservation-measures.html",
+              "shortLabel": "30-4",
+              "title": "Water Conservation Measures",
+              "rawTitle": "ARTICLE 4: WATER CONSERVATION MEASURES"
+            },
+            {
+              "id": "ch-448",
+              "filename": "ch-448-30-5-medication-in-drinking-water.html",
+              "shortLabel": "30-5",
+              "title": "Medication in Drinking Water",
+              "rawTitle": "ARTICLE 5: MEDICATION IN DRINKING WATER"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 31: COMMUNITY ECONOMIC DEVELOPMENT",
+          "articles": [
+            {
+              "id": "ch-449",
+              "filename": "ch-449-31-1-enterprise-zone.html",
+              "shortLabel": "31-1",
+              "title": "Enterprise Zone",
+              "rawTitle": "ARTICLE 1: ENTERPRISE ZONE"
+            },
+            {
+              "id": "ch-450",
+              "filename": "ch-450-31-2-enterprise-zone-real-property-tax-rebate.html",
+              "shortLabel": "31-2",
+              "title": "Enterprise Zone - Real Property Tax Rebate",
+              "rawTitle": "ARTICLE 2: ENTERPRISE ZONE - REAL PROPERTY TAX REBATE"
+            },
+            {
+              "id": "ch-451",
+              "filename": "ch-451-31-3-enterprise-zones-exemptions-from-development-requiremen.html",
+              "shortLabel": "31-3",
+              "title": "Enterprise Zones - Exemptions From Development Requirements",
+              "rawTitle": "ARTICLE 3: ENTERPRISE ZONES - EXEMPTIONS FROM DEVELOPMENT REQUIREMENTS"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 32: AFFORDABLE RENTAL HOUSING",
+          "articles": [
+            {
+              "id": "ch-452",
+              "filename": "ch-452-32-1-general-provisions.html",
+              "shortLabel": "32-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            },
+            {
+              "id": "ch-453",
+              "filename": "ch-453-32-2-permitted-uses-development-standards-and-other-requirem.html",
+              "shortLabel": "32-2",
+              "title": "Permitted Uses, Development Standards, and Other Requirements",
+              "rawTitle": "ARTICLE 2. PERMITTED USES, DEVELOPMENT STANDARDS, AND OTHER REQUIREMENTS"
+            },
+            {
+              "id": "ch-454",
+              "filename": "ch-454-32-3-building-construction-standards.html",
+              "shortLabel": "32-3",
+              "title": "Building Construction Standards",
+              "rawTitle": "ARTICLE 3. BUILDING CONSTRUCTION STANDARDS"
+            },
+            {
+              "id": "ch-455",
+              "filename": "ch-455-32-4-post-construction-grants.html",
+              "shortLabel": "32-4",
+              "title": "Post-construction Grants",
+              "rawTitle": "ARTICLE 4: POST-CONSTRUCTION GRANTS"
+            },
+            {
+              "id": "ch-456",
+              "filename": "ch-456-32-5-pre-construction-subsidies.html",
+              "shortLabel": "32-5",
+              "title": "Pre-construction Subsidies",
+              "rawTitle": "ARTICLE 5: PRE-CONSTRUCTION SUBSIDIES"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 33: DEVELOPMENT AGREEMENTS",
+          "articles": [
+            {
+              "id": "ch-457",
+              "filename": "ch-457-33-1-general-provisions.html",
+              "shortLabel": "33-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 33A: IMPACT FEES FOR TRAFFIC AND ROADWAY IMPROVEMENTS IN EWA",
+          "articles": [
+            {
+              "id": "ch-458",
+              "filename": "ch-458-33a-1-general-provisions.html",
+              "shortLabel": "33A-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleLabel": "TITLE VII: BUSINESS",
+      "chapters": [
+        {
+          "chapterLabel": "CHAPTER 34: REGULATION OF BUSINESSES",
+          "articles": [
+            {
+              "id": "ch-459",
+              "filename": "ch-459-34-1-auctions.html",
+              "shortLabel": "34-1",
+              "title": "Auctions*",
+              "rawTitle": "ARTICLE 1: AUCTIONS*"
+            },
+            {
+              "id": "ch-460",
+              "filename": "ch-460-34-2-hotels.html",
+              "shortLabel": "34-2",
+              "title": "Hotels",
+              "rawTitle": "ARTICLE 2: HOTELS"
+            },
+            {
+              "id": "ch-461",
+              "filename": "ch-461-34-3-shooting-galleries.html",
+              "shortLabel": "34-3",
+              "title": "Shooting Galleries",
+              "rawTitle": "ARTICLE 3: SHOOTING GALLERIES"
+            },
+            {
+              "id": "ch-462",
+              "filename": "ch-462-34-4-operation-of-certain-amusement-facilities.html",
+              "shortLabel": "34-4",
+              "title": "Operation of Certain Amusement Facilities",
+              "rawTitle": "ARTICLE 4: OPERATION OF CERTAIN AMUSEMENT FACILITIES"
+            },
+            {
+              "id": "ch-463",
+              "filename": "ch-463-34-5-regulations-governing-public-shows.html",
+              "shortLabel": "34-5",
+              "title": "Regulations Governing Public Shows",
+              "rawTitle": "ARTICLE 5: REGULATIONS GOVERNING PUBLIC SHOWS"
+            },
+            {
+              "id": "ch-464",
+              "filename": "ch-464-34-6-secondhand-dealers.html",
+              "shortLabel": "34-6",
+              "title": "Secondhand Dealers",
+              "rawTitle": "ARTICLE 6: SECONDHAND DEALERS"
+            },
+            {
+              "id": "ch-465",
+              "filename": "ch-465-34-7-scrap-dealers.html",
+              "shortLabel": "34-7",
+              "title": "Scrap Dealers",
+              "rawTitle": "ARTICLE 7: SCRAP DEALERS"
+            },
+            {
+              "id": "ch-466",
+              "filename": "ch-466-34-8-panoram-business-regulation.html",
+              "shortLabel": "34-8",
+              "title": "Panoram Business Regulation",
+              "rawTitle": "ARTICLE 8: PANORAM BUSINESS REGULATION"
+            },
+            {
+              "id": "ch-467",
+              "filename": "ch-467-34-9-lap-dancing-establishments.html",
+              "shortLabel": "34-9",
+              "title": "Lap Dancing Establishments",
+              "rawTitle": "ARTICLE 9: LAP DANCING ESTABLISHMENTS"
+            },
+            {
+              "id": "ch-468",
+              "filename": "ch-468-34-10-nightclubs.html",
+              "shortLabel": "34-10",
+              "title": "Nightclubs",
+              "rawTitle": "ARTICLE 10: NIGHTCLUBS"
+            },
+            {
+              "id": "ch-469",
+              "filename": "ch-469-34-11-sale-of-toilets-and-urinals.html",
+              "shortLabel": "34-11",
+              "title": "Sale of Toilets and Urinals",
+              "rawTitle": "ARTICLE 11: SALE OF TOILETS AND URINALS"
+            },
+            {
+              "id": "ch-470",
+              "filename": "ch-470-34-12-sale-of-showerheads-and-faucets.html",
+              "shortLabel": "34-12",
+              "title": "Sale of Showerheads and Faucets",
+              "rawTitle": "ARTICLE 12: SALE OF SHOWERHEADS AND FAUCETS"
+            },
+            {
+              "id": "ch-471",
+              "filename": "ch-471-34-13-polystyrene-foam-and-disposable-food-service-ware.html",
+              "shortLabel": "34-13",
+              "title": "Polystyrene Foam and Disposable Food Service Ware",
+              "rawTitle": "ARTICLE 13: POLYSTYRENE FOAM AND DISPOSABLE FOOD SERVICE WARE"
+            },
+            {
+              "id": "ch-472",
+              "filename": "ch-472-34-14-regulation-of-bags-provided-to-customers.html",
+              "shortLabel": "34-14",
+              "title": "Regulation of Bags Provided to Customers*",
+              "rawTitle": "ARTICLE 14: REGULATION OF BAGS PROVIDED TO CUSTOMERS*"
+            },
+            {
+              "id": "ch-473",
+              "filename": "ch-473-34-15-residential-real-property-disclosure.html",
+              "shortLabel": "34-15",
+              "title": "Residential Real Property Disclosure",
+              "rawTitle": "ARTICLE 15: RESIDENTIAL REAL PROPERTY DISCLOSURE"
+            },
+            {
+              "id": "ch-474",
+              "filename": "ch-474-34-16-naloxone.html",
+              "shortLabel": "34-16",
+              "title": "Naloxone",
+              "rawTitle": "ARTICLE 16: NALOXONE"
+            },
+            {
+              "id": "ch-475",
+              "filename": "ch-475-34-17-single-use-plastic-bottles.html",
+              "shortLabel": "34-17",
+              "title": "Single-use Plastic Bottles",
+              "rawTitle": "ARTICLE 17: SINGLE-USE PLASTIC BOTTLES"
+            },
+            {
+              "id": "ch-476",
+              "filename": "ch-476-34-18-electronic-amusement-devices.html",
+              "shortLabel": "34-18",
+              "title": "Electronic Amusement Devices",
+              "rawTitle": "ARTICLE 18: ELECTRONIC AMUSEMENT DEVICES"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 35: RESERVED",
+          "articles": [
+            {
+              "id": "ch-477",
+              "filename": "ch-477-chapter-35-chapter-35-reserved.html",
+              "shortLabel": "CHAPTER 35: ",
+              "title": "Chapter 35: Reserved",
+              "rawTitle": "CHAPTER 35: RESERVED"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 36: COMMON CARRIERS",
+          "articles": [
+            {
+              "id": "ch-478",
+              "filename": "ch-478-36-1-taxicabs.html",
+              "shortLabel": "36-1",
+              "title": "Taxicabs",
+              "rawTitle": "ARTICLE 1: TAXICABS"
+            },
+            {
+              "id": "ch-479",
+              "filename": "ch-479-36-2-reserved.html",
+              "shortLabel": "36-2",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 2: RESERVED"
+            },
+            {
+              "id": "ch-480",
+              "filename": "ch-480-36-3-reserved.html",
+              "shortLabel": "36-3",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 3: RESERVED"
+            },
+            {
+              "id": "ch-481",
+              "filename": "ch-481-36-4-reserved.html",
+              "shortLabel": "36-4",
+              "title": "Reserved",
+              "rawTitle": "ARTICLE 4: RESERVED"
+            },
+            {
+              "id": "ch-482",
+              "filename": "ch-482-36-5-pedicab.html",
+              "shortLabel": "36-5",
+              "title": "Pedicab",
+              "rawTitle": "ARTICLE 5: PEDICAB"
+            },
+            {
+              "id": "ch-483",
+              "filename": "ch-483-36-6-private-transportation-companies-vehicles-and-drivers.html",
+              "shortLabel": "36-6",
+              "title": "Private Transportation Companies, Vehicles, and Drivers",
+              "rawTitle": "ARTICLE 6: PRIVATE TRANSPORTATION COMPANIES, VEHICLES, AND DRIVERS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleLabel": "TITLE VIII: PROPERTY",
+      "chapters": [
+        {
+          "chapterLabel": "CHAPTER 37: REAL PROPERTY TRANSACTIONS INVOLVING THE CITY AND COUNTY OF HONOLULU",
+          "articles": [
+            {
+              "id": "ch-484",
+              "filename": "ch-484-37-1-disposal-of-real-property-owned-by-the-city-and-county-.html",
+              "shortLabel": "37-1",
+              "title": "Disposal of Real Property Owned by the City and County of Honolulu",
+              "rawTitle": "ARTICLE 1: DISPOSAL OF REAL PROPERTY OWNED BY THE CITY AND COUNTY OF HONOLULU"
+            },
+            {
+              "id": "ch-485",
+              "filename": "ch-485-37-2-acquisition-of-remnant-real-property.html",
+              "shortLabel": "37-2",
+              "title": "Acquisition of Remnant Real Property",
+              "rawTitle": "ARTICLE 2: ACQUISITION OF REMNANT REAL PROPERTY"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 38: LEASE AND RENTAL OF CITY REAL PROPERTY, INCLUDING FEES",
+          "articles": [
+            {
+              "id": "ch-486",
+              "filename": "ch-486-38-1-general-provisions.html",
+              "shortLabel": "38-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            },
+            {
+              "id": "ch-487",
+              "filename": "ch-487-38-2-bidding-requirements-and-procedures.html",
+              "shortLabel": "38-2",
+              "title": "Bidding Requirements and Procedures",
+              "rawTitle": "ARTICLE 2: BIDDING REQUIREMENTS AND PROCEDURES"
+            },
+            {
+              "id": "ch-488",
+              "filename": "ch-488-38-3-exceptions-to-bidding-requirement.html",
+              "shortLabel": "38-3",
+              "title": "Exceptions to Bidding Requirement",
+              "rawTitle": "ARTICLE 3: EXCEPTIONS TO BIDDING REQUIREMENT"
+            },
+            {
+              "id": "ch-489",
+              "filename": "ch-489-38-4-term-of-agreements.html",
+              "shortLabel": "38-4",
+              "title": "Term of Agreements",
+              "rawTitle": "ARTICLE 4: TERM OF AGREEMENTS"
+            },
+            {
+              "id": "ch-490",
+              "filename": "ch-490-38-5-penalty.html",
+              "shortLabel": "38-5",
+              "title": "Penalty",
+              "rawTitle": "ARTICLE 5: PENALTY"
+            },
+            {
+              "id": "ch-491",
+              "filename": "ch-491-38-6-general-provisions-for-the-lease-and-rental-policy-for-.html",
+              "shortLabel": "38-6",
+              "title": "General Provisions for the Lease and Rental Policy for the Department of Enterprise Services",
+              "rawTitle": "ARTICLE 6: GENERAL PROVISIONS FOR THE LEASE AND RENTAL POLICY FOR THE DEPARTMENT OF ENTERPRISE SERVICES"
+            },
+            {
+              "id": "ch-492",
+              "filename": "ch-492-38-7-rental-schedule.html",
+              "shortLabel": "38-7",
+              "title": "Rental Schedule",
+              "rawTitle": "ARTICLE 7: RENTAL SCHEDULE"
+            },
+            {
+              "id": "ch-493",
+              "filename": "ch-493-38-8-concessions.html",
+              "shortLabel": "38-8",
+              "title": "Concessions",
+              "rawTitle": "ARTICLE 8: CONCESSIONS"
+            },
+            {
+              "id": "ch-494",
+              "filename": "ch-494-38-9-nonprofit-organizations.html",
+              "shortLabel": "38-9",
+              "title": "Nonprofit Organizations",
+              "rawTitle": "ARTICLE 9: NONPROFIT ORGANIZATIONS"
+            },
+            {
+              "id": "ch-495",
+              "filename": "ch-495-38-10-severability.html",
+              "shortLabel": "38-10",
+              "title": "Severability",
+              "rawTitle": "ARTICLE 10: SEVERABILITY"
+            },
+            {
+              "id": "ch-496",
+              "filename": "ch-496-38-11-lease-and-permit-policy-for-the-grounds-of-city-hall-a.html",
+              "shortLabel": "38-11",
+              "title": "Lease and Permit Policy for the Grounds of City Hall and the Mayor Frank F. Fasi Municipal Building",
+              "rawTitle": "ARTICLE 11: LEASE AND PERMIT POLICY FOR THE GROUNDS OF CITY HALL AND THE MAYOR FRANK F. FASI MUNICIPAL BUILDING"
+            },
+            {
+              "id": "ch-497",
+              "filename": "ch-497-38-12-telecommunications-facilities.html",
+              "shortLabel": "38-12",
+              "title": "Telecommunications Facilities",
+              "rawTitle": "ARTICLE 12: TELECOMMUNICATIONS FACILITIES"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 39: MAXIMUM ANNUAL RENEGOTIATED LEASE RENT",
+          "articles": [
+            {
+              "id": "ch-498",
+              "filename": "ch-498-39-1-maximum-annual-renegotiated-lease-rent.html",
+              "shortLabel": "39-1",
+              "title": "Maximum Annual Renegotiated Lease Rent*",
+              "rawTitle": "ARTICLE 1: MAXIMUM ANNUAL RENEGOTIATED LEASE RENT*"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 40: OFFENSES RELATING TO PROPERTY",
+          "articles": [
+            {
+              "id": "ch-499",
+              "filename": "ch-499-40-1-damage-to-public-property.html",
+              "shortLabel": "40-1",
+              "title": "Damage to Public Property",
+              "rawTitle": "ARTICLE 1: DAMAGE TO PUBLIC PROPERTY"
+            },
+            {
+              "id": "ch-500",
+              "filename": "ch-500-40-2-maintenance-of-channels-streambeds-streambanks-and-drai.html",
+              "shortLabel": "40-2",
+              "title": "Maintenance of Channels, Streambeds, Streambanks, and Drainageways",
+              "rawTitle": "ARTICLE 2: MAINTENANCE OF CHANNELS, STREAMBEDS, STREAMBANKS, AND DRAINAGEWAYS"
+            },
+            {
+              "id": "ch-501",
+              "filename": "ch-501-40-3-city-owned-streams.html",
+              "shortLabel": "40-3",
+              "title": "City-owned Streams",
+              "rawTitle": "ARTICLE 3: CITY-OWNED STREAMS"
+            },
+            {
+              "id": "ch-502",
+              "filename": "ch-502-40-4-watersheds-reservoirs.html",
+              "shortLabel": "40-4",
+              "title": "Watersheds - Reservoirs",
+              "rawTitle": "ARTICLE 4: WATERSHEDS - RESERVOIRS"
+            },
+            {
+              "id": "ch-503",
+              "filename": "ch-503-40-5-regulation-of-distribution-acquisition-possession-and-u.html",
+              "shortLabel": "40-5",
+              "title": "Regulation of Distribution, Acquisition, Possession, and Use of Graffiti Implements",
+              "rawTitle": "ARTICLE 5: REGULATION OF DISTRIBUTION, ACQUISITION, POSSESSION, AND USE OF GRAFFITI IMPLEMENTS"
+            },
+            {
+              "id": "ch-504",
+              "filename": "ch-504-40-6-graffiti-damage-to-public-property.html",
+              "shortLabel": "40-6",
+              "title": "Graffiti Damage to Public Property",
+              "rawTitle": "ARTICLE 6: GRAFFITI DAMAGE TO PUBLIC PROPERTY"
+            },
+            {
+              "id": "ch-505",
+              "filename": "ch-505-40-7-disposal-of-weeds-garbage-trash-and-waste-from-property.html",
+              "shortLabel": "40-7",
+              "title": "Disposal of Weeds, Garbage, Trash, and Waste From Property",
+              "rawTitle": "ARTICLE 7: DISPOSAL OF WEEDS, GARBAGE, TRASH, AND WASTE FROM PROPERTY"
+            },
+            {
+              "id": "ch-506",
+              "filename": "ch-506-40-8-protective-regulations-for-exceptional-trees.html",
+              "shortLabel": "40-8",
+              "title": "Protective Regulations for Exceptional Trees",
+              "rawTitle": "ARTICLE 8: PROTECTIVE REGULATIONS FOR EXCEPTIONAL TREES"
+            },
+            {
+              "id": "ch-507",
+              "filename": "ch-507-40-9-alarm-systems.html",
+              "shortLabel": "40-9",
+              "title": "Alarm Systems",
+              "rawTitle": "ARTICLE 9: ALARM SYSTEMS"
+            },
+            {
+              "id": "ch-508",
+              "filename": "ch-508-40-10-historic-preservation.html",
+              "shortLabel": "40-10",
+              "title": "Historic Preservation",
+              "rawTitle": "ARTICLE 10: HISTORIC PRESERVATION"
+            },
+            {
+              "id": "ch-509",
+              "filename": "ch-509-40-11-underground-storage-tanks.html",
+              "shortLabel": "40-11",
+              "title": "Underground Storage Tanks",
+              "rawTitle": "ARTICLE 11: UNDERGROUND STORAGE TANKS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleLabel": "TITLE IX: PUBLIC HEALTH, SAFETY, AND SANITATION",
+      "chapters": [
+        {
+          "chapterLabel": "CHAPTER 41: PUBLIC HEALTH AND SAFETY",
+          "articles": [
+            {
+              "id": "ch-510",
+              "filename": "ch-510-41-1-use-of-intoxicating-liquors-in-certain-public-places.html",
+              "shortLabel": "41-1",
+              "title": "Use of Intoxicating Liquors in Certain Public Places",
+              "rawTitle": "ARTICLE 1: USE OF INTOXICATING LIQUORS IN CERTAIN PUBLIC PLACES"
+            },
+            {
+              "id": "ch-511",
+              "filename": "ch-511-41-2-advertisement-of-intoxicating-liquor-and-liquor-product.html",
+              "shortLabel": "41-2",
+              "title": "Advertisement of Intoxicating Liquor and Liquor Products",
+              "rawTitle": "ARTICLE 2: ADVERTISEMENT OF INTOXICATING LIQUOR AND LIQUOR PRODUCTS"
+            },
+            {
+              "id": "ch-512",
+              "filename": "ch-512-41-3-the-sale-to-possession-of-or-use-by-minors-of-chemical-.html",
+              "shortLabel": "41-3",
+              "title": "The Sale To, Possession Of, or Use by Minors of Chemical Substances Containing Volatile Organic Solvents",
+              "rawTitle": "ARTICLE 3: THE SALE TO, POSSESSION OF, OR USE BY MINORS OF CHEMICAL SUBSTANCES CONTAINING VOLATILE ORGANIC SOLVENTS"
+            },
+            {
+              "id": "ch-513",
+              "filename": "ch-513-41-4-ephedrine-containing-products.html",
+              "shortLabel": "41-4",
+              "title": "Ephedrine-containing Products",
+              "rawTitle": "ARTICLE 4: EPHEDRINE-CONTAINING PRODUCTS"
+            },
+            {
+              "id": "ch-514",
+              "filename": "ch-514-41-5-products-containing-gamma-hydroxybutyrate.html",
+              "shortLabel": "41-5",
+              "title": "Products Containing Gamma Hydroxybutyrate",
+              "rawTitle": "ARTICLE 5: PRODUCTS CONTAINING GAMMA HYDROXYBUTYRATE"
+            },
+            {
+              "id": "ch-515",
+              "filename": "ch-515-41-6-noise-control.html",
+              "shortLabel": "41-6",
+              "title": "Noise Control",
+              "rawTitle": "ARTICLE 6: NOISE CONTROL"
+            },
+            {
+              "id": "ch-516",
+              "filename": "ch-516-41-7-noises-in-vicinity-of-hospitals.html",
+              "shortLabel": "41-7",
+              "title": "Noises in Vicinity of Hospitals",
+              "rawTitle": "ARTICLE 7: NOISES IN VICINITY OF HOSPITALS"
+            },
+            {
+              "id": "ch-517",
+              "filename": "ch-517-41-8-sound-levels-for-the-tom-moffatt-waikiki-shell.html",
+              "shortLabel": "41-8",
+              "title": "Sound Levels for the Tom Moffatt Waikiki Shell",
+              "rawTitle": "ARTICLE 8: SOUND LEVELS FOR THE TOM MOFFATT WAIKIKI SHELL"
+            },
+            {
+              "id": "ch-518",
+              "filename": "ch-518-41-9-use-of-sound-amplifying-device-in-public-buildings.html",
+              "shortLabel": "41-9",
+              "title": "Use of Sound Amplifying Device in Public Buildings",
+              "rawTitle": "ARTICLE 9: USE OF SOUND AMPLIFYING DEVICE IN PUBLIC BUILDINGS"
+            },
+            {
+              "id": "ch-519",
+              "filename": "ch-519-41-10-air-guns.html",
+              "shortLabel": "41-10",
+              "title": "Air Guns",
+              "rawTitle": "ARTICLE 10: AIR GUNS"
+            },
+            {
+              "id": "ch-520",
+              "filename": "ch-520-41-11-replica-guns.html",
+              "shortLabel": "41-11",
+              "title": "Replica Guns",
+              "rawTitle": "ARTICLE 11: REPLICA GUNS"
+            },
+            {
+              "id": "ch-521",
+              "filename": "ch-521-41-12-obnoxious-substances.html",
+              "shortLabel": "41-12",
+              "title": "Obnoxious Substances",
+              "rawTitle": "ARTICLE 12: OBNOXIOUS SUBSTANCES"
+            },
+            {
+              "id": "ch-522",
+              "filename": "ch-522-41-13-advertisement-and-distribution-of-cigarettes-and-tobac.html",
+              "shortLabel": "41-13",
+              "title": "Advertisement and Distribution of Cigarettes and Tobacco Products",
+              "rawTitle": "ARTICLE 13: ADVERTISEMENT AND DISTRIBUTION OF CIGARETTES AND TOBACCO PRODUCTS"
+            },
+            {
+              "id": "ch-523",
+              "filename": "ch-523-41-14-smoking.html",
+              "shortLabel": "41-14",
+              "title": "Smoking",
+              "rawTitle": "ARTICLE 14: SMOKING"
+            },
+            {
+              "id": "ch-524",
+              "filename": "ch-524-41-15-bidi-cigarette-prohibitions.html",
+              "shortLabel": "41-15",
+              "title": "Bidi Cigarette Prohibitions",
+              "rawTitle": "ARTICLE 15: BIDI CIGARETTE PROHIBITIONS"
+            },
+            {
+              "id": "ch-525",
+              "filename": "ch-525-41-16-herbal-cigarettes.html",
+              "shortLabel": "41-16",
+              "title": "Herbal Cigarettes",
+              "rawTitle": "ARTICLE 16: HERBAL CIGARETTES"
+            },
+            {
+              "id": "ch-526",
+              "filename": "ch-526-41-17-prostitution-related-public-nuisance-abatement.html",
+              "shortLabel": "41-17",
+              "title": "Prostitution-related Public Nuisance Abatement",
+              "rawTitle": "ARTICLE 17: PROSTITUTION-RELATED PUBLIC NUISANCE ABATEMENT"
+            },
+            {
+              "id": "ch-527",
+              "filename": "ch-527-41-18-additional-areas-of-significant-prostitution-related-a.html",
+              "shortLabel": "41-18",
+              "title": "Additional Areas of Significant Prostitution-related Activity",
+              "rawTitle": "ARTICLE 18: ADDITIONAL AREAS OF SIGNIFICANT PROSTITUTION-RELATED ACTIVITY"
+            },
+            {
+              "id": "ch-528",
+              "filename": "ch-528-41-19-laser-pointers-and-harassment-with-laser-beams.html",
+              "shortLabel": "41-19",
+              "title": "Laser Pointers and Harassment With Laser Beams",
+              "rawTitle": "ARTICLE 19: LASER POINTERS AND HARASSMENT WITH LASER BEAMS"
+            },
+            {
+              "id": "ch-529",
+              "filename": "ch-529-41-20-urinating-or-defecating-in-public-prohibited-in-the-wa.html",
+              "shortLabel": "41-20",
+              "title": "Urinating or Defecating in Public Prohibited in the Waikiki Special District",
+              "rawTitle": "ARTICLE 20: URINATING OR DEFECATING IN PUBLIC PROHIBITED IN THE WAIKIKI SPECIAL DISTRICT"
+            },
+            {
+              "id": "ch-530",
+              "filename": "ch-530-41-21-urinating-or-defecating-in-public-prohibited-outside-o.html",
+              "shortLabel": "41-21",
+              "title": "Urinating or Defecating in Public Prohibited Outside of the Waikiki Special District",
+              "rawTitle": "ARTICLE 21: URINATING OR DEFECATING IN PUBLIC PROHIBITED OUTSIDE OF THE WAIKIKI SPECIAL DISTRICT"
+            },
+            {
+              "id": "ch-531",
+              "filename": "ch-531-41-22-iceboxes-and-refrigerators.html",
+              "shortLabel": "41-22",
+              "title": "Iceboxes and Refrigerators",
+              "rawTitle": "ARTICLE 22: ICEBOXES AND REFRIGERATORS"
+            },
+            {
+              "id": "ch-532",
+              "filename": "ch-532-41-23-unofficial-age-identification-card.html",
+              "shortLabel": "41-23",
+              "title": "Unofficial Age Identification Card",
+              "rawTitle": "ARTICLE 23: UNOFFICIAL AGE IDENTIFICATION CARD"
+            },
+            {
+              "id": "ch-533",
+              "filename": "ch-533-41-24-wearing-of-masks-or-disguises.html",
+              "shortLabel": "41-24",
+              "title": "Wearing of Masks or Disguises",
+              "rawTitle": "ARTICLE 24: WEARING OF MASKS OR DISGUISES"
+            },
+            {
+              "id": "ch-534",
+              "filename": "ch-534-41-25-loitering-on-public-school-premises.html",
+              "shortLabel": "41-25",
+              "title": "Loitering on Public School Premises",
+              "rawTitle": "ARTICLE 25: LOITERING ON PUBLIC SCHOOL PREMISES"
+            },
+            {
+              "id": "ch-535",
+              "filename": "ch-535-41-26-regulated-use-of-uniforms-by-private-security-personne.html",
+              "shortLabel": "41-26",
+              "title": "Regulated Use of Uniforms by Private Security Personnel",
+              "rawTitle": "ARTICLE 26: REGULATED USE OF UNIFORMS BY PRIVATE SECURITY PERSONNEL"
+            },
+            {
+              "id": "ch-536",
+              "filename": "ch-536-41-27-possession-use-and-sale-of-pepper-sprays-for-self-defe.html",
+              "shortLabel": "41-27",
+              "title": "Possession, Use, and Sale of Pepper Sprays for Self-defense",
+              "rawTitle": "ARTICLE 27: POSSESSION, USE, AND SALE OF PEPPER SPRAYS FOR SELF-DEFENSE"
+            },
+            {
+              "id": "ch-537",
+              "filename": "ch-537-41-28-aerial-advertising.html",
+              "shortLabel": "41-28",
+              "title": "Aerial Advertising",
+              "rawTitle": "ARTICLE 28: AERIAL ADVERTISING"
+            },
+            {
+              "id": "ch-538",
+              "filename": "ch-538-41-29-vehicular-advertising.html",
+              "shortLabel": "41-29",
+              "title": "Vehicular Advertising",
+              "rawTitle": "ARTICLE 29: VEHICULAR ADVERTISING"
+            },
+            {
+              "id": "ch-539",
+              "filename": "ch-539-41-30-domestic-violence-program.html",
+              "shortLabel": "41-30",
+              "title": "Domestic Violence Program",
+              "rawTitle": "ARTICLE 30: DOMESTIC VIOLENCE PROGRAM"
+            },
+            {
+              "id": "ch-540",
+              "filename": "ch-540-41-31-public-carry-of-firearms.html",
+              "shortLabel": "41-31",
+              "title": "Public Carry of Firearms",
+              "rawTitle": "ARTICLE 31: PUBLIC CARRY OF FIREARMS"
+            },
+            {
+              "id": "ch-541",
+              "filename": "ch-541-41-32-prohibition-of-flavored-tobacco-products.html",
+              "shortLabel": "41-32",
+              "title": "Prohibition of Flavored Tobacco Products",
+              "rawTitle": "ARTICLE 32: PROHIBITION OF FLAVORED TOBACCO PRODUCTS"
+            },
+            {
+              "id": "ch-542",
+              "filename": "ch-542-41-33-gambling-related-public-nuisances.html",
+              "shortLabel": "41-33",
+              "title": "Gambling-related Public Nuisances",
+              "rawTitle": "ARTICLE 33: GAMBLING-RELATED PUBLIC NUISANCES"
+            },
+            {
+              "id": "ch-543",
+              "filename": "ch-543-41-34-agents-inspection-of-private-real-property.html",
+              "shortLabel": "41-34",
+              "title": "Agent’s Inspection of Private Real Property",
+              "rawTitle": "ARTICLE 34: AGENT’S INSPECTION OF PRIVATE REAL PROPERTY"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 42: COLLECTION AND DISPOSAL OF REFUSE",
+          "articles": [
+            {
+              "id": "ch-544",
+              "filename": "ch-544-42-1-general-provisions.html",
+              "shortLabel": "42-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            },
+            {
+              "id": "ch-545",
+              "filename": "ch-545-42-2-collection-license.html",
+              "shortLabel": "42-2",
+              "title": "Collection License",
+              "rawTitle": "ARTICLE 2: COLLECTION LICENSE"
+            },
+            {
+              "id": "ch-546",
+              "filename": "ch-546-42-3-regulations-applicable-to-businesses-private-dwellings-.html",
+              "shortLabel": "42-3",
+              "title": "Regulations Applicable to Businesses, Private Dwellings, and Government Facilities",
+              "rawTitle": "ARTICLE 3: REGULATIONS APPLICABLE TO BUSINESSES, PRIVATE DWELLINGS, AND GOVERNMENT FACILITIES"
+            },
+            {
+              "id": "ch-547",
+              "filename": "ch-547-42-4-collection-and-disposal-charges.html",
+              "shortLabel": "42-4",
+              "title": "Collection and Disposal Charges",
+              "rawTitle": "ARTICLE 4: COLLECTION AND DISPOSAL CHARGES"
+            },
+            {
+              "id": "ch-548",
+              "filename": "ch-548-42-5-enforcement-of-provisions.html",
+              "shortLabel": "42-5",
+              "title": "Enforcement of Provisions",
+              "rawTitle": "ARTICLE 5: ENFORCEMENT OF PROVISIONS"
+            },
+            {
+              "id": "ch-549",
+              "filename": "ch-549-42-6-procedure-on-arrest.html",
+              "shortLabel": "42-6",
+              "title": "Procedure on Arrest",
+              "rawTitle": "ARTICLE 6: PROCEDURE ON ARREST"
+            },
+            {
+              "id": "ch-550",
+              "filename": "ch-550-42-7-recycling-of-glass-containers.html",
+              "shortLabel": "42-7",
+              "title": "Recycling of Glass Containers",
+              "rawTitle": "ARTICLE 7: RECYCLING OF GLASS CONTAINERS"
+            }
+          ]
+        },
+        {
+          "chapterLabel": "CHAPTER 43: SEWERS, DRAINAGE, AND CESSPOOLS",
+          "articles": [
+            {
+              "id": "ch-551",
+              "filename": "ch-551-43-1-general-provisions.html",
+              "shortLabel": "43-1",
+              "title": "General Provisions",
+              "rawTitle": "ARTICLE 1: GENERAL PROVISIONS"
+            },
+            {
+              "id": "ch-552",
+              "filename": "ch-552-43-2-sewer-system-for-new-subdivision.html",
+              "shortLabel": "43-2",
+              "title": "Sewer System for New Subdivision",
+              "rawTitle": "ARTICLE 2: SEWER SYSTEM FOR NEW SUBDIVISION"
+            },
+            {
+              "id": "ch-553",
+              "filename": "ch-553-43-3-sewer-system-for-other-than-in-new-subdivisions.html",
+              "shortLabel": "43-3",
+              "title": "Sewer System for Other Than in New Subdivisions",
+              "rawTitle": "ARTICLE 3: SEWER SYSTEM FOR OTHER THAN IN NEW SUBDIVISIONS"
+            },
+            {
+              "id": "ch-554",
+              "filename": "ch-554-43-4-private-sewer-system.html",
+              "shortLabel": "43-4",
+              "title": "Private Sewer System",
+              "rawTitle": "ARTICLE 4: PRIVATE SEWER SYSTEM"
+            },
+            {
+              "id": "ch-555",
+              "filename": "ch-555-43-5-industrial-wastewaters.html",
+              "shortLabel": "43-5",
+              "title": "Industrial Wastewaters",
+              "rawTitle": "ARTICLE 5: INDUSTRIAL WASTEWATERS"
+            },
+            {
+              "id": "ch-556",
+              "filename": "ch-556-43-5a-commercial-fog-waste-and-commercial-cooking-oil-waste.html",
+              "shortLabel": "43-5A",
+              "title": "Commercial Fog Waste and Commercial Cooking Oil Waste",
+              "rawTitle": "ARTICLE 5A: COMMERCIAL FOG WASTE AND COMMERCIAL COOKING OIL WASTE"
+            },
+            {
+              "id": "ch-557",
+              "filename": "ch-557-43-6-sewer-service-charges.html",
+              "shortLabel": "43-6",
+              "title": "Sewer Service Charges",
+              "rawTitle": "ARTICLE 6: SEWER SERVICE CHARGES"
+            },
+            {
+              "id": "ch-558",
+              "filename": "ch-558-43-7-pumping-or-treating-of-cesspools.html",
+              "shortLabel": "43-7",
+              "title": "Pumping or Treating of Cesspools",
+              "rawTitle": "ARTICLE 7: PUMPING OR TREATING OF CESSPOOLS"
+            },
+            {
+              "id": "ch-559",
+              "filename": "ch-559-43-8-sewer-fund.html",
+              "shortLabel": "43-8",
+              "title": "Sewer Fund",
+              "rawTitle": "ARTICLE 8: SEWER FUND"
+            },
+            {
+              "id": "ch-560",
+              "filename": "ch-560-43-9-termination-of-water-service.html",
+              "shortLabel": "43-9",
+              "title": "Termination of Water Service",
+              "rawTitle": "ARTICLE 9: TERMINATION OF WATER SERVICE"
+            },
+            {
+              "id": "ch-561",
+              "filename": "ch-561-43-10-wastewater-system-facility-charges.html",
+              "shortLabel": "43-10",
+              "title": "Wastewater System Facility Charges",
+              "rawTitle": "ARTICLE 10: WASTEWATER SYSTEM FACILITY CHARGES"
+            },
+            {
+              "id": "ch-562",
+              "filename": "ch-562-43-11-drainage-flood-and-pollution-control.html",
+              "shortLabel": "43-11",
+              "title": "Drainage, Flood, and Pollution Control",
+              "rawTitle": "ARTICLE 11: DRAINAGE, FLOOD, AND POLLUTION CONTROL"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "county": {
+    "id": "roh",
+    "name": "Revised Ordinances of Honolulu",
+    "shortName": "ROH",
+    "accentColor": "#1a6fc4",
+    "headerColor": "#1a6fc4",
+    "sealUrl": "images/seal-roh.png",
+    "overviewUrl": "https://codelibrary.amlegal.com/codes/honolulu/latest/overview",
+    "searchScopeUrl": "codelibrary.amlegal.com/codes/honolulu",
+    "source": "amlegal",
+    "supplementLabel": "Supplement",
+    "newLegislationUrl": "http://files.amlegal.com/pdffiles/Honolulu/HonoluluALS.pdf",
+    "newLegislationLabel": "New Legislation PDF"
+  }
+}

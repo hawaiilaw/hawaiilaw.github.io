@@ -1,0 +1,709 @@
+
+	  	/* CSS to match style mapping */
+body > div {
+    max-width: 7.5in;
+}
+
+body {margin-left:auto;margin-right:auto;width:fit-content;}
+  .highlight {
+    padding: 0 2px;
+    border-radius: 3px;
+  }
+
+/* Level Styles */
+.Title
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	20pt;
+	color:	#FFFFFF;
+	background-color:	#000000;
+	text-align:	center;
+	margin-bottom:	18pt;
+	background-color:	#000000;
+}
+
+.Chapter
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	20pt;
+	color:	#FFFFFF;
+	background-color:	#000000;
+	text-align:	center;
+	margin-bottom:	9pt;
+	background-color:	#000000;
+}
+
+.Article
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	italic;
+	font-weight:	bold;
+	font-size:	16pt;
+	text-align:	center;
+	margin-bottom:	9pt;
+}
+
+.Part
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	italic;
+	font-weight:	bold;
+	font-size:	14pt;
+	text-align:	center;
+	margin-bottom:	9pt;
+}
+
+.Section
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	14pt;
+	color:	#008000;
+	text-align:	left;
+	margin-top:	9pt;
+}
+
+.Subsection
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	12pt;
+	color:	#008000;
+	text-align:	left;
+}
+
+.Subdivision
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	12pt;
+	text-align:	left;
+}
+
+.Normal-Level
+{
+	font-family:	"aRIAL",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+}
+
+
+
+/* Paragraph Styles */
+.ChapAn
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	left;
+	margin-left:	99pt;
+}
+
+.ChapAn-center
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	italic;
+	font-weight:	bold;
+	font-size:	12pt;
+	text-align:	center;
+	margin-bottom:	9pt;
+}
+
+.Definitions
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	italic;
+	font-weight:	bold;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	text-indent:	18pt;
+}
+
+.Definitions-a
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	36pt;
+	text-indent:	18pt;
+}
+
+.Definitions-b
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	italic;
+	font-weight:	bold;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	72pt;
+	text-indent:	18pt;
+}
+
+.DevPlanHeadings
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	12pt;
+	color:	#008000;
+	text-align:	left;
+}
+
+.H1
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	36pt;
+}
+
+.H1a
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	36pt;
+}
+
+.H2
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	72pt;
+}
+
+.H2a
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	72pt;
+}
+
+.H3
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	108pt;
+}
+
+.H3a
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	72pt;
+}
+
+.H4
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	144pt;
+}
+
+.H4a
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	108pt;
+}
+
+.H5
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	180pt;
+}
+
+.H5a
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	144pt;
+}
+
+.H6
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	216pt;
+}
+
+.Introduction
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	12pt;
+	text-align:	center;
+	margin-bottom:	9pt;
+}
+
+.Table-Header
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	12pt;
+	text-align:	center;
+	margin-bottom:	9pt;
+}
+
+.Table-Header-small
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	10pt;
+	text-align:	center;
+	margin-bottom:	9pt;
+}
+
+.Table-Text-small
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	10pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+}
+
+.Text-small
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	10pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	36pt;
+}
+
+.Text-small-ind1
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	10pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	72pt;
+}
+
+.Text-small-ind1a
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	10pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	72pt;
+}
+
+.Text-small-ind2
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	10pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	108pt;
+}
+
+.Text-small-ind2a
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	10pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	108pt;
+}
+
+.Text-small-ind3
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	10pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	144pt;
+}
+
+.Text-small-ind4
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	10pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	180pt;
+}
+
+.Text-small-Indent
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	10pt;
+	text-align:	left;
+	margin-bottom:	9pt;
+	margin-left:	72pt;
+}
+
+
+
+/* Character Styles */
+.Subscript
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	italic;
+	font-weight:	normal;
+	font-size:	8pt;
+	vertical-align:	sub;
+}
+
+.Superscript
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	8pt;
+	vertical-align:	super;
+}
+
+
+
+/* Field Styles */
+.Note
+{
+}
+
+.field-Popup
+{
+}
+
+
+
+/* Link Styles */
+.Data
+{}
+
+.Jump
+{}
+
+.link-Popup
+{
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	10pt;
+	text-decoration:	 underline;
+	color:	#FF0000;
+	vertical-align:	super;
+}
+
+.Web
+{}
+
+a.refline:link {font-family:arial, helvetica, sans-serif;font-size:8pt;color:gray;text-decoration:none;}
+a.refline:visited {font-family:arial, helvetica, sans-serif;font-size:8pt;color:gray;text-decoration:none;}
+a.refline:active {font-family:arial, helvetica, sans-serif;font-size:8pt;color:gray;text-decoration:none;}
+a.refline:hover {font-family:arial, helvetica, sans-serif;font-size:8pt;color:black;text-decoration:underline;}
+p.refline {font-family:arial, helvetica, sans-serif;font-size:8pt;color:gray;margin-right:10px;margin-top:1px;margin-bottom:1px;}
+a.lk-folk-popup {font-weight:normal;font-style:normal;font-family:times new roman;font-size:13px;color:#ff0000;top:-7px;text-decoration:none;}
+span.cs-folk-footnote {font-family:times new roman;font-size:13px;top:-7px;}
+td.marker { width: 50px; vertical-align: top; }
+td.foot-text { vertical-align: top; padding-bottom: 12pt; }
+p.pa-delaware-footnote-32-top {margin-bottom:1px;font-weight:bold;font-size:1px;margin-top:12px;}
+div.pa-delaware-footnote-32-top {margin-bottom:1px;width:192px;margin-top:12px;border-style:solid;border-top-width:1px;border-bottom-width:0px;border-left-width:0px;border-right-width:0px;}
+.codenav__section-body div {
+    max-width: 6.5in;
+}
+/* .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-  */
+/* / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ */
+/*`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   */
+/* Highlight panel                                                 */
+/* .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.   */
+
+.highlight-panel {
+  position: fixed;
+  top: 60px;
+  right: -320px;
+  width: 320px;
+  background: #ffffff;
+  border: 1px solid #dcdcdc;
+  border-radius: 12px 0 0 12px;
+  box-shadow: -4px 4px 20px rgba(0, 0, 0, 0.15);
+  font-family: Arial, sans-serif;
+  z-index: 500;
+  transition: right 0.25s ease;
+  /* position:relative so Coloris popup anchors here, not to body */
+  overflow: visible;
+}
+
+.highlight-panel.open {
+  right: 0;
+}
+
+.highlight-panel-tab {
+  position: absolute;
+  top: 0;
+  left: -32px;
+  width: 32px;
+  padding: 8px 6px;
+  background: #2563eb;
+  color: #fff;
+  font-size: 11px;
+  font-weight: bold;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  cursor: pointer;
+  border-radius: 8px 0 0 8px;
+  letter-spacing: 0.05em;
+  user-select: none;
+  text-align: center;
+  box-shadow: -3px 2px 8px rgba(0,0,0,0.18);
+  transition: background 0.15s;
+}
+
+.highlight-panel-tab:hover {
+  background: #1d4ed8;
+}
+
+.highlight-panel-inner {
+  padding: 16px 18px 18px;
+}
+
+.highlight-panel-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.highlight-panel h3 {
+  margin: 0;
+  font-size: 15px;
+  color: #222;
+}
+
+.hl-toggle-label {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #555;
+  cursor: pointer;
+  user-select: none;
+}
+
+.hl-toggle-label input[type="checkbox"] {
+  cursor: pointer;
+  width: 14px;
+  height: 14px;
+}
+
+.highlight-panel label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #555;
+}
+
+.highlight-panel input[type="text"]#texthighlight {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-bottom: 14px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+/* hide the raw coloris text input — coloris renders its own swatch trigger */
+.highlight-panel input[type="text"]#highlightcolor {
+  display: none;
+}
+
+/* coloris trigger button — force full width */
+.highlight-panel .clr-field {
+  display: block !important;
+  width: 100% !important;
+  margin-bottom: 14px;
+}
+
+.highlight-panel .clr-field button {
+  display: block !important;
+  width: 100% !important;
+  height: 44px !important;
+  border-radius: 8px !important;
+  border: 1px solid #ccc !important;
+  cursor: pointer !important;
+}
+
+/* coloris dialog — high z-index so it clears all fixed panels */
+.clr-picker {
+  z-index: 9999 !important;
+}
+
+/* apply button */
+.highlight-panel button.apply-highlight-btn {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  background: #2563eb;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+  margin-bottom: 4px;
+}
+
+.highlight-panel button.apply-highlight-btn:hover {
+  background: #1d4ed8;
+}
+
+.current-highlight {
+  margin-bottom: 14px;
+}
+
+#current-highlighted-text {
+  min-height: 36px;
+  max-height: 110px;
+  overflow-y: auto;
+  padding: 6px 8px;
+  background: #f7f8fa;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 13px;
+  color: #333;
+  word-break: break-word;
+}
+
+#highlight-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.highlight-item {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 4px 6px;
+  margin-bottom: 4px;
+  background: #f7f8fa;
+  border-radius: 6px;
+}
+
+/* swatch-as-checkbox: filled=on, hollow=off */
+.hl-swatch {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  border: 2px solid var(--hl-color, #ccc);
+  background: transparent;
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.12s;
+}
+
+.hl-swatch.on {
+  background: var(--hl-color, #ccc);
+}
+
+.hl-item-text {
+  flex: 1;
+  font-size: 12px;
+  color: #333;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.remove-highlight-btn {
+  flex-shrink: 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background: #fff;
+  cursor: pointer;
+  font-size: 12px;
+  color: #888;
+  padding: 2px 6px;
+  line-height: 1;
+  transition: background 0.15s, color 0.15s;
+}
+
+.remove-highlight-btn:hover {
+  background: #fee2e2;
+  color: #d11a2a;
+  border-color: #fca5a5;
+}
