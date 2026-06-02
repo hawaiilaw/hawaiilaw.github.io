@@ -168,6 +168,7 @@ function renderSidebar() {
         var checkbox = document.createElement('input');
         checkbox.type = 'checkbox';
         checkbox.tabIndex = -1;
+        checkbox.addEventListener('click', function(e) { e.preventDefault(); });
 
         var idLabel = document.createElement('span');
         idLabel.className = 'article-id';
