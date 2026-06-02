@@ -444,7 +444,8 @@ function onItemMouseDown(e) {
     dragTargetState = !currentlyChecked;
     setItemChecked(item, dragTargetState);
     lastClickedId = id;
-    e.preventDefault();
+    // e.preventDefault();
+    // removed to allow browser to show correct state
     return;
   }
 
