@@ -1,4 +1,6 @@
-var CHUNKS_DIR = 'chunks/';
+// CHUNKS_DIR is set by the tiny bootstrap <script> emitted by reader_template.make_reader;
+// fall back to 'chunks/' for standalone testing when no bootstrap ran.
+var CHUNKS_DIR = (typeof window !== 'undefined' && window.CHUNKS_DIR) || 'chunks/';
 
 var OVERVIEW_URL        = 'https://codelibrary.amlegal.com/codes/honolulu/latest/overview';
 var STORAGE_KEY         = 'ord-reader-loaded-articles';
@@ -1098,7 +1100,7 @@ function isChapterFavorited(chKey) {
   var favs = getFavorites();
   for (var k in favs) {
     if (!favs.hasOwnProperty(k)) { continue; }
-    if (favs[k].chapterKey === chKey) { return true; }
+    if (favs[k].type === 'chapter-set' && favs[k].chapterKey === chKey) { return true; }
   }
   return false;
 }
@@ -1606,6 +1608,38 @@ function finderEnter(query) {
         closeNickModal();
       }
     });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', wire);
+  } else {
+    wire();
+  }
+})();
+
+
+// .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-
+// / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \
+//`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'
+// Sidebar control wiring (replaces inline onclick attrs in template)
+// .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-
+
+
+(function() {
+  function wire() {
+    var btnAll  = document.getElementById('btn-select-all');
+    var btnNone = document.getElementById('btn-select-none');
+    var btnFavs = document.getElementById('btn-favorites');
+    var liveLink = document.getElementById('check-live-link');
+
+    if (btnAll)   { btnAll.addEventListener('click',  function() { selectAll(); }); }
+    if (btnNone)  { btnNone.addEventListener('click', function() { selectNone(); }); }
+    if (btnFavs)  { btnFavs.addEventListener('click', function() { toggleFavoritesPanel(); }); }
+    if (liveLink) {
+      liveLink.addEventListener('click', function(e) {
+        e.preventDefault();
+        checkLive();
+      });
+    }
   }
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', wire);

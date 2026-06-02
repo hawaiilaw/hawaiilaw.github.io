@@ -44,7 +44,22 @@ function reapplyHighlights(container) {
   });
 }
 
+// escape regex metacharacters in a literal search term
+function escapeRegExp(s) {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+// dataset key used on highlight spans -- always lowercased so on/off and remove
+// selectors can find every span regardless of source casing
+function highlightKey(textToFind) {
+  return textToFind.toLowerCase();
+}
+
 function highlightTextNodes(root, textToFind, highlightColor) {
+  if (!textToFind) { return; }
+  var re      = new RegExp(escapeRegExp(textToFind), 'gi');
+  var dataKey = highlightKey(textToFind);
+
   var walker = document.createTreeWalker(
     root,
     NodeFilter.SHOW_TEXT,
@@ -55,7 +70,8 @@ function highlightTextNodes(root, textToFind, highlightColor) {
         if (node.parentNode.classList && node.parentNode.classList.contains('highlight')) {
           return NodeFilter.FILTER_REJECT;
         }
-        return node.nodeValue.includes(textToFind)
+        re.lastIndex = 0;
+        return re.test(node.nodeValue)
           ? NodeFilter.FILTER_ACCEPT
           : NodeFilter.FILTER_REJECT;
       }
@@ -68,22 +84,35 @@ function highlightTextNodes(root, textToFind, highlightColor) {
   }
 
   textNodes.forEach(function(node) {
-    var text  = node.nodeValue;
-    var parts = text.split(textToFind);
-    if (parts.length < 2) { return; }
-
+    var text     = node.nodeValue;
     var fragment = document.createDocumentFragment();
-    parts.forEach(function(part, index) {
-      fragment.appendChild(document.createTextNode(part));
-      if (index < parts.length - 1) {
-        var span = document.createElement('span');
-        span.className = 'highlight';
-        span.dataset.highlightText = textToFind;
-        span.style.backgroundColor = highlightColor;
-        span.textContent = textToFind;
-        fragment.appendChild(span);
+    var lastIndex = 0;
+    var match;
+
+    re.lastIndex = 0;
+    while ((match = re.exec(text)) !== null) {
+      // gap before this match
+      if (match.index > lastIndex) {
+        fragment.appendChild(document.createTextNode(text.slice(lastIndex, match.index)));
       }
-    });
+      var span = document.createElement('span');
+      span.className = 'highlight';
+      span.dataset.highlightText = dataKey;
+      span.style.backgroundColor = highlightColor;
+      span.textContent = match[0];                // preserve original document casing
+      fragment.appendChild(span);
+      lastIndex = match.index + match[0].length;
+      // safety: never busy-loop on a zero-length match
+      if (match[0].length === 0) { re.lastIndex++; }
+    }
+
+    // nothing matched -- leave the node alone
+    if (lastIndex === 0) { return; }
+
+    // tail after last match
+    if (lastIndex < text.length) {
+      fragment.appendChild(document.createTextNode(text.slice(lastIndex)));
+    }
 
     if (node.parentNode) { node.parentNode.replaceChild(fragment, node); }
   });
@@ -91,7 +120,7 @@ function highlightTextNodes(root, textToFind, highlightColor) {
 
 function setHighlightOn(textToFind, highlightColor, on) {
   document.querySelectorAll(
-    '.highlight[data-highlight-text="' + CSS.escape(textToFind) + '"]'
+    '.highlight[data-highlight-text="' + CSS.escape(highlightKey(textToFind)) + '"]'
   ).forEach(function(span) {
     if (on) {
       span.style.backgroundColor = highlightColor;
@@ -150,7 +179,7 @@ function highlightText(textToFind, highlightColor, root, addPanelEntry, startOn)
 
   removeBtn.onclick = function() {
     document.querySelectorAll(
-      '.highlight[data-highlight-text="' + CSS.escape(textToFind) + '"]'
+      '.highlight[data-highlight-text="' + CSS.escape(highlightKey(textToFind)) + '"]'
     ).forEach(function(span) {
       span.replaceWith(document.createTextNode(span.textContent));
     });

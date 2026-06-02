@@ -58,3 +58,53 @@ function applyHighlightAndAdvance() {
     initColoris();
   }
 })();
+
+
+// .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-
+// / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \
+//`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'
+// Highlight panel wiring (replaces inline onclicks stripped by chunk.py)
+// .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-
+
+
+(function() {
+  function wirePanel() {
+    var tab      = document.querySelector('.highlight-panel-tab');
+    var applyBtn = document.querySelector('.apply-highlight-btn');
+    var hlToggle = document.getElementById('hl-toggle');
+    var textEl   = document.getElementById('texthighlight');
+
+    var form = document.querySelector('#highlight-panel form');
+    if (form) {
+      form.addEventListener('submit', function(e) { e.preventDefault(); });
+    }
+
+    if (tab) {
+      tab.addEventListener('click', function() {
+        var panel = document.getElementById('highlight-panel');
+        if (panel) { panel.classList.toggle('open'); }
+      });
+    }
+
+    if (applyBtn) {
+      applyBtn.addEventListener('click', function() { applyHighlightAndAdvance(); });
+    }
+
+    if (hlToggle) {
+      hlToggle.addEventListener('change', function() {
+        toggleHighlightVisibility(hlToggle.checked);
+      });
+    }
+
+    if (textEl) {
+      textEl.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') { applyHighlightAndAdvance(); }
+      });
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', wirePanel);
+  } else {
+    wirePanel();
+  }
+})();

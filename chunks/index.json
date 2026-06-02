@@ -1,5 +1,5 @@
 {
-  "supplement": "10, 12-2025, through Ordinance No. 25-56",
+  "supplement": "",
   "titles": [
     {
       "titleLabel": "Revised Ordinances of Honolulu",
@@ -4250,19 +4250,5 @@
         }
       ]
     }
-  ],
-  "county": {
-    "id": "roh",
-    "name": "Revised Ordinances of Honolulu",
-    "shortName": "ROH",
-    "accentColor": "#1a6fc4",
-    "headerColor": "#1a6fc4",
-    "sealUrl": "images/seal-roh.png",
-    "overviewUrl": "https://codelibrary.amlegal.com/codes/honolulu/latest/overview",
-    "searchScopeUrl": "codelibrary.amlegal.com/codes/honolulu",
-    "source": "amlegal",
-    "supplementLabel": "Supplement",
-    "newLegislationUrl": "http://files.amlegal.com/pdffiles/Honolulu/HonoluluALS.pdf",
-    "newLegislationLabel": "New Legislation PDF"
-  }
+  ]
 }

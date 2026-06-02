@@ -11,8 +11,8 @@
   --chapter-color: #333333;
   --item-hover: #f0f6ff;
   --item-selected: #dbeafe;
-  --item-loaded: #dcfce7;
-  --item-selected-loaded: #bbf7d0;
+  --item-loaded: #bbf7d0;
+  --item-selected-loaded: #86efac;
 }
 
 * {
@@ -661,10 +661,13 @@ body > div {
 }
 
 .article-item input[type="checkbox"] {
-  margin-top: 2px;
   flex-shrink: 0;
   cursor: pointer;
-  pointer-events: none;
+  pointer-events: all;
+  width: 15px;
+  height: 15px;
+  margin-top: 1px;
+  accent-color: var(--accent);
 }
 
 .article-id {
