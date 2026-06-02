@@ -915,6 +915,13 @@ input[type="checkbox"] {
     display: inline !important;
 }
 
+.clr-picker.clr-open, .clr-picker[data-inline=true] {
+  display: flow;
+  position: absolute;
+  right: 10px;
+  top: 310px;
+}
+
 /* pau fix */
 
 .hl-swatch {
