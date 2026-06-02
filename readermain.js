@@ -688,7 +688,7 @@ function scrollToChunk(id) {
     var blockTop     = block.getBoundingClientRect().top;
     var mainTop      = main.getBoundingClientRect().top;
     var targetScroll = main.scrollTop + (blockTop - mainTop);
-    main.scrollTo({top: targetScroll, behavior 'smooth' });
+    main.scrollTo({top: targetScroll, behavior: 'smooth' });
   });
 }
 
