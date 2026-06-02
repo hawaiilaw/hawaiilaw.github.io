@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <title>Ordinance Reader</title>
+<link id="favicon" rel="icon" type="image/png" href="images/favicon-roh.png"/>
 <link rel="stylesheet" href="coloris.min.css"/>
 <link rel="stylesheet" href="lawreader.css"/>
 
@@ -54,16 +55,18 @@
 </div>
 
 <div id="content-area">
+  <div id="main">
+    <div id="main-inner">
+      <div id="empty-msg">Check sections on the left to load them.</div>
+    </div>
+  </div>
   <div class="highlight-panel" id="highlight-panel">
-<div class="highlight-panel-tab" onclick="
-    var p = document.getElementById('highlight-panel');
-    p.classList.toggle('open');
-  ">Highlight</div>
+<div class="highlight-panel-tab">Highlight</div>
 <div class="highlight-panel-inner">
 <div class="highlight-panel-title-row">
 <h3>Text Highlighting</h3>
 <label class="hl-toggle-label" title="Enable/disable all highlights">
-<input checked="" id="hl-toggle" onchange="toggleHighlightVisibility(this.checked)" type="checkbox"/>
+<input checked="" id="hl-toggle" type="checkbox"/>
         On
       </label>
 </div>
@@ -73,23 +76,18 @@
 <ul id="highlight-list"></ul>
 </div>
 </div>
-<form class="full" onsubmit="return false;">
+<form class="full">
 <label for="texthighlight">Text to Highlight</label>
-<input id="texthighlight" onkeydown="if(event.key==='Enter'){applyHighlightAndAdvance();}" type="text"/>
+<input id="texthighlight" type="text"/>
 <label for="highlightcolor">Color</label>
 <div class="clr-field" style="color: #ffff00;">
 <button aria-labelledby="highlightcolor" type="button"></button>
 <input data-coloris="" id="highlightcolor" type="text" value="#ffff00"/>
 </div>
-<button class="apply-highlight-btn" onclick="applyHighlightAndAdvance()" type="button">Apply Highlighting</button>
+<button class="apply-highlight-btn" type="button">Apply Highlighting</button>
 </form>
 </div>
 </div>
-  <div id="main">
-    <div id="main-inner">
-      <div id="empty-msg">Check sections on the left to load them.</div>
-    </div>
-  </div>
 </div>
 
 </div><!-- /#layout -->

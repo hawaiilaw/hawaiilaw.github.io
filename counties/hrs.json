@@ -5,6 +5,7 @@
   "accentColor": "#2e7d32",
   "headerColor": "#1b5e20",
   "sealUrl": "images/seal-hrs.png",
+  "faviconUrl": "images/favicon-hrs.png",
   "overviewUrl": "https://www.capitol.hawaii.gov/hrscurrent/",
   "searchScopeUrl": "capitol.hawaii.gov/hrscurrent",
   "source": "hrs",

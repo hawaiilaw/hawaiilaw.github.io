@@ -660,14 +660,18 @@ body > div {
   background: var(--item-selected-loaded);
 }
 
-.article-item input[type="checkbox"] {
-  flex-shrink: 0;
-  cursor: pointer;
-  pointer-events: all;
+/* unified checkbox size for all real checkboxes in the reader */
+input[type="checkbox"] {
   width: 15px;
   height: 15px;
-  margin-top: 1px;
   accent-color: var(--accent);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.article-item input[type="checkbox"] {
+  pointer-events: all;
+  margin-top: 1px;
 }
 
 .article-id {
@@ -875,9 +879,7 @@ body > div {
 }
 
 .hl-toggle-label input[type="checkbox"] {
-  cursor: pointer;
-  width: 14px;
-  height: 14px;
+  margin: 0;
 }
 
 /* highlight list items */
@@ -896,7 +898,7 @@ body > div {
   width: 20px;
   height: 20px;
   border-radius: 4px;
-  border: 2px solid var(--hl-color, #ccc);
+  border: 2px solid #222;
   background: transparent;
   cursor: pointer;
   padding: 0;
@@ -949,10 +951,23 @@ body > div {
   border-radius: 8px !important;
   border: 1px solid #ccc !important;
   cursor: pointer !important;
+  pointer-events: all !important;
 }
 
-/* coloris dialog -- must be fixed+high z so it escapes overflow:hidden ancestors */
+/* hide the raw text input -- coloris still uses it as data binding target */
+.highlight-panel .clr-field input[type="text"] {
+  display: none !important;
+}
+
+/* hide the hex value input inside the coloris picker dialog */
+.clr-picker input.clr-color {
+  display: none !important;
+}
+
+/* coloris dialog -- fixed position + high z so it escapes overflow:hidden ancestors
+   and never overlaps panel content */
 .clr-picker {
+  position: fixed !important;
   z-index: 9999 !important;
 }
 

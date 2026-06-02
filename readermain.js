@@ -1678,6 +1678,11 @@ indexXhr.onload = function() {
     }
     var sealEl = document.getElementById('top-bar-seal');
     if (sealEl && c.sealUrl) { sealEl.src = c.sealUrl; sealEl.style.display = ''; }
+    // swap favicon to county-specific icon if faviconUrl is set in county config
+    if (c.faviconUrl) {
+      var faviconEl = document.getElementById('favicon');
+      if (faviconEl) { faviconEl.href = c.faviconUrl; }
+    }
     var titleEl = document.getElementById('top-bar-title');
     if (titleEl && c.name) { titleEl.textContent = c.name; }
     if (c.overviewUrl) { OVERVIEW_URL = c.overviewUrl; }
