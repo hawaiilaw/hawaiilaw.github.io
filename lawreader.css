@@ -893,6 +893,30 @@ input[type="checkbox"] {
   border-radius: 6px;
 }
 
+/* fixes for color swatch */
+
+.highlight-panel .clr-field:has(#highlightcolor) {
+    height: 44px;
+    padding-top:5px
+}
+
+.highlight-panel label[for="highlightcolor"]::before {
+    white-space: pre;
+    content: '\A\a';
+}
+
+.highlight-panel ul#highlight-list {
+    background: lightblue;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.highlight-panel .clr-field input[type="text"] {
+    display: inline !important;
+}
+
+/* pau fix */
+
 .hl-swatch {
   flex-shrink: 0;
   width: 20px;
