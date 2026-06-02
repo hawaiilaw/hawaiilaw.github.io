@@ -677,7 +677,7 @@ function loadChunk(id) {
 
   xhr.send();
 }
-
+/* old scrolltochunk 
 function scrollToChunk(id) {
   var block = document.getElementById('chunk-' + id);
   var main  = document.getElementById('main');
@@ -689,6 +689,38 @@ function scrollToChunk(id) {
     var mainTop      = main.getBoundingClientRect().top;
     var targetScroll = main.scrollTop + (blockTop - mainTop);
     main.scrollTo({top: targetScroll, behavior: 'smooth' });
+  });
+}
+*/
+// new scrollToChunk for anim
+function scrollToChunk(id) {
+  var block = document.getElementById('chunk-' + id);
+  var main  = document.getElementById('main');
+  if (!block || !main) { return; }
+
+  requestAnimationFrame(function() {
+    var blockTop     = block.getBoundingClientRect().top;
+    var mainTop      = main.getBoundingClientRect().top;
+    var targetScroll = main.scrollTop + (blockTop - mainTop);
+
+    var startScroll  = main.scrollTop;
+    var distance     = targetScroll - startScroll;
+    var duration     = 400; // ms
+    var startTime    = null;
+
+    function easeInOut(t) {
+      return t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
+    }
+
+    function step(timestamp) {
+      if (!startTime) { startTime = timestamp; }
+      var elapsed  = timestamp - startTime;
+      var progress = Math.min(elapsed / duration, 1);
+      main.scrollTop = startScroll + distance * easeInOut(progress);
+      if (progress < 1) { requestAnimationFrame(step); }
+    }
+
+    requestAnimationFrame(step);
   });
 }
 
