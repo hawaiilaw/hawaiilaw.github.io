@@ -917,9 +917,9 @@ input[type="checkbox"] {
 
 .clr-picker.clr-open, .clr-picker[data-inline=true] {
   display: flow;
-  position: absolute;
-  right: 10px;
-  top: 310px;
+    right: 10px !important;
+    top: 300px !important;
+    left: unset !important;
 }
 
 /* pau fix */
